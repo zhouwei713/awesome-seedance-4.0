@@ -1,6 +1,6 @@
-# Awesome GPT-4o Image Generations ✨
+# Awesome GPT-4o Images ✨
 
-🎉 欢迎来到 Awesome GPT-4o Image Generations！
+🎉 欢迎来到 精选的GPT-4o生成图片集锦！
 
 本项目旨在收集和展示由 OpenAI 最新的旗舰多模态模型 **GPT-4o** 生成的精彩、有趣或具有代表性的图片案例。
 
