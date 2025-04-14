@@ -72,6 +72,7 @@
 38. [案例 38：手绘信息图卡片 (by @dotey)](#案例-38手绘信息图卡片-by-dotey)
 39. [案例 39：卡通插画 (by @dotey)](#案例-39卡通插画-by-dotey)
 40. [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#案例-40日系双格漫画-少女总统红温了-by-hellokaton)
+41. [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
 ---
 
 
@@ -745,6 +746,21 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 ```
 
 **需上传参考图片：** 需要上传一张人物照片作为参考。
+
+
+## 案例 41：微型立体场景 (孙悟空三打白骨精) (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1911609122547449886)
+
+<img src="./examples/example_miniature_journey_west.jpeg" width="300" alt="Q版孙悟空三打白骨精微型立体场景，移轴摄影风格">
+
+**提示词：**
+```
+微型立体场景呈现，运用移轴摄影的技法，呈现出Q版【孙悟空三打白骨精】场景
+```
+
+*注意：提示词中括号内的【孙悟空三打白骨精】可以替换为其他中文场景，如“孙悟空大闹天宫”、“哪吒闹海”、“武松打虎”、“黛玉葬花”、“孙悟空三打白骨精”、“关云长过五关斩六将”等。*
+
 
 
 ---

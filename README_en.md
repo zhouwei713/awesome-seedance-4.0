@@ -75,6 +75,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 38. [Example 38: Hand-drawn Infographic Card (IP) (by @dotey)](#example-38-hand-drawn-infographic-card-ip-by-dotey)
 39. [Example 39: Cartoon Illustration (Computer Head) (by @dotey)](#example-39-cartoon-illustration-computer-head-by-dotey)
 40. [Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#example-40-japanese-style-two-panel-manga-angry-girl-president-by-hellokaton)
+41. [Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by @dotey)](#example-41-miniature-diorama-monkey-king-fights-white-bone-demon-by-dotey)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -711,6 +712,19 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 ```
 **Reference Image Required:** A photo of a person is needed for reference.
+
+
+## Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by [@dotey](https://x.com/dotey))
+
+[Source Link](https://x.com/dotey/status/1911609122547449886)
+
+<img src="./examples/example_miniature_journey_west.jpeg" width="300" alt="Miniature Q-version diorama of Journey to the West (Monkey King fights White Bone Demon) in tilt-shift photography style">
+
+**Prompt:**
+```
+微型立体场景呈现，运用移轴摄影的技法，呈现出Q版【孙悟空三打白骨精】场景
+```
+*Note: The Chinese text within the brackets 【孙悟空三打白骨精】 (Sun Wukong San Da Baigu Jing - Monkey King Thrice Defeats the White Bone Demon) in the prompt can be replaced with other Chinese scenes, such as "孙悟空大闹天宫" (Sun Wukong Da Nao Tiangong - Monkey King Wreaks Havoc in Heaven), "哪吒闹海" (Nezha Nao Hai - Nezha Fights the Sea Dragon), "武松打虎" (Wu Song Da Hu - Wu Song Fights the Tiger), "黛玉葬花" (Daiyu Zang Hua - Daiyu Buries Flowers), or "关云长过五关斩六将" (Guan Yunchang Guo Wu Guan Zhan Liu Jiang - Guan Yu Passes Five Gates and Slays Six Generals), according to the original tweet.*
 
 ---
 
