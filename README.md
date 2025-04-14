@@ -798,14 +798,14 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 特别感谢以下用户分享了他们鼓舞人心的作品 ✨：
 
-*   [-Zho-](https://x.com/ZHO_ZHO_ZHO)
-*   [Gizem Akdag](https://x.com/gizakdag)
-*   [宝玉](https://x.com/dotey)
-*   [balconychy(贝壳里奇)](https://x.com/balconychy)
-*   [Daniel](https://x.com/0xdlk)
-*   [RichChat](https://x.com/richardchang)
-*   [歸藏(guizang.ai)](https://x.com/op7418)
-*   [katon](https://x.com/hellokaton)
+*   [-Zho- (@ZHO_ZHO_ZHO)](https://x.com/ZHO_ZHO_ZHO)
+*   [Gizem Akdag (@gizakdag)](https://x.com/gizakdag)
+*   [宝玉 (@dotey)](https://x.com/dotey)
+*   [balconychy(贝壳里奇) (@balconychy)](https://x.com/balconychy)
+*   [Daniel (@0xdlk)](https://x.com/0xdlk)
+*   [RichChat (@richardchang)](https://x.com/richardchang)
+*   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
+*   [katon (@hellokaton)](https://x.com/hellokaton)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️

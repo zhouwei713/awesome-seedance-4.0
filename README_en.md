@@ -764,14 +764,14 @@ The content of this collection heavily relies on the creative prompts and wonder
 
 Special thanks to the following users for sharing their inspiring work ✨:
 
-*   [-Zho-](https://x.com/ZHO_ZHO_ZHO)
-*   [Gizem Akdag](https://x.com/gizakdag)
-*   [宝玉 (baoyu)](https://x.com/dotey)
-*   [balconychy(贝壳里奇)](https://x.com/balconychy)
-*   [Daniel](https://x.com/0xdlk)
-*   [RichChat](https://x.com/richardchang)
-*   [歸藏(guizang.ai)](https://x.com/op7418)
-*   [katon](https://x.com/hellokaton)
+*   [-Zho- (@ZHO_ZHO_ZHO)](https://x.com/ZHO_ZHO_ZHO)
+*   [Gizem Akdag (@gizakdag)](https://x.com/gizakdag)
+*   [宝玉 (@dotey)](https://x.com/dotey)
+*   [balconychy(贝壳里奇) (@balconychy)](https://x.com/balconychy)
+*   [Daniel (@0xdlk)](https://x.com/0xdlk)
+*   [RichChat (@richardchang)](https://x.com/richardchang)
+*   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
+*   [katon (@hellokaton)](https://x.com/hellokaton)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
