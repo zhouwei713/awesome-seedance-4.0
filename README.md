@@ -1,5 +1,8 @@
 # Awesome GPT-4o Images ✨
 
+[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
+
 🎉 欢迎来到 精选的GPT-4o生成图片集锦！
 
 本项目旨在收集和展示由 OpenAI 最新的旗舰多模态模型 **GPT-4o** 生成的精彩、有趣或具有代表性的图片案例。
