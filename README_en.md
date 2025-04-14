@@ -76,6 +76,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 39. [Example 39: Cartoon Illustration (Computer Head) (by @dotey)](#example-39-cartoon-illustration-computer-head-by-dotey)
 40. [Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#example-40-japanese-style-two-panel-manga-angry-girl-president-by-hellokaton)
 41. [Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by @dotey)](#example-41-miniature-diorama-monkey-king-fights-white-bone-demon-by-dotey)
+42. [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#example-42-3d-q-version-couple-snow-globe-by-balconychy)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -725,6 +726,19 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 微型立体场景呈现，运用移轴摄影的技法，呈现出Q版【孙悟空三打白骨精】场景
 ```
 *Note: The Chinese text within the brackets 【孙悟空三打白骨精】 (Sun Wukong San Da Baigu Jing - Monkey King Thrice Defeats the White Bone Demon) in the prompt can be replaced with other Chinese scenes, such as "孙悟空大闹天宫" (Sun Wukong Da Nao Tiangong - Monkey King Wreaks Havoc in Heaven), "哪吒闹海" (Nezha Nao Hai - Nezha Fights the Sea Dragon), "武松打虎" (Wu Song Da Hu - Wu Song Fights the Tiger), "黛玉葬花" (Daiyu Zang Hua - Daiyu Buries Flowers), or "关云长过五关斩六将" (Guan Yunchang Guo Wu Guan Zhan Liu Jiang - Guan Yu Passes Five Gates and Slays Six Generals), according to the original tweet.*
+
+## Example 42: 3D Q-version Couple Snow Globe (by [@balconychy](https://x.com/balconychy))
+
+[Source Link](https://x.com/balconychy/status/1909908568129655248)
+
+<img src="./examples/example_3d_q_snowglobe_couple.jpeg" width="300" alt="3D Q-version couple inside a snow globe on a desk by a window">
+
+**Prompt:**
+```
+将附图中的人物转换成水晶球场景。 整体环境：水晶球放在窗户旁桌面上，背景模糊，暖色调。阳光透过球体，洒下点点金光，照亮了周围的黑暗。 水晶球内部：人物是可爱Q版3D造型，相互之间满眼的爱意。
+```
+
+**Reference Image Required:** A photo of a couple or another person.
 
 ---
 

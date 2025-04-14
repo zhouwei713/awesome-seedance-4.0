@@ -73,6 +73,7 @@
 39. [案例 39：卡通插画 (by @dotey)](#案例-39卡通插画-by-dotey)
 40. [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#案例-40日系双格漫画-少女总统红温了-by-hellokaton)
 41. [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
+42. [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
 ---
 
 
@@ -762,6 +763,17 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 *注意：提示词中括号内的【孙悟空三打白骨精】可以替换为其他中文场景，如“孙悟空大闹天宫”、“哪吒闹海”、“武松打虎”、“黛玉葬花”、“孙悟空三打白骨精”、“关云长过五关斩六将”等。*
 
 
+## 案例 42：3D Q版情侣水晶球 (by [@balconychy](https://x.com/balconychy))
+
+[原文链接](https://x.com/balconychy/status/1909908568129655248)
+
+<img src="./examples/example_3d_q_snowglobe_couple.jpeg" width="300" alt="3D Q版情侣水晶球">
+
+**提示词：**
+```
+将附图中的人物转换成水晶球场景。 整体环境：水晶球放在窗户旁桌面上，背景模糊，暖色调。阳光透过球体，洒下点点金光，照亮了周围的黑暗。 水晶球内部：人物是可爱Q版3D造型，相互之间满眼的爱意。
+```
+**需上传参考图片：** 一张情侣照片 或 一张其他人物照片。
 
 ---
 
