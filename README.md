@@ -68,7 +68,7 @@
 37. [案例 37：社交媒体帖子涂鸦 (by @op7418)](#案例-37社交媒体帖子涂鸦-by-op7418)
 38. [案例 38：手绘信息图卡片 (by @dotey)](#案例-38手绘信息图卡片-by-dotey)
 39. [案例 39：卡通插画 (by @dotey)](#案例-39卡通插画-by-dotey)
-
+40. [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#案例-40日系双格漫画-少女总统红温了-by-hellokaton)
 ---
 
 
@@ -711,6 +711,41 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
 ```
 
+## 案例 40：日系双格漫画 (少女总统红温了) (by [@hellokaton](https://x.com/hellokaton))
+
+[原文链接](https://x.com/hellokaton/status/1910900979194646959)
+
+<img src="./examples/example_two_panel_manga_president.jpeg" width="300" alt="日系双格漫画：少女总统因电话未接通而生气加关税">
+
+**提示词：**
+```
+创建一张日系萌系双格漫画，上下排列，主题：少女总统的工作日常。
+
+角色形象: 将上传的附件转换为日系萌系卡通女生形象的风格，保留原图所有细节，如服饰（西装）、发型（明亮的金黄色）、五官等。 
+
+第一格: 
+- 表情: 委屈巴巴，沮丧的表情，单手托腮 
+- 文字框: “肿么办嘛！他不跟我通话！(；´д｀)” 
+- 场景: 暖色调办公室，背后美国国旗，桌上放着一堆汉堡，一个复古红色转盘电话，人物在画面左边，电话在右边。  
+
+第二格:  
+- 表情: 咬牙切齿，暴怒，脸涨红 
+- 动作: 猛拍桌子，汉堡震得跳起来 
+- 文字泡: “哼！关税加倍！不理我是他们的损失！( `д´ )” - 场景: 和第一格相同，但一片狼藉。  
+
+其他说明:  
+- 文字采用简洁可爱的手写体，整体风格可爱而有趣。 
+- 构图饱满生动，请保留足够空间用于文字显示，适当留白。 
+- 图片比例 2:3。 
+- 画面整体色彩鲜艳，突出卡通风格。
+
+```
+
+**需上传参考图片：** 需要上传一张人物照片作为参考。
+
+
+---
+
 ## 🙏 致谢
 
 本案例集的内容很大程度上依赖于 AI 社区在 Twitter/X 上分享的创意提示词和精彩视觉效果。我们向所有案例的贡献者表示诚挚的感谢。😊
@@ -724,6 +759,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 *   [Daniel](https://x.com/0xdlk)
 *   [RichChat](https://x.com/richardchang)
 *   [歸藏(guizang.ai)](https://x.com/op7418)
+*   [katon](https://x.com/hellokaton)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
