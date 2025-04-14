@@ -74,6 +74,7 @@
 40. [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#案例-40日系双格漫画-少女总统红温了-by-hellokaton)
 41. [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
 42. [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
+43. [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
 ---
 
 
@@ -774,6 +775,20 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 将附图中的人物转换成水晶球场景。 整体环境：水晶球放在窗户旁桌面上，背景模糊，暖色调。阳光透过球体，洒下点点金光，照亮了周围的黑暗。 水晶球内部：人物是可爱Q版3D造型，相互之间满眼的爱意。
 ```
 **需上传参考图片：** 一张情侣照片 或 一张其他人物照片。
+
+## 案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
+
+<img src="./examples/example_matryoshka_pearl_earring.png" width="300" alt="Q版戴珍珠耳环的少女俄罗斯套娃">
+
+**提示词：**
+```
+把图片人物生成变成 Q 版可爱俄罗斯套娃🪆，大到小一共五个，放在精致的木桌上，横幅4:3比例
+```
+*注意：对原提示词的比例描述稍作修改。原始提示词见原文链接。*
+
+**需上传参考图片：** 需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](./references/Meisje_met_de_parel.jpg))。
 
 ---
 

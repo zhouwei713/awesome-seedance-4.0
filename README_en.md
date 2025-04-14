@@ -77,6 +77,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 40. [Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#example-40-japanese-style-two-panel-manga-angry-girl-president-by-hellokaton)
 41. [Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by @dotey)](#example-41-miniature-diorama-monkey-king-fights-white-bone-demon-by-dotey)
 42. [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#example-42-3d-q-version-couple-snow-globe-by-balconychy)
+43. [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#example-43-q-version-cute-matryoshka-dolls-girl-with-a-pearl-earring-by-zho_zho_zho)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -739,6 +740,21 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 ```
 
 **Reference Image Required:** A photo of a couple or another person.
+
+## Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
+
+<img src="./examples/example_matryoshka_pearl_earring.png" width="300" alt="Q-version Girl with a Pearl Earring as Matryoshka dolls">
+
+**Prompt:**
+```
+把图片人物生成变成 Q 版可爱俄罗斯套娃🪆，大到小一共五个，放在精致的木桌上，横幅4:3比例
+```
+
+*Note: The aspect ratio description in the prompt has been slightly modified. See the source link for the original prompt.*
+
+**Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg)).
 
 ---
 
