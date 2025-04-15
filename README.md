@@ -81,7 +81,8 @@ GPT‑4o 六大亮点
 41. [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
 42. [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
 43. [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
-44. [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai))
+44. [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai)
+45. [案例 45：3D Q版大学拟人化形象 (by @dotey)](#案例-453d-q版大学拟人化形象-by-dotey)
 ---
 
 
@@ -819,6 +820,19 @@ Colors: warm highlights, profession-matching hues.
 *注意：可替换【】括号内的职业为Designer、Doctor等等*
 
 **需上传参考图片：** 可选。可根据职业或角色描述生成，或上传照片作为参考。
+
+
+## 案例 45：3D Q版大学拟人化形象 (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1911988003729203648)
+
+<img src="./examples/example_university_mascot_npu.jpeg" width="300" alt="西北工业大学拟人化3D Q版美少女，体现航空航天航海特色">
+
+**提示词：**
+```
+給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
+```
+*注意：可替换【】括号内的学校名称和特色描述以生成不同大学的拟人化形象。*
 
 ---
 

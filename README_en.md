@@ -83,6 +83,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 42. [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#example-42-3d-q-version-couple-snow-globe-by-balconychy)
 43. [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#example-43-q-version-cute-matryoshka-dolls-girl-with-a-pearl-earring-by-zho_zho_zho)
 44. [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#example-44-rpg-style-character-card-creation-by-berryxia_ai)
+45. [Example 45: 3D Q-version University Anthropomorphic Mascot (by @dotey)](#example-45-3d-q-version-university-anthropomorphic-mascot-by-dotey)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -782,6 +783,19 @@ Colors: warm highlights, profession-matching hues.
 Note: Replace the 【】 placeholder in the prompt with specifics like "Designer", "Doctor", etc.
 
 **Reference Image Required:** Optional. Can be generated based on profession/role description or use an uploaded photo as reference.
+
+
+## Example 45: 3D Q-version University Anthropomorphic Mascot (by [@dotey](https://x.com/dotey))
+
+[Source Link](https://x.com/dotey/status/1911988003729203648)
+
+<img src="./examples/example_university_mascot_npu.jpeg" width="300" alt="Anthropomorphic 3D Q-version cute girl mascot for Northwestern Polytechnical University, showcasing aerospace and maritime features">
+
+**Prompt:**
+```
+給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
+```
+*Note: The university name 【西北工业大学】 (Northwestern Polytechnical University) and characteristic description 【航空航天航海三航】 (Aeronautics, Astronautics, and Marine Technology - "Three Ais") within the square brackets can be replaced to generate anthropomorphic mascots for different universities.*
 
 ---
 
