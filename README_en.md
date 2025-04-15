@@ -84,6 +84,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 43. [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#example-43-q-version-cute-matryoshka-dolls-girl-with-a-pearl-earring-by-zho_zho_zho)
 44. [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#example-44-rpg-style-character-card-creation-by-berryxia_ai)
 45. [Example 45: 3D Q-version University Anthropomorphic Mascot (by @dotey)](#example-45-3d-q-version-university-anthropomorphic-mascot-by-dotey)
+46. [Example 46: Happy Capsule Creation (by @ZHO_ZHO_ZHO)](#example-46-happy-capsule-creation-by-zho_zho_zho)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -796,6 +797,24 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
 ```
 *Note: The university name 【西北工业大学】 (Northwestern Polytechnical University) and characteristic description 【航空航天航海三航】 (Aeronautics, Astronautics, and Marine Technology - "Three Ais") within the square brackets can be replaced to generate anthropomorphic mascots for different universities.*
+
+
+## Example 46: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+
+<img src="./examples/example_happy_capsule.png" width="300" alt="Happy Capsule">
+
+**Prompt:**
+```
+Title (large font): Quick-acting Happy Capsules
+
+A small pill with Starbucks green on top and transparent on the bottom, with the Starbucks logo printed on it and a lot of coffee beans inside
+
+Instructions (small font): Please take it when you are sad, three times a day, two pills at a time
+
+The purchase button is the same color as the pill, and the price below is $9. Please follow the doctor's advice and purchase as appropriate
+```
 
 ---
 

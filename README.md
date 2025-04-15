@@ -83,6 +83,8 @@ GPT‑4o 六大亮点
 43. [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
 44. [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai)
 45. [案例 45：3D Q版大学拟人化形象 (by @dotey)](#案例-453d-q版大学拟人化形象-by-dotey)
+46. [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](#案例-46快乐胶囊制作-by-zho_zho_zho)
+
 ---
 
 
@@ -833,6 +835,24 @@ Colors: warm highlights, profession-matching hues.
 給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
 ```
 *注意：可替换【】括号内的学校名称和特色描述以生成不同大学的拟人化形象。*
+
+
+## 案例 46：快乐胶囊制作 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+
+<img src="./examples/example_happy_capsule.png" width="300" alt="快乐胶囊">
+
+**提示词：**
+```
+标题（大字）：速效快乐胶囊
+
+一颗上为星巴克绿下为透明的小药丸，上面印有星巴克logo，里面有很多咖啡豆
+
+说明（小字）：请在悲伤难过时服用，一日三次，一次两粒
+
+购买按钮 和 药丸颜色一致，下面价格：$9，请遵循医嘱酌情购买
+```
 
 ---
 
