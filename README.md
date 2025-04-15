@@ -81,6 +81,7 @@ GPT‑4o 六大亮点
 41. [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
 42. [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
 43. [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
+44. [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai))
 ---
 
 
@@ -796,6 +797,29 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **需上传参考图片：** 需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](./references/Meisje_met_de_parel.jpg))。
 
+
+## 案例 44：RPG 风格角色卡片制作 (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[原文链接](https://x.com/berryxia_ai/status/1911334046724165905)
+
+<img src="./examples/example_rpg_card_designer.png" width="300" alt="RPG 风格的设计师角色卡片">
+
+**提示词：**
+```
+Create a digital character card in RPG collectible style.
+The subject is a 【Programmer】, standing confidently with tools or symbols relevant to their job.
+Render it in 3D cartoon style, soft lighting, vivid personality.
+Include skill bars or stats like [Skill1 +x], [Skill2 +x, e.g., Creativity +10, UI/UX +8].
+Add a title banner on top and a nameplate on the bottom.
+Frame the card with clean edges like a real figure box.
+Make the background fit the profession's theme.
+Colors: warm highlights, profession-matching hues.
+```
+
+*注意：可替换【】括号内的职业为Designer、Doctor等等*
+
+**需上传参考图片：** 可选。可根据职业或角色描述生成，或上传照片作为参考。
+
 ---
 
 ## 🙏 致谢
@@ -812,6 +836,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 *   [RichChat (@richardchang)](https://x.com/richardchang)
 *   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
 *   [katon (@hellokaton)](https://x.com/hellokaton)
+*   [Berryxia.AI](https://x.com/berryxia_ai)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️

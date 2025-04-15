@@ -82,6 +82,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 41. [Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by @dotey)](#example-41-miniature-diorama-monkey-king-fights-white-bone-demon-by-dotey)
 42. [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#example-42-3d-q-version-couple-snow-globe-by-balconychy)
 43. [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#example-43-q-version-cute-matryoshka-dolls-girl-with-a-pearl-earring-by-zho_zho_zho)
+44. [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#example-44-rpg-style-character-card-creation-by-berryxia_ai)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -760,6 +761,28 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg)).
 
+## Example 44: RPG-Style Character Card Creation (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[Source Link](https://x.com/berryxia_ai/status/1911334046724165905)
+
+<img src="./examples/example_rpg_card_designer.png" width="300" alt="RPG-style character card for a Designer">
+
+**Prompt:**
+```
+Create a digital character card in RPG collectible style.
+The subject is a 【Programmer】, standing confidently with tools or symbols relevant to their job.
+Render it in 3D cartoon style, soft lighting, vivid personality.
+Include skill bars or stats like [Skill1 +x], [Skill2 +x, e.g., Creativity +10, UI/UX +8].
+Add a title banner on top and a nameplate on the bottom.
+Frame the card with clean edges like a real figure box.
+Make the background fit the profession's theme.
+Colors: warm highlights, profession-matching hues.
+```
+
+Note: Replace the 【】 placeholder in the prompt with specifics like "Designer", "Doctor", etc.
+
+**Reference Image Required:** Optional. Can be generated based on profession/role description or use an uploaded photo as reference.
+
 ---
 
 ## 🙏 Acknowledgements
@@ -776,6 +799,7 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [RichChat (@richardchang)](https://x.com/richardchang)
 *   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
 *   [katon (@hellokaton)](https://x.com/hellokaton)
+*   [Berryxia.AI](https://x.com/berryxia_ai)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
