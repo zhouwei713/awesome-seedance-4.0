@@ -83,6 +83,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 42. [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#example-42-3d-q-version-couple-snow-globe-by-balconychy)
 43. [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#example-43-q-version-cute-matryoshka-dolls-girl-with-a-pearl-earring-by-zho_zho_zho)
 44. [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#example-44-rpg-style-character-card-creation-by-berryxia_ai)
+45. [Example 45: Happy Capsule Creation (by @ZHO_ZHO_ZHO)](#example-45-happy-capsule-creation-by-zho_zho_zho)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -782,6 +783,23 @@ Colors: warm highlights, profession-matching hues.
 Note: Replace the 【】 placeholder in the prompt with specifics like "Designer", "Doctor", etc.
 
 **Reference Image Required:** Optional. Can be generated based on profession/role description or use an uploaded photo as reference.
+
+## Example 45: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+
+<img src="./examples/example_happy_capsule.png" width="300" alt="Happy Capsule">
+
+**Prompt:**
+```
+Title (large font): Quick-acting Happy Capsules
+
+A small pill with Starbucks green on top and transparent on the bottom, with the Starbucks logo printed on it and a lot of coffee beans inside
+
+Instructions (small font): Please take it when you are sad, three times a day, two pills at a time
+
+The purchase button is the same color as the pill, and the price below is $9. Please follow the doctor's advice and purchase as appropriate
+```
 
 ---
 

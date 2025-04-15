@@ -82,6 +82,7 @@ GPT‑4o 六大亮点
 42. [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
 43. [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
 44. [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai))
+45. [案例 45：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](#案例-45快乐胶囊制作-by-zho_zho_zho)
 ---
 
 
@@ -819,6 +820,24 @@ Colors: warm highlights, profession-matching hues.
 *注意：可替换【】括号内的职业为Designer、Doctor等等*
 
 **需上传参考图片：** 可选。可根据职业或角色描述生成，或上传照片作为参考。
+
+
+## 案例 45：快乐胶囊制作 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
+
+<img src="./examples/example_happy_capsule.png" width="300" alt="快乐胶囊">
+
+**提示词：**
+```
+标题（大字）：速效快乐胶囊
+
+一颗上为星巴克绿下为透明的小药丸，上面印有星巴克logo，里面有很多咖啡豆
+
+说明（小字）：请在悲伤难过时服用，一日三次，一次两粒
+
+购买按钮 和 药丸颜色一致，下面价格：$9，请遵循医嘱酌情购买
+```
 
 ---
 
