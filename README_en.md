@@ -85,6 +85,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 44. [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#example-44-rpg-style-character-card-creation-by-berryxia_ai)
 45. [Example 45: 3D Q-version University Anthropomorphic Mascot (by @dotey)](#example-45-3d-q-version-university-anthropomorphic-mascot-by-dotey)
 46. [Example 46: Happy Capsule Creation (by @ZHO_ZHO_ZHO)](#example-46-happy-capsule-creation-by-zho_zho_zho)
+47. [Example 47: ESC Keycap Miniature Diorama (by @egeberkina)](#example-47-esc-keycap-miniature-diorama-by-egeberkina)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -816,6 +817,17 @@ Instructions (small font): Please take it when you are sad, three times a day, t
 The purchase button is the same color as the pill, and the price below is $9. Please follow the doctor's advice and purchase as appropriate
 ```
 
+## Example 47: ESC Keycap Miniature Diorama (by [@egeberkina](https://x.com/egeberkina))
+
+[Source Link](https://x.com/egeberkina/status/1911368319212408926)
+
+<img src="./examples/example_esc_keycap_diorama.jpeg" width="300" alt="Miniature computer setup diorama inside an ESC keycap">
+
+**Prompt:**
+```
+A hyper-realistic isometric 3D render of a miniature computer setup inside a translucent mechanical keyboard keycap, specifically placed on the ESC key of a real matte-finished mechanical keyboard. Inside the keycap, a tiny figure sits in a modern ergonomic chair, wearing a cozy textured hoodie, working at a glowing ultra-realistic computer screen. The environment is packed with lifelike miniature tech accessories: real-material desk lamps, monitors with reflections, tiny speaker grills, tangled cables, and ceramic mugs. The base of the scene is made of soil, rocks, and moss, with photorealistic textures and imperfections. The lighting inside the cap mimics natural morning sun, casting soft shadows and warm tones, while the outside has cold ambient reflections from the surrounding keyboard. The word “ESC” is subtly etched onto the top of the translucent keycap with a faint frosted glass effect — just barely visible depending on the angle. The surrounding keyboard keys like F1, Q, Shift, and CTRL are crisp, textured, and photorealistically lit. Shot as if taken with a high-end mobile phone camera, with shallow depth of field, perfect white balance, and cinematic detail.
+```
+
 ---
 
 ## 🙏 Acknowledgements
@@ -833,6 +845,7 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
 *   [katon (@hellokaton)](https://x.com/hellokaton)
 *   [Berryxia.AI](https://x.com/berryxia_ai)
+*   [Ege (@egeberkina)](https://x.com/egeberkina)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️

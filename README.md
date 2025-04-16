@@ -84,6 +84,7 @@ GPT‑4o 六大亮点
 44. [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai)
 45. [案例 45：3D Q版大学拟人化形象 (by @dotey)](#案例-453d-q版大学拟人化形象-by-dotey)
 46. [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](#案例-46快乐胶囊制作-by-zho_zho_zho)
+47. [案例 47：键盘ESC 键帽微型立体模型 (by @egeberkina)](#案例-47键盘esc-键帽微型立体模型-by-egeberkina)
 
 ---
 
@@ -854,6 +855,21 @@ Colors: warm highlights, profession-matching hues.
 购买按钮 和 药丸颜色一致，下面价格：$9，请遵循医嘱酌情购买
 ```
 
+
+## 案例 47：键盘ESC 键帽微型立体模型 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1911368319212408926)
+
+<img src="./examples/example_esc_keycap_diorama.jpeg" width="300" alt="键盘 ESC 键帽内的微型电脑工作室立体模型">
+
+**提示词：**
+
+```
+一个超写实的等距视角 3D 渲染图，展示了一个微型电脑工作室，它位于一个半透明的机械键盘键帽内，该键帽特别放置在一个真实的哑光表面机械键盘的 ESC 键上。键帽内部，一个小人穿着舒适的有纹理连帽衫，坐在现代人体工学椅子上，正在一个发光的超逼真电脑屏幕前工作。环境充满了逼真的微型科技配件：真实材质的台灯、带有反光的显示器、微小的扬声器格栅、缠绕的电线和陶瓷杯子。场景底部由泥土、岩石和苔藓构成，具有照片级的纹理和瑕疵。键帽内部的光线模仿自然的清晨阳光，投下柔和的阴影和温暖的色调，而外部则有来自周围键盘的冷色调环境反射。单词“ESC”以微弱的磨砂玻璃效果巧妙地蚀刻在半透明键帽的顶部——根据角度仅勉强可见。周围的键盘按键如 F1、Q、Shift 和 CTRL 清晰、有纹理，并具有照片级的逼真光照。拍摄效果如同使用高端手机相机，具有浅景深、完美的白平衡和电影般的细节。
+```
+
+*注意：中文版本提示词由英文版本翻译而来，原提示词请查看英文版本*
+
 ---
 
 ## 🙏 致谢
@@ -871,6 +887,7 @@ Colors: warm highlights, profession-matching hues.
 *   [歸藏(guizang.ai) (@op7418)](https://x.com/op7418)
 *   [katon (@hellokaton)](https://x.com/hellokaton)
 *   [Berryxia.AI](https://x.com/berryxia_ai)
+*   [Ege (@egeberkina)](https://x.com/egeberkina)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
