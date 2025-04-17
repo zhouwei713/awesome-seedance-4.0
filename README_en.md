@@ -38,6 +38,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 
 **Note on Prompts:** For accuracy and reproducibility, prompts are provided in their original language (Chinese or English) as used for generation.
 
+<a id="example-toc"></a>
 ## 📖 Example Directory
 
 **Note on Prompts:** For accuracy and reproducibility, prompts are provided in their original language (Chinese or English) as used for generation.
@@ -110,6 +111,8 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 
 *Note: You can replace the city, country, landmark, and date placeholders. The example image uses "Rome", "Italy", "Colosseum", and "13 APR 2025" (date differs slightly from the base prompt structure).*
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 50: Physical Destruction Effect Card (Lara Croft) (by [@op7418](https://x.com/op7418))
 
@@ -124,6 +127,8 @@ A hyper-realistic, cinematic illustration depicting Lara Croft dynamically crash
 ```
 *Note: The original tweet mentioned key terms are "dimensional break effects" and "motion depth". The prompt above is a reconstruction based on the description.*
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 49: Fashion Magazine Cover Style (by [@dotey](https://x.com/dotey))
 
@@ -135,6 +140,8 @@ A hyper-realistic, cinematic illustration depicting Lara Croft dynamically crash
 ```
 A beautiful woman wearing a pink cheongsam, floral headwear with colorful flowers in her hair, and an elegant white lace collar around her neck. She is holding large butterflies in one hand. The photography style features high-definition details, resembling a fashion magazine cover design. The text "FASHION DESIGN" is displayed at the top center of the photo. The background is a minimalist, light gray solid color, designed to highlight the model.
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 48: Voxel Style 3D Icon Conversion (by [@BrettFromDJ](https://x.com/BrettFromDJ))
@@ -152,6 +159,8 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 
 **Reference Image Required:** Requires uploading two images: a reference image showing the desired voxel style icons (like the one provided by the tweet author), and the original icon to be transformed.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 47: ESC Keycap Miniature Diorama (by [@egeberkina](https://x.com/egeberkina))
 
@@ -163,6 +172,8 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 ```
 A hyper-realistic isometric 3D render of a miniature computer setup inside a translucent mechanical keyboard keycap, specifically placed on the ESC key of a real matte-finished mechanical keyboard. Inside the keycap, a tiny figure sits in a modern ergonomic chair, wearing a cozy textured hoodie, working at a glowing ultra-realistic computer screen. The environment is packed with lifelike miniature tech accessories: real-material desk lamps, monitors with reflections, tiny speaker grills, tangled cables, and ceramic mugs. The base of the scene is made of soil, rocks, and moss, with photorealistic textures and imperfections. The lighting inside the cap mimics natural morning sun, casting soft shadows and warm tones, while the outside has cold ambient reflections from the surrounding keyboard. The word “ESC” is subtly etched onto the top of the translucent keycap with a faint frosted glass effect — just barely visible depending on the angle. The surrounding keyboard keys like F1, Q, Shift, and CTRL are crisp, textured, and photorealistically lit. Shot as if taken with a high-end mobile phone camera, with shallow depth of field, perfect white balance, and cinematic detail.
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 46: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -182,6 +193,8 @@ Instructions (small font): Please take it when you are sad, three times a day, t
 The purchase button is the same color as the pill, and the price below is $9. Please follow the doctor's advice and purchase as appropriate
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 45: 3D Q-version University Anthropomorphic Mascot (by [@dotey](https://x.com/dotey))
 
@@ -194,6 +207,8 @@ The purchase button is the same color as the pill, and the price below is $9. Pl
 給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
 ```
 *Note: The university name 【西北工业大学】 (Northwestern Polytechnical University) and characteristic description 【航空航天航海三航】 (Aeronautics, Astronautics, and Marine Technology - "Three Ais") within the square brackets can be replaced to generate anthropomorphic mascots for different universities.*
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 44: RPG-Style Character Card Creation (by [@berryxia_ai](https://x.com/berryxia_ai))
@@ -218,6 +233,8 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Reference Image Required:** Optional. Can be generated based on profession/role description or use an uploaded photo as reference.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -234,6 +251,8 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg)).
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 42: 3D Q-version Couple Snow Globe (by [@balconychy](https://x.com/balconychy))
 
@@ -248,6 +267,8 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Reference Image Required:** A photo of a couple or another person.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by [@dotey](https://x.com/dotey))
 
@@ -260,6 +281,8 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 微型立体场景呈现，运用移轴摄影的技法，呈现出Q版【孙悟空三打白骨精】场景
 ```
 *Note: The Chinese text within the brackets 【孙悟空三打白骨精】 (Sun Wukong San Da Baigu Jing - Monkey King Thrice Defeats the White Bone Demon) in the prompt can be replaced with other Chinese scenes, such as "孙悟空大闹天宫" (Sun Wukong Da Nao Tiangong - Monkey King Wreaks Havoc in Heaven), "哪吒闹海" (Nezha Nao Hai - Nezha Fights the Sea Dragon), "武松打虎" (Wu Song Da Hu - Wu Song Fights the Tiger), "黛玉葬花" (Daiyu Zang Hua - Daiyu Buries Flowers), or "关云长过五关斩六将" (Guan Yunchang Guo Wu Guan Zhan Liu Jiang - Guan Yu Passes Five Gates and Slays Six Generals), according to the original tweet.*
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by [@hellokaton](https://x.com/hellokaton))
@@ -293,6 +316,8 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 ```
 **Reference Image Required:** A photo of a person is needed for reference.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 39: Cartoon Illustration (Computer Head) (by [@dotey](https://x.com/dotey))
 
@@ -304,6 +329,8 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 ```
 A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 38: Hand-drawn Infographic Card (IP) (by [@dotey](https://x.com/dotey))
@@ -323,6 +350,8 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 坚持每日更新，肯定会有结果，因为 99% 都坚持不了的！”
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 37: Social Media Post Doodle Overlay (by [@op7418](https://x.com/op7418))
 
@@ -335,6 +364,8 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
 ```
 **Reference Image Required:** A photo or screenshot.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 36: Minimalist 3D Illustration (Text Prompt) (by [@dotey](https://x.com/dotey))
@@ -387,6 +418,8 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 35: Fluffy Jack-o'-lantern (by [gizakdag](https://x.com/gizakdag))
 
@@ -398,6 +431,8 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 ```
 Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 34: Hand-drawn Infographic Card (Cognition) (by [@dotey](https://x.com/dotey))
@@ -421,6 +456,8 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 - 也遇不到「圈子」以外的机会。
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 33: Family Wedding Photo (Q-version) (by [@balconychy](https://x.com/balconychy))
 
@@ -434,6 +471,8 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 ```
 **Reference Image Required:** A family photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 32: Paper Cutout Style Job Ad (by [@dotey](https://x.com/dotey))
 
@@ -445,6 +484,8 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 ```
 The image shows professional drivers of cars and trucks at work, impressive urban and rural speeds, a positive team environment and modern visuals of the fleet - all this advertises a vacancy for drivers with competitive pay, flexible working hours and a clear call to institutions: "Apply today - we will start tomorrow!"
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 31: Anime Sticker Collection (by [@richardchang](https://x.com/richardchang))
@@ -458,6 +499,8 @@ The image shows professional drivers of cars and trucks at work, impressive urba
 Naruto stickers
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 30: 35mm Film Style Flying Island (by [@dotey](https://x.com/dotey))
 
@@ -469,6 +512,8 @@ Naruto stickers
 ```
 35 mm photo of Moscow floating in the sky on a flying islands
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 29: Famous Painting Character OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -488,6 +533,8 @@ Naruto stickers
 ```
 **Reference Image Required:** [Image of 'Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg).
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 28: Flat Sticker Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -500,6 +547,8 @@ Naruto stickers
 把这张照片设计成一个极简扁平插画风格的Q版贴纸，厚白边，保留人物特征，风格要可爱一些，人物要超出圆形区域边框，圆形区域要为纯色不要3d感，透明背景
 ```
 **Reference Image Required:** A clear profile photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 27: Q-version Emoji Sticker Pack Creation (by [@dotey](https://x.com/dotey))
@@ -522,6 +571,8 @@ Aspect ratio: 9:16
 ```
 **Reference Image Required:** A clear profile photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 26: Famous Painting Character Cereal Ad (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -534,6 +585,8 @@ Aspect ratio: 9:16
 《大师麦片》：根据我上传的照片的人物特征判断，为他生成一个符合他特质的燕麦片搭配（比如蔬菜、水果、酸奶、粗粮等等）和包装设计，然后生成他作为麦片包装盒封面人物 加 相应麦片搭配的广告封面，人物要保持特征、可爱Q版3d、c4d渲染风格，麦片所放置的地方的风格也要符合设定，比如放在厨房、超市 极简主义的设计台上等等，先做好设定，再生成图像
 ```
 **Reference Image Required:** [Image of 'Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg).
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 25: Minimalist 3D Illustration (by [@0xdlk](https://x.com/0xdlk))
@@ -584,6 +637,8 @@ Generate a toilet with the following JSON profile:
 }
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 24: Funko Pop Figure Creation (by [@dotey](https://x.com/dotey))
 
@@ -596,6 +651,8 @@ Generate a toilet with the following JSON profile:
 把照片中的人物变成 Funko Pop 公仔包装盒的风格，以等距视角（isometric）呈现，并在包装盒上标注标题为“JAMES BOND”。包装盒内展示的是照片中人物形象，旁边搭配有人物的必备物品（手枪、手表、西装、其他）同时，在包装盒旁边还应呈现该公仔本体的实物效果，采用逼真的、具有真实感的渲染风格。
 ```
 **Reference Image Required:** A clear half-body or full-body photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 23: "Titanic" Pose Parody (by [@balconychy](https://x.com/balconychy))
@@ -613,6 +670,8 @@ Generate a toilet with the following JSON profile:
 除了人物用Q版3D造型以外，其他环境都是实物。
 ```
 **Reference Image Required:** A couple's photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 22: Xiaohongshu Cover Image (by [@balconychy](https://x.com/balconychy))
@@ -643,6 +702,8 @@ Generate a toilet with the following JSON profile:
 图像9:16比例
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 21: Stick Figure Emoji Pack (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -658,6 +719,9 @@ Generate a toilet with the following JSON profile:
 ```
 **Reference Image Required:** A photo of a person.
 
+[⬆️ Back to Directory](#example-toc)
+
+
 ## Example 20: Four-Panel Manga (Theory of Relativity) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1904980568107819060)
@@ -668,6 +732,8 @@ Generate a toilet with the following JSON profile:
 ```
 make a colorful page of manga describing the theory of relativity. add some humor
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 19: Textbook Illustration Redraw (by [@balconychy](https://x.com/balconychy))
@@ -682,6 +748,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 **Reference Image Required:** An original textbook illustration.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 18: Pixar 3D Style (by [AnimeAI](https://animeai.online))
 
@@ -694,6 +762,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 以皮克斯 3D 风格重绘这张照片
 ```
 **Reference Image Required:** A photo of a person or other subject.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 17: Digimon Style Image (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -708,6 +778,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 **Reference Image Required:** A single person photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 16: Pudding Slot Machine (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -720,6 +792,9 @@ make a colorful page of manga describing the theory of relativity. add some humo
 将图标[🎰]变成美味可口布丁造型，Q弹质感，背景粉白渐变，整体甜美、轻盈、可爱
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
+
 ## Example 15: Satirical Poster Generation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
@@ -730,6 +805,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 14: "One Piece" Themed Figure Creation (by [@dotey](https://x.com/dotey))
@@ -746,6 +823,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Reference Image Required:** A half-body or full-body photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 13: Photo to 3D Q-version Style (by [@dotey](https://x.com/dotey))
 
@@ -758,6 +837,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变。
 ```
 **Reference Image Required:** A photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 12: 3D Couple Jewelry Box Figurine (by [@dotey](https://x.com/dotey))
@@ -775,6 +856,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 **Reference Image Required:** A couple's photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 11: PS2 Game Cover (GTA x Shrek) (by [@dotey](https://x.com/dotey))
 
@@ -786,6 +869,8 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA based in the Shrek Universe.
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 10: Satirical Cartoon Generation (by [@dotey](https://x.com/dotey))
@@ -799,6 +884,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 一幅讽刺漫画风格的插画，采用复古美式漫画风格，背景是一个多层货架，货架上都是一样的红色棒球帽，帽子正面印有大字标语“MAKE AMERICA GREAT AGAIN”，帽侧贴着白色标签写着“MADE IN CHINA”，特写视角聚焦其中一顶红色棒球帽。画面下方有价格牌，原价“$50.00”被粗黑线X划掉，改为“$77.00”，色调为怀旧的土黄与暗红色调，阴影处理带有90年代复古印刷质感。整体构图风格夸张讽刺，具讽刺政治消费主义的意味。
 ```
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 9: Famous Painting as Helium Balloon (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -811,6 +898,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 将图片中的人物变成玩偶形状的氦气球
 ```
 **Reference Image Required:** A half-body or full-body single person photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 8: Lego Collectible Figure (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -841,6 +930,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **Reference Image Required:** A half-body or full-body single person photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 7: Personalized Room Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -853,6 +944,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 为我生成我的房间设计（床、书架、沙发、电脑桌和电脑、墙上挂着绘画、绿植，窗外是城市夜景。可爱 3d 风格，c4d 渲染，轴测图。
 ```
 *Note: The original prompt generated the room based on ChatGPT's memory of the user. This version is slightly modified. Please refer to the original source.*
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 6: Character Stepping Through Portal (by [@dotey](https://x.com/dotey))
@@ -867,6 +960,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 (需要上传一张半身或者全身清晰照片作为输入)
 ```
 **Reference Image Required:** A clear half-body or full-body single person photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 5: Ghibli Style (by [AnimeAI](https://animeai.online))
@@ -883,6 +978,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 *If encountering content policy violations, add this sentence to the prompt: If there is inappropriate (sensitive) content in the background, it can be modified or deleted.*
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 4: Q-version Chinese Wedding Scene (by [@balconychy](https://x.com/balconychy))
 
@@ -896,6 +993,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **Reference Image Required:** A couple's photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 3: Vintage Promotional Poster (by [@dotey](https://x.com/dotey))
 
@@ -907,6 +1006,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 复古宣传海报风格，突出中文文字，背景为红黄放射状图案。画面中心位置有一位美丽的年轻女性，以精致复古风格绘制，面带微笑，气质优雅，具有亲和力。主题是GPT最新AI绘画服务的广告促销，强调‘惊爆价9.9/张’、‘适用各种场景、图像融合、局部重绘’、‘每张提交3次修改’、‘AI直出效果，无需修改’，底部醒目标注‘有意向点右下“我想要”’，右下角绘制一个手指点击按钮动作，左下角展示OpenAI标志。
 ```
+
+[⬆️ Back to Directory](#example-toc)
 
 
 ## Example 2: 3D Polaroid Breakout Effect (by [@dotey](https://x.com/dotey))
@@ -921,6 +1022,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **Reference Image Required:** A half-body or full-body single person photo.
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
 
@@ -933,6 +1036,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 将照片里的两个人转换成Q版 3D人物，场景换成求婚，背景换成淡雅五彩花瓣做的拱门，背景换成浪漫颜色，地上散落着玫瑰花瓣。除了人物采用Q版 3D人物风格，其他环境采用真实写实风格。
 ```
 **Reference Image Required:** A couple's photo.
+
+[⬆️ Back to Directory](#example-toc)
 
 ---
 
