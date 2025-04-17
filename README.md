@@ -88,7 +88,7 @@ GPT‑4o 六大亮点
 48. [案例 48：体素风格 3D 图标转换 (by @BrettFromDJ)](#案例-48体素风格-3d-图标转换-by-brettfromdj)
 49. [案例 49：时尚杂志封面风格 (by @dotey)](#案例-49时尚杂志封面风格-by-dotey)
 50. [案例 50：物理破坏效果卡片 (劳拉) (by @op7418)](#案例-50物理破坏效果卡片-劳拉-by-op7418)
-
+51. [案例 51：护照入境印章 (by @ZHO_ZHO_ZHO)](#案例-51护照入境印章-by-zho_zho_zho)
 ---
 
 
@@ -919,6 +919,20 @@ Colors: warm highlights, profession-matching hues.
 ```
 *注意：原推文提到核心词是 dimensional break effects 和 motion depth。*
 
+
+## 案例 51：护照入境印章 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接1](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
+[原文链接2](https://x.com/M_w14_/status/1912146666410459618)
+
+<img src="./examples/example_passport_stamp_beijing.jpeg" width="300" alt="北京故宫护照入境印章">
+
+**提示词：**
+```
+创建一个逼真的护照页，并盖上[北京, 中国]的入境章。章面应以粗体英文写明“欢迎来到北京”，并设计成圆形或椭圆形，并带有装饰性边框。章面应包含“ARRIVAL”字样和一个虚构的日期，例如“2025年4月16日”。在章面中加入{故宫}的微妙轮廓作为背景细节。使用深蓝色或红色墨水并略加晕染，以增强真实感。章面应略微倾斜，如同手工压印。护照页应清晰可见纸张纹理和安全图案
+```
+*注意：可替换提示词中括号内的城市、国家、地标和日期。*
+
 ---
 
 ## 🙏 致谢
@@ -938,6 +952,7 @@ Colors: warm highlights, profession-matching hues.
 *   [Berryxia.AI](https://x.com/berryxia_ai)
 *   [Ege (@egeberkina)](https://x.com/egeberkina)
 *   [Brett (@BrettFromDJ)](https://x.com/BrettFromDJ)
+*   [89'S (@M_w14_)](https://x.com/M_w14_)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
