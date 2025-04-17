@@ -89,7 +89,7 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 48. [Example 48: Voxel Style 3D Icon Conversion (by @BrettFromDJ)](#example-48-voxel-style-3d-icon-conversion-by-brettfromdj)
 49. [Example 49: Fashion Magazine Cover Style (by @dotey)](#example-49-fashion-magazine-cover-style-by-dotey)
 50. [Example 50: Physical Destruction Effect Card (Lara Croft) (by @op7418)](#example-50-physical-destruction-effect-card-lara-croft-by-op7418)
-
+51. [Example 51: Passport Entry Stamp (Rome) (by @M_w14_)](#example-51-passport-entry-stamp-by-m_w14_)
 ---
 
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
@@ -872,6 +872,19 @@ A hyper-realistic, cinematic illustration depicting Lara Croft dynamically crash
 *Note: The original tweet mentioned key terms are "dimensional break effects" and "motion depth". The prompt above is a reconstruction based on the description.*
 
 
+## Example 51: Passport Entry Stamp (by [@M_w14_](https://x.com/M_w14_))
+
+[Source Link](https://x.com/M_w14_/status/1912146666410459618)
+
+<img src="./examples/example_passport_stamp_rome.jpeg" width="300" alt="Passport entry stamp for Rome, Italy featuring the Colosseum">
+
+**Prompt (Structure by @M_w14_):**
+```
+Create a realistic passport page with an entry stamp for [{City}, {Country}]. The stamp should say "Welcome to {City}" in bold English, designed in a round or oval shape with decorative borders. Include the word "ARRIVAL" and a fictional date like "15 APR 2025" Incorporate a subtle silhouette of {Main Landmark} as a background detail within the stamp. Use deep blue or red ink with light smudges for added realism. The stamp should appear slightly angled, as if hand-pressed. The passport page should show visible paper texture and security patterns.
+```
+
+*Note: You can replace the city, country, landmark, and date placeholders. The example image uses "Rome", "Italy", "Colosseum", and "13 APR 2025" (date differs slightly from the base prompt structure).*
+
 ---
 
 ## 🙏 Acknowledgements
@@ -891,6 +904,7 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [Berryxia.AI](https://x.com/berryxia_ai)
 *   [Ege (@egeberkina)](https://x.com/egeberkina)
 *   [Brett (@BrettFromDJ)](https://x.com/BrettFromDJ)
+*   [89'S (@M_w14_)](https://x.com/M_w14_)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
