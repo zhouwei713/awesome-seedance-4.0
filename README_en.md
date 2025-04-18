@@ -456,7 +456,8 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 ## Example 35: Fluffy Jack-o'-lantern (by [gizakdag](https://x.com/gizakdag))
 
-[Source Link](https://x.com/gizakdag/status/1911075302941622512)
+[Source Link 1](https://x.com/gizakdag/status/1911075302941622512)
+[Source Link 2](https://x.com/dotey/status/1912276883196039520)
 
 <img src="./examples/example_fluffy_pumpkin.jpeg" width="300" alt="Hyperrealistic 3D render of a jack-o'-lantern emoji covered in soft orange fur">
 

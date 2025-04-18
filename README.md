@@ -460,14 +460,17 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 ## 案例 35：毛茸茸南瓜灯 (by [gizakdag](https://x.com/gizakdag))
 
-[原文链接](https://x.com/gizakdag/status/1911075302941622512)
+[原文链接1](https://x.com/gizakdag/status/1911075302941622512)
+[原文链接2](https://x.com/dotey/status/1912276883196039520)
 
 <img src="./examples/example_fluffy_pumpkin.jpeg" width="300" alt="毛茸茸南瓜灯">
 
 **提示词：**
 ```
-Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.
+将一个简单平面的矢量图标 [🎃] 转化为柔软、立体、毛茸茸的可爱物体。整体造型被浓密的毛发完全覆盖，毛发质感极其真实，带有柔和的阴影。物体居中悬浮于干净的浅灰色背景中，轻盈漂浮。整体风格超现实，富有触感和现代感，带来舒适和俏皮的视觉感受。采用摄影棚级灯光，高分辨率渲染，比例为1:1。
 ```
+
+*注：中文提示词 by @dotey*
 
 [⬆️ 返回目录](#example-toc)
 
