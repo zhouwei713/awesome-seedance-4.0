@@ -2,12 +2,34 @@
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
+<a href="https://github.com/jamez-bondos/awesome-gpt4o-images/stargazers">
+  <img src="https://img.shields.io/github/stars/jamez-bondos/awesome-gpt4o-images?style=social" alt="GitHub stars">
+</a>
 
 🎉 欢迎来到 GPT‑4o 图片精选！
 
-这里收集了 OpenAI 最新多模态模型 GPT‑4o 生成的精彩案例，展示其强大的文本‑图像理解与创作能力。
+这里收集了 OpenAI 最新多模态模型 GPT‑4o 生成图片的精彩案例和提示词。
 
-GPT‑4o 六大亮点
+案例主要来源于 Twitter/X 🐦，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
+
+<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
+
+---
+
+<a id="contents-toc"></a>
+## 目录
+
+- [🎨 GPT‑4o介绍](#gpt4o-toc)
+- [📖 案例目录](#example-toc)
+- [🛠️ 工具介绍](#tools-toc)
+- [💡 提示词技巧](#prompting-toc)
+- [🙏 致谢](#acknowledgements-toc)
+
+<a id="gpt4o-toc"></a>
+## 🎨 GPT‑4o介绍
+
+GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生成高质量图片，也支持图生图编辑，涵盖局部修改、风格转换及多图融合等高级操作。
+
 - 🧠 多模态：同时解析文本、图像，精准把握创作意图
 - ✍️ 精准出图：支持复杂提示词，快速生成高质量图像
 - 🎨 多样风格：吉卜力、厚涂、像素、3D 毛绒等任你选
@@ -15,26 +37,6 @@ GPT‑4o 六大亮点
 - ✏️ 易于再编辑：替换背景、改细节，二次创作无压力
 - ⚡️ 极速交互：响应更快，适合实时创意迭代
 
-案例主要来源于 Twitter/X 🐦，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
-
-
----
-
-## 🛠️ 工具介绍 
-
-以下是可以使用 GPT-4o 模型生成图片的应用：
-
-- **💬 [ChatGPT](https://chatgpt.com)：** OpenAI官方出品，可使用 GPT-4o 生成高质量图片，支持多风格、多细节控制，适合创意表达与内容创作。
-
-- **🎬 [Sora](https://sora.com)：** OpenAI官方出品，可通过 GPT-4o 生成逼真图像，支持图文结合、场景重建，适用于影视、动画等视觉创意场景。
-
-在无法直接访问 ChatGPT / Sora 的情况下，为了探索和生成类似本仓库展示的图片效果，推荐免费尝试我们开发的[AnimeAI](https://animeai.online)。
-
-## 💡 提示词技巧
-
-1. [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks) by [@dotey](https://x.com/dotey)
-2. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
-3. [Prompt Engineering 简体中文翻译版](https://baoyu.io/blog/google-prompt-engineering-whitepaper) by [@dotey](https://x.com/dotey)
 
 <a id="example-toc"></a>
 ## 📖 案例目录
@@ -93,8 +95,6 @@ GPT‑4o 六大亮点
 *   [案例 2：立体相框 (by @dotey)](#案例-2立体相框-by-dotey)
 *   [案例 1：Q版求婚场景 (by @balconychy)](#案例-1q版求婚场景-by-balconychy)
 
----
-
 ## 案例 53：Emoji 充气感靠垫 (by [@gizakdag](https://x.com/gizakdag))
 
 [原文链接](https://x.com/gizakdag/status/1912858535643197927)
@@ -108,7 +108,7 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 
 *注意：可将提示词中的 [🥹] 替换为其他 Emoji。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 52：纸艺风格 Emoji 图标 (by [@egeberkina](https://x.com/egeberkina))
@@ -124,7 +124,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 
 *注意：可将提示词中的 "🔥" 替换为其他 Emoji。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 51：护照入境印章 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -140,7 +140,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 ```
 *注意：可替换提示词中括号内的城市、国家、地标和日期。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 50：物理破坏效果卡片 (劳拉) (by [@op7418](https://x.com/op7418))
@@ -156,7 +156,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 ```
 *注意：原推文提到核心词是 dimensional break effects 和 motion depth。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 49：时尚杂志封面风格 (by [@dotey](https://x.com/dotey))
@@ -170,7 +170,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 一位美丽的女子身穿粉色旗袍，头戴精致的花饰，秀发中点缀着色彩缤纷的花朵，颈间装饰着优雅的白色蕾丝领子。她的一只手轻托着几只大型蝴蝶。整体拍摄风格呈现高清细节质感，类似时尚杂志封面设计，照片上方中央位置标有文字「FASHION DESIGN」。画面背景采用简约的纯浅灰色，以突出人物主体。
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 48：体素风格 3D 图标转换 (by [@BrettFromDJ](https://x.com/BrettFromDJ))
@@ -192,7 +192,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 
 **需上传参考图片：** 需要上传两张图片：一张包含期望体素风格图标的参考图（如推文作者提供），以及一张要转换的原始图标。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 47：键盘ESC 键帽微型立体模型 (by [@egeberkina](https://x.com/egeberkina))
@@ -209,7 +209,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 
 *注意：中文版本提示词由英文版本翻译而来，原提示词请查看英文版本*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 
@@ -230,7 +230,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 购买按钮 和 药丸颜色一致，下面价格：$9，请遵循医嘱酌情购买
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 45：3D Q版大学拟人化形象 (by [@dotey](https://x.com/dotey))
@@ -245,7 +245,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 ```
 *注意：可替换【】括号内的学校名称和特色描述以生成不同大学的拟人化形象。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 44：RPG 风格角色卡片制作 (by [@berryxia_ai](https://x.com/berryxia_ai))
@@ -270,7 +270,7 @@ Colors: warm highlights, profession-matching hues.
 
 **需上传参考图片：** 可选。可根据职业或角色描述生成，或上传照片作为参考。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -287,7 +287,7 @@ Colors: warm highlights, profession-matching hues.
 
 **需上传参考图片：** 需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](./references/Meisje_met_de_parel.jpg))。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 42：3D Q版情侣水晶球 (by [@balconychy](https://x.com/balconychy))
@@ -302,7 +302,7 @@ Colors: warm highlights, profession-matching hues.
 ```
 **需上传参考图片：** 一张情侣照片 或 一张其他人物照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 41：微型立体场景 (孙悟空三打白骨精) (by [@dotey](https://x.com/dotey))
@@ -318,7 +318,7 @@ Colors: warm highlights, profession-matching hues.
 
 *注意：提示词中括号内的【孙悟空三打白骨精】可以替换为其他中文场景，如“孙悟空大闹天宫”、“哪吒闹海”、“武松打虎”、“黛玉葬花”、“孙悟空三打白骨精”、“关云长过五关斩六将”等。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 40：日系双格漫画 (少女总统红温了) (by [@hellokaton](https://x.com/hellokaton))
@@ -352,7 +352,7 @@ Colors: warm highlights, profession-matching hues.
 
 **需上传参考图片：** 需要上传一张人物照片作为参考。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 39：卡通插画 (by [@dotey](https://x.com/dotey))
@@ -366,7 +366,7 @@ Colors: warm highlights, profession-matching hues.
 A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 38：手绘信息图卡片 (by [@dotey](https://x.com/dotey))
@@ -386,7 +386,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 坚持每日更新，肯定会有结果，因为 99% 都坚持不了的！”
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 37：社交媒体帖子涂鸦 (by [@op7418](https://x.com/op7418))
@@ -402,7 +402,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **需上传参考图片：** 一张照片或者截图。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 36：极简主义 3D 插画 (文字版) (by [@dotey](https://x.com/dotey))
@@ -455,7 +455,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 35：毛茸茸南瓜灯 (by [gizakdag](https://x.com/gizakdag))
@@ -472,7 +472,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 *注：中文提示词 by @dotey*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 34：手绘信息图卡片 (by [@dotey](https://x.com/dotey))
@@ -496,7 +496,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 - 也遇不到「圈子」以外的机会。
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 33：全家福婚纱照 (by [@balconychy](https://x.com/balconychy))
@@ -512,7 +512,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **需上传参考图片：** 一张家庭照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 32：纸艺剪贴风格招聘广告 (by [@dotey](https://x.com/dotey))
@@ -526,7 +526,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 The image shows professional drivers of cars and trucks at work, impressive urban and rural speeds, a positive team environment and modern visuals of the fleet - all this advertises a vacancy for drivers with competitive pay, flexible working hours and a clear call to institutions: "Apply today - we will start tomorrow!"
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 31：动漫贴纸集合 (by [@richardchang](https://x.com/richardchang))
@@ -540,7 +540,7 @@ The image shows professional drivers of cars and trucks at work, impressive urba
 Naruto stickers
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 30：35mm 胶片风格飞岛 (by [@dotey](https://x.com/dotey))
@@ -555,7 +555,7 @@ Naruto stickers
 35 mm photo of Moscow floating in the sky on a flying islands
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 29：名画人物 OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -575,7 +575,7 @@ Naruto stickers
 ```
 **需上传参考图片：** [《戴珍珠耳环的少女》图片](./references/Meisje_met_de_parel.jpg)。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 28：扁平贴纸设计 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -591,7 +591,7 @@ Naruto stickers
 
 **需上传参考图片：** 一张清晰头像照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 27：Q 版表情包制作 (by [@dotey](https://x.com/dotey))
@@ -614,7 +614,7 @@ Aspect ratio: 9:16
 ```
 **需上传参考图片：** 一张清晰头像照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 26：名画人物麦片广告 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -630,7 +630,7 @@ Aspect ratio: 9:16
 
 **需上传参考图片：** [《戴珍珠耳环的少女》图片](./references/Meisje_met_de_parel.jpg)。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 25：极简主义 3D 插画 (by [@0xdlk](https://x.com/0xdlk))
@@ -681,7 +681,7 @@ Generate a toilet with the following JSON profile:
 }
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 24：Funko Pop 公仔制作 (by [@dotey](https://x.com/dotey))
@@ -697,7 +697,7 @@ Generate a toilet with the following JSON profile:
 
 **需上传参考图片：** 一张半身或者全身清晰照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 23：《泰坦尼克号》模仿 (by [@balconychy](https://x.com/balconychy))
@@ -716,7 +716,7 @@ Generate a toilet with the following JSON profile:
 ```
 **需上传参考图片：** 一张情侣照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 22：小红书封面 (by [@balconychy](https://x.com/balconychy))
@@ -747,7 +747,7 @@ Generate a toilet with the following JSON profile:
 图像9:16比例
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 21：简笔画表情包 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -765,7 +765,7 @@ Generate a toilet with the following JSON profile:
 
 **需上传参考图片：** 一张人物照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 20：四格漫画 (相对论) (by [@dotey](https://x.com/dotey))
@@ -779,7 +779,7 @@ Generate a toilet with the following JSON profile:
 make a colorful page of manga describing the theory of relativity. add some humor
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 19：语文课本重绘 (by [@balconychy](https://x.com/balconychy))
@@ -795,7 +795,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **需上传参考图片：** 一张原课本插画。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 18：皮克斯3D风格 (by [AnimeAI](https://animeai.online))
@@ -810,7 +810,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 **需上传参考图片：** 一张人物或者其他照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 17：数码宝贝风格图 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -825,7 +825,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 **需上传参考图片：** 一张单人照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 16：布丁老虎机 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -839,7 +839,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 将图标[🎰]变成美味可口布丁造型，Q弹质感，背景粉白渐变，整体甜美、轻盈、可爱
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 15：讽刺海报生成 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -853,7 +853,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 14：《海贼王》主题手办制作 (by [@dotey](https://x.com/dotey))
@@ -871,7 +871,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **需上传参考图片：** 一张半身或者全身照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 13：3D Q版风格 (by [@dotey](https://x.com/dotey))
@@ -886,7 +886,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 ```
 **需上传参考图片：** 一张照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 12：3D 情侣珠宝盒摆件 (by [@dotey](https://x.com/dotey))
@@ -905,7 +905,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **需上传参考图片：** 一张情侣照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 11：PS2 游戏封面 (GTA x Shrek) (by [@dotey](https://x.com/dotey))
@@ -919,7 +919,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA based in the Shrek Universe.
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 10：讽刺漫画生成 (by [@dotey](https://x.com/dotey))
@@ -933,7 +933,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 一幅讽刺漫画风格的插画，采用复古美式漫画风格，背景是一个多层货架，货架上都是一样的红色棒球帽，帽子正面印有大字标语“MAKE AMERICA GREAT AGAIN”，帽侧贴着白色标签写着“MADE IN CHINA”，特写视角聚焦其中一顶红色棒球帽。画面下方有价格牌，原价“$50.00”被粗黑线X划掉，改为“$77.00”，色调为怀旧的土黄与暗红色调，阴影处理带有90年代复古印刷质感。整体构图风格夸张讽刺，具讽刺政治消费主义的意味。
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 9：气球名画 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -948,7 +948,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **需上传参考图片：** 一张半身或者全身单人照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 8：乐高收藏品 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -980,7 +980,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **需上传参考图片：** 一张半身或者全身单人照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 7：个性化房间设计 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
@@ -996,7 +996,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 *注意：原文提示词是根据chatgpt的记忆内容为用户生成房间设计，此处稍作修改。请参考原文。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 6：角色穿越传送门 (by [@dotey](https://x.com/dotey))
@@ -1013,7 +1013,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **需上传参考图片：** 一张半身或者全身单人照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 5：吉卜力风格 (by [AnimeAI](https://animeai.online))
@@ -1030,7 +1030,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 *如果遇到违反内容政策的情况，提示词增加一句：如果背景里有不合适（敏感）的内容，可以进行修改或删除。*
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 4：Q 版中式婚礼图 (by [@balconychy](https://x.com/balconychy))
@@ -1045,7 +1045,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **需上传参考图片：** 一张情侣照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 3：复古宣传海报 (by [@dotey](https://x.com/dotey))
@@ -1059,7 +1059,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 复古宣传海报风格，突出中文文字，背景为红黄放射状图案。画面中心位置有一位美丽的年轻女性，以精致复古风格绘制，面带微笑，气质优雅，具有亲和力。主题是GPT最新AI绘画服务的广告促销，强调‘惊爆价9.9/张’、‘适用各种场景、图像融合、局部重绘’、‘每张提交3次修改’、‘AI直出效果，无需修改’，底部醒目标注‘有意向点右下“我想要”’，右下角绘制一个手指点击按钮动作，左下角展示OpenAI标志。
 ```
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 
 ## 案例 2：立体相框 (by [@dotey](https://x.com/dotey))
@@ -1074,7 +1074,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **需上传参考图片：** 一张半身或者全身单人照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 ## 案例 1：Q版求婚场景 (by [@balconychy](https://x.com/balconychy))
 
@@ -1088,10 +1088,35 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ```
 **需上传参考图片：** 一张情侣照片。
 
-[⬆️ 返回目录](#example-toc)
+[⬆️ 返回案例目录](#example-toc)
 
 ---
 
+<a id="tools-toc"></a>
+## 🛠️ 工具介绍 
+
+以下是可以使用 GPT-4o 模型生成图片的应用：
+
+- **💬 [ChatGPT](https://chatgpt.com)：** OpenAI官方出品，可使用 GPT-4o 生成高质量图片，支持多风格、多细节控制，适合创意表达与内容创作。
+
+- **🎬 [Sora](https://sora.com)：** OpenAI官方出品，可通过 GPT-4o 生成逼真图像，支持图文结合、场景重建，适用于影视、动画等视觉创意场景。
+
+在无法直接访问 ChatGPT / Sora 的情况下，为了探索和生成类似本仓库展示的图片效果，推荐免费尝试我们开发的[AnimeAI](https://animeai.online)。
+
+[⬆️ 返回目录](#contents-toc)
+
+
+<a id="prompting-toc"></a>
+## 💡 提示词技巧
+
+1. [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks) by [@dotey](https://x.com/dotey)
+2. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
+3. [Prompt Engineering 简体中文翻译版](https://baoyu.io/blog/google-prompt-engineering-whitepaper) by [@dotey](https://x.com/dotey)
+
+[⬆️ 返回目录](#contents-toc)
+
+
+<a id="acknowledgements-toc"></a>
 ## 🙏 致谢
 
 本案例集的内容很大程度上依赖于 AI 社区在 Twitter/X 上分享的创意提示词和精彩视觉效果。我们向所有案例的贡献者表示诚挚的感谢。😊
@@ -1113,3 +1138,5 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
+
+[⬆️ 返回目录](#contents-toc)
