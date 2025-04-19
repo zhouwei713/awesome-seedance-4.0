@@ -1100,6 +1100,14 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 [⬆️ Back to Contents](#contents-toc)
 
 
+<a id="contribute-toc"></a>
+## 🤝 How to Contribute
+
+There are two ways to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+[⬆️ Back to Contents](#contents-toc)
+
+
 <a id="acknowledgements-toc"></a>
 ## 🙏 Acknowledgements
 

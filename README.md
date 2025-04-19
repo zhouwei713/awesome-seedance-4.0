@@ -23,6 +23,7 @@
 - [📖 案例目录](#example-toc)
 - [🛠️ 工具介绍](#tools-toc)
 - [💡 提示词技巧](#prompting-toc)
+- [🤝 如何贡献](#contribute-toc)
 - [🙏 致谢](#acknowledgements-toc)
 
 <a id="gpt4o-toc"></a>
@@ -1112,6 +1113,15 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 1. [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks) by [@dotey](https://x.com/dotey)
 2. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
 3. [Prompt Engineering 简体中文翻译版](https://baoyu.io/blog/google-prompt-engineering-whitepaper) by [@dotey](https://x.com/dotey)
+
+[⬆️ 返回目录](#contents-toc)
+
+
+<a id="contribute-toc"></a>
+## 🤝 贡献案例
+
+有两种参与贡献的方式，请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+
 
 [⬆️ 返回目录](#contents-toc)
 
