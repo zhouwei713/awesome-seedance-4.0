@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 # Awesome GPT-4o Images ✨
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
@@ -23,6 +24,7 @@ Most examples come from Twitter/X 🐦. May they spark ideas 💡 and turbo‑ch
 - [💡 Prompting Tips](#prompting-toc)
 - [🤝 How to Contribute](#contribute-toc)
 - [🙏 Acknowledgements](#acknowledgements-toc)
+- [🌟 Star History](#starhistory-toc)
 
 <a id="gpt4o-toc"></a>
 ## 🎨 What is GPT‑4o
@@ -1120,10 +1122,6 @@ Here are applications where you can use the GPT-4o model to generate images:
 
 -   **🎬 [Sora](https://sora.com):** Official OpenAI product. Generate realistic images via GPT-4o, supporting text-image combination and scene reconstruction, suitable for visual creative scenarios like film and animation. *(Note: Sora access is currently limited)*
 
-If you cannot directly access ChatGPT / Sora, to explore and generate image effects similar to those shown in this repository, we recommend trying [AnimeAI](https://animeai.online), which we developed and is free to try.
-
-[⬆️ Back to Contents](#contents-toc)
-
 
 <a id="prompting-toc"></a>
 ## 💡 Prompting Tips
@@ -1131,15 +1129,11 @@ If you cannot directly access ChatGPT / Sora, to explore and generate image effe
 1. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
 2. [Introducing 4o Image Generation](https://openai.com/index/introducing-4o-image-generation) by OpenAI
 
-[⬆️ Back to Contents](#contents-toc)
-
 
 <a id="contribute-toc"></a>
 ## 🤝 How to Contribute
 
 There are two ways to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-[⬆️ Back to Contents](#contents-toc)
 
 
 <a id="acknowledgements-toc"></a>
@@ -1167,4 +1161,11 @@ Special thanks to the following users for sharing their inspiring work ✨:
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
 
-[⬆️ Back to Contents](#contents-toc)
+[⬆️ Back to Top](#readme-top)
+
+<a id="starhistory-toc"></a>
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jamez-bondos/awesome-gpt4o-images&type=Date)](https://www.star-history.com/#jamez-bondos/awesome-gpt4o-images&Date)
+
+[⬆️ Back to Top](#readme-top)
