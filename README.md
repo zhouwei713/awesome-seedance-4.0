@@ -111,7 +111,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 ---
 
-## 案例64：蒸汽朋克机械鱼 (by [@f-is-h](https://github.com/f-is-h))
+## 案例 64：蒸汽朋克机械鱼 (by [@f-is-h](https://github.com/f-is-h))
 
 [原文链接](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
