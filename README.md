@@ -44,6 +44,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="example-toc"></a>
 ## 📖 案例目录
 
+*   [案例 65：Trompe-l'œil 三维空间艺术 (by @madpencil_)](#案例-65trompe-lœil-三维空间艺术-by-madpencil_)
 *   [案例 64：蒸汽朋克机械鱼 (by @f-is-h)](#案例-64蒸汽朋克机械鱼-by-f-is-h)
 *   [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](#案例-63emoji-奶油雪糕-by-zho_zho_zho)
 *   [案例 62：可爱珐琅别针 (by @gnrlyxyz)](#案例-62可爱珐琅别针-by-gnrlyxyz)
@@ -110,6 +111,24 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 1：Q版求婚场景 (by @balconychy)](#案例-1q版求婚场景-by-balconychy)
 
 ---
+
+
+## 案例 65：Trompe-l'œil 三维空间艺术 (by [@madpencil_](https://x.com/madpencil_) )
+
+[原文链接](https://x.com/madpencil_/status/1915099250079469907)
+
+<img src="./examples/example_tromple-I-3d-art.jpg" width="300" alt="人物从屏幕中“走出”的三维错觉">
+
+**提示词：**
+```
+一幅视错觉风格的画面：人物A[主题/着装]从显示着xyz社交媒体界面的大屏幕中迈步而出。屏幕上可见用户名为“@”，显示1千次点赞、12-20条评论，周围漂浮着[爱心眼、笑脸]表情符号，背景可根据您的喜好自定义。
+```
+*注意：可替换提示词中的【主题/着装】与[爱心眼、笑脸]。*
+
+**案例提交：** [wowmarcomei](https://github.com/wowmarcomei)
+
+[⬆️ 返回案例目录](#example-toc)
+
 
 ## 案例 64：蒸汽朋克机械鱼 (by [@f-is-h](https://github.com/f-is-h))
 
@@ -1340,6 +1359,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 *   [Michael Rabone (@michaelrabone)](https://x.com/michaelrabone)
 *   [gnrly.xyz (@gnrlyxyz)](https://x.com/gnrlyxyz)
 *   [f-is-h (@f-is-h)](https://github.com/f-is-h)
+*   [Madpencil (@madpencil_)](https://x.com/madpencil_)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️

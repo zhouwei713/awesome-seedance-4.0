@@ -47,6 +47,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 **Note on Prompts:** For accuracy and reproducibility, prompts are provided in their original language (Chinese or English) as used for generation.
 
+*   [Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by @madpencil_)](#example-65-trompe-lœil-three-dimensional-spatial-art-by-madpencil_)
 *   [Example 64: Steampunk Mechanical Fish (by @f-is-h)](#example-64-steampunk-mechanical-fish-by-f-is-h)
 *   [Example 63: Emoji Cream Popsicle (by @ZHO_ZHO_ZHO)](#example-63-emoji-cream-popsicle-by-zho_zho_zho)
 *   [Example 62: Kawaii Enamel Pin (by @gnrlyxyz)](#example-62-kawaii-enamel-pin-by-gnrlyxyz)
@@ -113,6 +114,24 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Example 1: Q-version Proposal Scene (by @balconychy)](#example-1-q-version-proposal-scene-by-balconychy)
 
 ---
+
+## Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by [@madpencil_](https://x.com/madpencil_) )
+
+[Source Link](https://x.com/madpencil_/status/1915099250079469907)
+
+<img src="./examples/example_tromple-I-3d-art.jpg" width="300" alt="Three-dimensional illusion of a figure stepping out from the screen.">
+
+**Prompt:**
+```
+Trompe l'oeil illusion of A (subject) (attire) steps out of a large screen displaying xyz social media interface. The screen shows the username "@" 1K likes, and 12- 20 comments, with floating emojis (heart-eyes, smiley) around it. your preferred background..
+```
+
+*Note: You can replace the [Theme/Dress Code] and [Heart Eyes Emoji, Smiling Face Emoji] in the prompt words.*
+
+**Example Submitted by:** [wowmarcomei](https://github.com/wowmarcomei)
+
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 64: Steampunk Mechanical Fish (by [@f-is-h](https://github.com/f-is-h))
 
@@ -1320,6 +1339,7 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [Michael Rabone (@michaelrabone)](https://x.com/michaelrabone)
 *   [gnrly.xyz (@gnrlyxyz)](https://x.com/gnrlyxyz)
 *   [f-is-h (@f-is-h)](https://github.com/f-is-h)
+*   [Madpencil (@madpencil_)](https://x.com/madpencil_)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
