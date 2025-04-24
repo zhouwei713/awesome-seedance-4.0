@@ -46,7 +46,6 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 *   [案例 67：超写实3D游戏 (by @ZHO_ZHO_ZHO)](#案例-67超写实3d游戏-by-zho_zho_zho)
 *   [案例 66：创意丝绸宇宙 (by @ZHO_ZHO_ZHO)](#案例-66创意丝绸宇宙-by-zho_zho_zho)
-*   [案例 65：Trompe-l'œil 三维空间艺术 (by @madpencil_)](#案例-65trompe-lœil-三维空间艺术-by-madpencil-)
 *   [案例 65：Trompe-l'œil 三维空间艺术 (by @madpencil_)](#案例-65trompe-lœil-三维空间艺术-by-madpencil_)
 *   [案例 64：蒸汽朋克机械鱼 (by @f-is-h)](#案例-64蒸汽朋克机械鱼-by-f-is-h)
 *   [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](#案例-63emoji-奶油雪糕-by-zho_zho_zho)

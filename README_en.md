@@ -49,7 +49,6 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 *   [Example 67: Ultra-realistic 3D Game (by @ZHO_ZHO_ZHO)](#example-67-ultra-realistic-3d-game-by-zho_zho_zho)
 *   [Example 66: Creative Silk Universe (by @ZHO_ZHO_ZHO)](#example-66-creative-silk-universe-by-zho_zho_zho)
-*   [Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by @madpencil_)](#example-65-trompe-l-œil-three-dimensional-spatial-art-by-madpencil_)
 *   [Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by @madpencil_)](#example-65-trompe-lœil-three-dimensional-spatial-art-by-madpencil_)
 *   [Example 64: Steampunk Mechanical Fish (by @f-is-h)](#example-64-steampunk-mechanical-fish-by-f-is-h)
 *   [Example 63: Emoji Cream Popsicle (by @ZHO_ZHO_ZHO)](#example-63-emoji-cream-popsicle-by-zho_zho_zho)
@@ -133,6 +132,8 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 
 **Example Submitted by:** [wowmarcomei](https://github.com/wowmarcomei)
 
+[⬆️ Back to Directory](#example-toc)
+
 
 ## Example 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) )
 
@@ -149,6 +150,7 @@ Transform the ❄️ into a soft 3D object with a silk texture. The entire surfa
 **Example Submitted by:** [wowmarcomei](https://github.com/wowmarcomei)
 
 [⬆️ Back to Directory](#example-toc)
+
 
 ## Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by [@madpencil_](https://x.com/madpencil_) )
 
