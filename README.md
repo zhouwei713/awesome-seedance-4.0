@@ -47,74 +47,74 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 ## 📖 案例目录
 
 *   [案例 69：剪影艺术 (by @umesh_ai)](#examples-69)
-*   [案例 68：未来主义 Logo 交易卡 (by @hewarsaber)](#案例-68未来主义-logo-交易卡-by-hewarsaber)
-*   [案例 67：超写实3D游戏 (by @ZHO_ZHO_ZHO)](#案例-67超写实3d游戏-by-zho_zho_zho)
-*   [案例 66：创意丝绸宇宙 (by @ZHO_ZHO_ZHO)](#案例-66创意丝绸宇宙-by-zho_zho_zho)
-*   [案例 65：Trompe-l'œil 三维空间艺术 (by @madpencil_)](#案例-65trompe-lœil-三维空间艺术-by-madpencil_)
-*   [案例 64：蒸汽朋克机械鱼 (by @f-is-h)](#案例-64蒸汽朋克机械鱼-by-f-is-h)
-*   [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](#案例-63emoji-奶油雪糕-by-zho_zho_zho)
-*   [案例 62：可爱珐琅别针 (by @gnrlyxyz)](#案例-62可爱珐琅别针-by-gnrlyxyz)
-*   [案例 61：虚构推文截图 (爱因斯坦) (by @egeberkina)](#案例-61虚构推文截图-爱因斯坦-by-egeberkina)
-*   [案例 60：Emoji 簇绒地毯 (by @gizakdag)](#案例-60emoji-簇绒地毯-by-gizakdag)
-*   [案例 59：彩色矢量艺术海报 (by @michaelrabone)](#案例-59彩色矢量艺术海报-by-michaelrabone)
-*   [案例 58：云彩艺术 (by @umesh_ai)](#案例-58云彩艺术-by-umesh_ai)
-*   [案例 57：8位像素图标 (by @egeberkina)](#案例-578位像素图标-by-egeberkina)
-*   [案例 56：迷你 3D 建筑 (by @dotey)](#案例-56迷你-3d-建筑-by-dotey)
-*   [案例 55：低多边形 (Low-Poly) 3D 渲染 (by @azed_ai)](#案例-55低多边形-low-poly-3d-渲染-by-azed_ai)
-*   [案例 54：“极其平凡”的iPhone自拍 (by @jiamimaodashu)](#案例-54极其平凡的iphone自拍-by-jiamimaodashu)
-*   [案例 53：Emoji 充气感靠垫 (by @gizakdag)](#案例-53emoji-充气感靠垫-by-gizakdag)
-*   [案例 52：纸艺风格 Emoji 图标 (by @egeberkina)](#案例-52纸艺风格-emoji-图标-by-egeberkina)
-*   [案例 51：护照入境印章 (by @ZHO_ZHO_ZHO)](#案例-51护照入境印章-by-zho_zho_zho)
-*   [案例 50：物理破坏效果卡片 (劳拉) (by @op7418)](#案例-50物理破坏效果卡片-劳拉-by-op7418)
-*   [案例 49：时尚杂志封面风格 (by @dotey)](#案例-49时尚杂志封面风格-by-dotey)
-*   [案例 48：体素风格 3D 图标转换 (by @BrettFromDJ)](#案例-48体素风格-3d-图标转换-by-brettfromdj)
-*   [案例 47：键盘ESC 键帽微型立体模型 (by @egeberkina)](#案例-47键盘esc-键帽微型立体模型-by-egeberkina)
-*   [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](#案例-46快乐胶囊制作-by-zho_zho_zho)
-*   [案例 45：3D Q版大学拟人化形象 (by @dotey)](#案例-453d-q版大学拟人化形象-by-dotey)
-*   [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#案例-44rpg-风格角色卡片制作-by-berryxia_ai)
-*   [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#案例-43q版可爱俄罗斯套娃-戴珍珠耳环的少女-by-zho_zho_zho)
-*   [案例 42：3D Q版情侣水晶球 (by @balconychy)](#案例-423d-q版情侣水晶球-by-balconychy)
-*   [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#案例-41微型立体场景-孙悟空三打白骨精-by-dotey)
-*   [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#案例-40日系双格漫画-少女总统红温了-by-hellokaton)
-*   [案例 39：卡通插画 (by @dotey)](#案例-39卡通插画-by-dotey)
-*   [案例 38：手绘信息图卡片 (by @dotey)](#案例-38手绘信息图卡片-by-dotey)
-*   [案例 37：社交媒体帖子涂鸦 (by @op7418)](#案例-37社交媒体帖子涂鸦-by-op7418)
-*   [案例 36：极简主义 3D 插画 (文字版) (by @dotey)](#案例-36极简主义-3d-插画-文字版-by-dotey)
-*   [案例 35：毛茸茸南瓜灯 (by gizakdag)](#案例-35毛茸茸南瓜灯-by-gizakdag)
-*   [案例 34：手绘信息图卡片 (by @dotey)](#案例-34手绘信息图卡片-by-dotey)
-*   [案例 33：全家福婚纱照 (by @balconychy)](#案例-33全家福婚纱照-by-balconychy)
-*   [案例 32：纸艺剪贴风格招聘广告 (by @dotey)](#案例-32纸艺剪贴风格招聘广告-by-dotey)
-*   [案例 31：动漫贴纸集合 (by @richardchang)](#案例-31动漫贴纸集合-by-richardchang)
-*   [案例 30：35mm 胶片风格飞岛 (by @dotey)](#案例-3035mm-胶片风格飞岛-by-dotey)
-*   [案例 29：名画人物 OOTD (by @ZHO_ZHO_ZHO)](#案例-29名画人物-ootd-by-zho_zho_zho)
-*   [案例 28：扁平贴纸设计 (by @ZHO_ZHO_ZHO)](#案例-28扁平贴纸设计-by-zho_zho_zho)
-*   [案例 27：Q 版表情包制作 (by @dotey)](#案例-27q-版表情包制作-by-dotey)
-*   [案例 26：名画人物麦片广告 (by @ZHO_ZHO_ZHO)](#案例-26名画人物麦片广告-by-zho_zho_zho)
-*   [案例 25：极简主义 3D 插画 (by @0xdlk)](#案例-25极简主义-3d-插画-by-0xdlk)
-*   [案例 24：Funko Pop 公仔制作 (by @dotey)](#案例-24funko-pop-公仔制作-by-dotey)
-*   [案例 23：《泰坦尼克号》模仿 (by @balconychy)](#案例-23泰坦尼克号模仿-by-balconychy)
-*   [案例 22：小红书封面 (by @balconychy)](#案例-22小红书封面-by-balconychy)
-*   [案例 21：简笔画表情包 (by @ZHO_ZHO_ZHO)](#案例-21简笔画表情包-by-zho_zho_zho)
-*   [案例 20：四格漫画 (相对论) (by @dotey)](#案例-20四格漫画-相对论-by-dotey)
-*   [案例 19：语文课本重绘 (by @balconychy)](#案例-19语文课本重绘-by-balconychy)
-*   [案例 18：皮克斯3D风格 (by AnimeAI)](#案例-18皮克斯3d风格-by-animeai)
-*   [案例 17：数码宝贝风格图 (by @ZHO_ZHO_ZHO)](#案例-17数码宝贝风格图-by-zho_zho_zho)
-*   [案例 16：布丁老虎机 (by @ZHO_ZHO_ZHO)](#案例-16布丁老虎机-by-zho_zho_zho)
-*   [案例 15：讽刺海报生成 (by @ZHO_ZHO_ZHO)](#案例-15讽刺海报生成-by-zho_zho_zho)
-*   [案例 14：《海贼王》主题手办制作 (by @dotey)](#案例-14海贼王主题手办制作-by-dotey)
-*   [案例 13：3D Q版风格 (by @dotey)](#案例-133d-q版风格-by-dotey)
-*   [案例 12：3D 情侣珠宝盒摆件 (by @dotey)](#案例-123d-情侣珠宝盒摆件-by-dotey)
-*   [案例 11：PS2 游戏封面 (GTA x Shrek) (by @dotey)](#案例-11ps2-游戏封面-gta-x-shrek-by-dotey)
-*   [案例 10：讽刺漫画生成 (by @dotey)](#案例-10讽刺漫画生成-by-dotey)
-*   [案例 9：气球名画 (by @ZHO_ZHO_ZHO)](#案例-9气球名画-by-zho_zho_zho)
-*   [案例 8：乐高收藏品 (by @ZHO_ZHO_ZHO)](#案例-8乐高收藏品-by-zho_zho_zho)
-*   [案例 7：个性化房间设计 (by @ZHO_ZHO_ZHO)](#案例-7个性化房间设计-by-zho_zho_zho)
-*   [案例 6：角色穿越传送门 (by @dotey)](#案例-6角色穿越传送门-by-dotey)
-*   [案例 5：吉卜力风格 (by AnimeAI)](#案例-5吉卜力风格-by-animeai)
-*   [案例 4：Q 版中式婚礼图 (by @balconychy)](#案例-4q-版中式婚礼图-by-balconychy)
-*   [案例 3：复古宣传海报 (by @dotey)](#案例-3复古宣传海报-by-dotey)
-*   [案例 2：立体相框 (by @dotey)](#案例-2立体相框-by-dotey)
-*   [案例 1：Q版求婚场景 (by @balconychy)](#案例-1q版求婚场景-by-balconychy)
+*   [案例 68：未来主义 Logo 交易卡 (by @hewarsaber)](#examples-68)
+*   [案例 67：超写实3D游戏 (by @ZHO_ZHO_ZHO)](#examples-67)
+*   [案例 66：创意丝绸宇宙 (by @ZHO_ZHO_ZHO)](#examples-66)
+*   [案例 65：Trompe-l'œil 三维空间艺术 (by @madpencil_)](#examples-65)
+*   [案例 64：蒸汽朋克机械鱼 (by @f-is-h)](#examples-64)
+*   [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](#examples-63)
+*   [案例 62：可爱珐琅别针 (by @gnrlyxyz)](#examples-62)
+*   [案例 61：虚构推文截图 (爱因斯坦) (by @egeberkina)](#examples-61)
+*   [案例 60：Emoji 簇绒地毯 (by @gizakdag)](#examples-60)
+*   [案例 59：彩色矢量艺术海报 (by @michaelrabone)](#examples-59)
+*   [案例 58：云彩艺术 (by @umesh_ai)](#examples-58)
+*   [案例 57：8位像素图标 (by @egeberkina)](#examples-57)
+*   [案例 56：迷你 3D 建筑 (by @dotey)](#examples-56)
+*   [案例 55：低多边形 (Low-Poly) 3D 渲染 (by @azed_ai)](#examples-55)
+*   [案例 54：“极其平凡”的iPhone自拍 (by @jiamimaodashu)](#examples-54)
+*   [案例 53：Emoji 充气感靠垫 (by @gizakdag)](#examples-53)
+*   [案例 52：纸艺风格 Emoji 图标 (by @egeberkina)](#examples-52)
+*   [案例 51：护照入境印章 (by @ZHO_ZHO_ZHO)](#examples-51)
+*   [案例 50：物理破坏效果卡片 (劳拉) (by @op7418)](#examples-50)
+*   [案例 49：时尚杂志封面风格 (by @dotey)](#examples-49)
+*   [案例 48：体素风格 3D 图标转换 (by @BrettFromDJ)](#examples-48)
+*   [案例 47：键盘ESC 键帽微型立体模型 (by @egeberkina)](#examples-47)
+*   [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](#examples-46)
+*   [案例 45：3D Q版大学拟人化形象 (by @dotey)](#examples-45)
+*   [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#examples-44)
+*   [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#examples-43)
+*   [案例 42：3D Q版情侣水晶球 (by @balconychy)](#examples-42)
+*   [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#examples-41)
+*   [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#examples-40)
+*   [案例 39：卡通插画 (by @dotey)](#examples-39)
+*   [案例 38：手绘信息图卡片 (by @dotey)](#examples-38)
+*   [案例 37：社交媒体帖子涂鸦 (by @op7418)](#examples-37)
+*   [案例 36：极简主义 3D 插画 (文字版) (by @dotey)](#examples-36)
+*   [案例 35：毛茸茸南瓜灯 (by gizakdag)](#examples-35)
+*   [案例 34：手绘信息图卡片 (by @dotey)](#examples-34)
+*   [案例 33：全家福婚纱照 (by @balconychy)](#examples-33)
+*   [案例 32：纸艺剪贴风格招聘广告 (by @dotey)](#examples-32)
+*   [案例 31：动漫贴纸集合 (by @richardchang)](#examples-31)
+*   [案例 30：35mm 胶片风格飞岛 (by @dotey)](#examples-30)
+*   [案例 29：名画人物 OOTD (by @ZHO_ZHO_ZHO)](#examples-29)
+*   [案例 28：扁平贴纸设计 (by @ZHO_ZHO_ZHO)](#examples-28)
+*   [案例 27：Q 版表情包制作 (by @dotey)](#examples-27)
+*   [案例 26：名画人物麦片广告 (by @ZHO_ZHO_ZHO)](#examples-26)
+*   [案例 25：极简主义 3D 插画 (by @0xdlk)](#examples-25)
+*   [案例 24：Funko Pop 公仔制作 (by @dotey)](#examples-24)
+*   [案例 23：《泰坦尼克号》模仿 (by @balconychy)](#examples-23)
+*   [案例 22：小红书封面 (by @balconychy)](#examples-22)
+*   [案例 21：简笔画表情包 (by @ZHO_ZHO_ZHO)](#examples-21)
+*   [案例 20：四格漫画 (相对论) (by @dotey)](#examples-20)
+*   [案例 19：语文课本重绘 (by @balconychy)](#examples-19)
+*   [案例 18：皮克斯3D风格 (by AnimeAI)](#examples-18)
+*   [案例 17：数码宝贝风格图 (by @ZHO_ZHO_ZHO)](#examples-17)
+*   [案例 16：布丁老虎机 (by @ZHO_ZHO_ZHO)](#examples-16)
+*   [案例 15：讽刺海报生成 (by @ZHO_ZHO_ZHO)](#examples-15)
+*   [案例 14：《海贼王》主题手办制作 (by @dotey)](#examples-14)
+*   [案例 13：3D Q版风格 (by @dotey)](#examples-13)
+*   [案例 12：3D 情侣珠宝盒摆件 (by @dotey)](#examples-12)
+*   [案例 11：PS2 游戏封面 (GTA x Shrek) (by @dotey)](#examples-11)
+*   [案例 10：讽刺漫画生成 (by @dotey)](#examples-10)
+*   [案例 9：气球名画 (by @ZHO_ZHO_ZHO)](#examples-9)
+*   [案例 8：乐高收藏品 (by @ZHO_ZHO_ZHO)](#examples-8)
+*   [案例 7：个性化房间设计 (by @ZHO_ZHO_ZHO)](#examples-7)
+*   [案例 6：角色穿越传送门 (by @dotey)](#examples-6)
+*   [案例 5：吉卜力风格 (by AnimeAI)](#examples-5)
+*   [案例 4：Q 版中式婚礼图 (by @balconychy)](#examples-4)
+*   [案例 3：复古宣传海报 (by @dotey)](#examples-3)
+*   [案例 2：立体相框 (by @dotey)](#examples-2)
+*   [案例 1：Q版求婚场景 (by @balconychy)](#examples-1)
 
 ---
 
@@ -135,6 +135,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-68"></a>
 ## 案例 68：未来主义 Logo 交易卡 (by [@hewarsaber](https://x.com/hewarsaber))
 
 [原文链接](https://x.com/hewarsaber/status/1912933875166171515)
@@ -176,6 +177,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-67"></a>
 ## 案例 67：超写实3D游戏 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) )
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
@@ -196,6 +198,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-66"></a>
 ## 案例 66：创意丝绸宇宙 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) )
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
@@ -213,6 +216,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-65"></a>
 ## 案例 65：Trompe-l'œil 三维空间艺术 (by [@madpencil_](https://x.com/madpencil_) )
 
 [原文链接](https://x.com/madpencil_/status/1915099250079469907)
@@ -230,6 +234,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-64"></a>
 ## 案例 64：蒸汽朋克机械鱼 (by [@f-is-h](https://github.com/f-is-h))
 
 [原文链接](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
@@ -252,6 +257,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-63"></a>
 ## 案例 63：Emoji 奶油雪糕 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
@@ -266,7 +272,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [⬆️ 返回案例目录](#example-toc)
 
-
+<a id="examples-62"></a>
 ## 案例 62：可爱珐琅别针 (by [@gnrlyxyz](https://x.com/gnrlyxyz))
 
 [原文链接](https://x.com/gnrlyxyz/status/1914303110853583302)
@@ -284,7 +290,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [⬆️ 返回案例目录](#example-toc)
 
-
+<a id="examples-61"></a>
 ## 案例 61：虚构推文截图 (爱因斯坦) (by [@egeberkina](https://x.com/egeberkina))
 
 [原文链接](https://x.com/egeberkina/status/1914299716394778713)
@@ -301,7 +307,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 
 [⬆️ 返回案例目录](#example-toc)
 
-
+<a id="examples-60"></a>
 ## 案例 60：Emoji 簇绒地毯 (by [@gizakdag](https://x.com/gizakdag))
 
 [原文链接](https://x.com/gizakdag/status/1913925062568144924)
@@ -317,7 +323,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 
 [⬆️ 返回案例目录](#example-toc)
 
-
+<a id="examples-59"></a>
 ## 案例 59：彩色矢量艺术海报 (by [@michaelrabone](https://x.com/michaelrabone))
 
 [原文链接](https://x.com/michaelrabone/status/1913865394139316291)
@@ -332,7 +338,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 
 [⬆️ 返回案例目录](#example-toc)
 
-
+<a id="examples-58"></a>
 ## 案例 58：云彩艺术 (by [@umesh_ai](https://x.com/umesh_ai))
 
 [原文链接](https://x.com/umesh_ai/status/1913628737872027805)
@@ -348,7 +354,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 
 [⬆️ 返回案例目录](#example-toc)
 
-
+<a id="examples-57"></a>
 ## 案例 57：8位像素图标 (by [@egeberkina](https://x.com/egeberkina))
 
 [原文链接](https://x.com/egeberkina/status/1913654508330058064)
@@ -365,6 +371,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-56"></a>
 ## 案例 56：迷你 3D 建筑 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1913759515700285569)
@@ -380,6 +387,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-55"></a>
 ## 案例 55：低多边形 (Low-Poly) 3D 渲染 (by [@azed_ai](https://x.com/azed_ai))
 
 [原文链接](https://x.com/azed_ai/status/1912084257918595342)
@@ -397,6 +405,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-54"></a>
 ## 案例 54：“极其平凡”的iPhone自拍 (by [@jiamimaodashu](https://x.com/jiamimaodashu))
 
 [原文链接](https://x.com/jiamimaodashu/status/1912653073190879410)
@@ -412,6 +421,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-53"></a>
 ## 案例 53：Emoji 充气感靠垫 (by [@gizakdag](https://x.com/gizakdag))
 
 [原文链接](https://x.com/gizakdag/status/1912858535643197927)
@@ -428,6 +438,7 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-52"></a>
 ## 案例 52：纸艺风格 Emoji 图标 (by [@egeberkina](https://x.com/egeberkina))
 
 [原文链接](https://x.com/egeberkina/status/1912521263085482464)
@@ -444,6 +455,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-51"></a>
 ## 案例 51：护照入境印章 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接1](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
@@ -460,6 +472,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-50"></a>
 ## 案例 50：物理破坏效果卡片 (劳拉) (by [@op7418](https://x.com/op7418))
 
 [原文链接1](https://x.com/op7418/status/1912782048160542886)
@@ -476,6 +489,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-49"></a>
 ## 案例 49：时尚杂志封面风格 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1912536019905233194)
@@ -490,6 +504,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-48"></a>
 ## 案例 48：体素风格 3D 图标转换 (by [@BrettFromDJ](https://x.com/BrettFromDJ))
 
 [原文链接1](https://x.com/BrettFromDJ/status/1910387413404234076)
@@ -512,6 +527,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-47"></a>
 ## 案例 47：键盘ESC 键帽微型立体模型 (by [@egeberkina](https://x.com/egeberkina))
 
 [原文链接](https://x.com/egeberkina/status/1911368319212408926)
@@ -530,6 +546,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 
 
 
+<a id="examples-46"></a>
 ## 案例 46：快乐胶囊制作 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
@@ -550,6 +567,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-45"></a>
 ## 案例 45：3D Q版大学拟人化形象 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1911988003729203648)
@@ -565,6 +583,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-44"></a>
 ## 案例 44：RPG 风格角色卡片制作 (by [@berryxia_ai](https://x.com/berryxia_ai))
 
 [原文链接](https://x.com/berryxia_ai/status/1911334046724165905)
@@ -590,6 +609,7 @@ Colors: warm highlights, profession-matching hues.
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-43"></a>
 ## 案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
@@ -607,6 +627,7 @@ Colors: warm highlights, profession-matching hues.
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-42"></a>
 ## 案例 42：3D Q版情侣水晶球 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1909908568129655248)
@@ -622,6 +643,7 @@ Colors: warm highlights, profession-matching hues.
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-41"></a>
 ## 案例 41：微型立体场景 (孙悟空三打白骨精) (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1911609122547449886)
@@ -638,6 +660,7 @@ Colors: warm highlights, profession-matching hues.
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-40"></a>
 ## 案例 40：日系双格漫画 (少女总统红温了) (by [@hellokaton](https://x.com/hellokaton))
 
 [原文链接](https://x.com/hellokaton/status/1910900979194646959)
@@ -672,6 +695,7 @@ Colors: warm highlights, profession-matching hues.
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-39"></a>
 ## 案例 39：卡通插画 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1905103477879267823)
@@ -686,6 +710,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-38"></a>
 ## 案例 38：手绘信息图卡片 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1907870919852179850)
@@ -706,6 +731,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-37"></a>
 ## 案例 37：社交媒体帖子涂鸦 (by [@op7418](https://x.com/op7418))
 
 [原文链接](https://x.com/op7418/status/1906208691877253536)
@@ -722,6 +748,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-36"></a>
 ## 案例 36：极简主义 3D 插画 (文字版) (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1907131027253772399)
@@ -775,6 +802,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-35"></a>
 ## 案例 35：毛茸茸南瓜灯 (by [gizakdag](https://x.com/gizakdag))
 
 [原文链接1](https://x.com/gizakdag/status/1911075302941622512)
@@ -792,6 +820,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-34"></a>
 ## 案例 34：手绘信息图卡片 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1907903480678985784)
@@ -816,6 +845,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-33"></a>
 ## 案例 33：全家福婚纱照 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1909426314643222595)
@@ -832,6 +862,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-32"></a>
 ## 案例 32：纸艺剪贴风格招聘广告 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1905021792642564406)
@@ -846,6 +877,7 @@ The image shows professional drivers of cars and trucks at work, impressive urba
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-31"></a>
 ## 案例 31：动漫贴纸集合 (by [@richardchang](https://x.com/richardchang))
 
 [原文链接](https://x.com/richardchang/status/1909086122959139312)
@@ -860,6 +892,7 @@ Naruto stickers
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-30"></a>
 ## 案例 30：35mm 胶片风格飞岛 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1905020833451348283)
@@ -875,6 +908,7 @@ Naruto stickers
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-29"></a>
 ## 案例 29：名画人物 OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
@@ -895,6 +929,7 @@ Naruto stickers
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-28"></a>
 ## 案例 28：扁平贴纸设计 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
@@ -911,6 +946,7 @@ Naruto stickers
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-27"></a>
 ## 案例 27：Q 版表情包制作 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1909800530739679488)
@@ -934,6 +970,7 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-26"></a>
 ## 案例 26：名画人物麦片广告 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
@@ -950,6 +987,7 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-25"></a>
 ## 案例 25：极简主义 3D 插画 (by [@0xdlk](https://x.com/0xdlk))
 
 [原文链接](https://x.com/0xdlk/status/1906843247432929642)
@@ -1001,6 +1039,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-24"></a>
 ## 案例 24：Funko Pop 公仔制作 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1909047283485671924)
@@ -1017,6 +1056,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-23"></a>
 ## 案例 23：《泰坦尼克号》模仿 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1909916265067557299)
@@ -1036,6 +1076,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-22"></a>
 ## 案例 22：小红书封面 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1905507936526627078)
@@ -1067,6 +1108,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-21"></a>
 ## 案例 21：简笔画表情包 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909907741948399873)
@@ -1085,6 +1127,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-20"></a>
 ## 案例 20：四格漫画 (相对论) (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1904980568107819060)
@@ -1099,6 +1142,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-19"></a>
 ## 案例 19：语文课本重绘 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1906982626365178361)
@@ -1115,6 +1159,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-18"></a>
 ## 案例 18：皮克斯3D风格 (by [AnimeAI](https://animeai.online))
 
 [原文链接](https://animeai.online/#demo-gallery)
@@ -1130,6 +1175,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-17"></a>
 ## 案例 17：数码宝贝风格图 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911001291280859559)
@@ -1145,6 +1191,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-16"></a>
 ## 案例 16：布丁老虎机 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911107569898471818)
@@ -1159,6 +1206,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-15"></a>
 ## 案例 15：讽刺海报生成 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
@@ -1173,6 +1221,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-14"></a>
 ## 案例 14：《海贼王》主题手办制作 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1909047547563213145)
@@ -1191,6 +1240,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-13"></a>
 ## 案例 13：3D Q版风格 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1908194518345678865)
@@ -1206,6 +1256,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-12"></a>
 ## 案例 12：3D 情侣珠宝盒摆件 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1909332895115714835)
@@ -1225,6 +1276,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-11"></a>
 ## 案例 11：PS2 游戏封面 (GTA x Shrek) (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1904978767090524372)
@@ -1239,6 +1291,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-10"></a>
 ## 案例 10：讽刺漫画生成 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1910514811756065159)
@@ -1253,6 +1306,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-9"></a>
 ## 案例 9：气球名画 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910976632141267237)
@@ -1268,6 +1322,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-8"></a>
 ## 案例 8：乐高收藏品 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
@@ -1300,6 +1355,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-7"></a>
 ## 案例 7：个性化房间设计 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
@@ -1316,6 +1372,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-6"></a>
 ## 案例 6：角色穿越传送门 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1908910838636765204)
@@ -1333,6 +1390,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-5"></a>
 ## 案例 5：吉卜力风格 (by [AnimeAI](https://animeai.online))
 
 [原文链接](https://animeai.online/#demo-gallery)
@@ -1350,6 +1408,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-4"></a>
 ## 案例 4：Q 版中式婚礼图 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1909418699150237917)
@@ -1365,6 +1424,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-3"></a>
 ## 案例 3：复古宣传海报 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1905251524248248650)
@@ -1379,6 +1439,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ 返回案例目录](#example-toc)
 
 
+<a id="examples-2"></a>
 ## 案例 2：立体相框 (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1908238003169903060)
@@ -1393,6 +1454,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 [⬆️ 返回案例目录](#example-toc)
 
+<a id="examples-1"></a>
 ## 案例 1：Q版求婚场景 (by [@balconychy](https://x.com/balconychy))
 
 [原文链接](https://x.com/balconychy/status/1909417750587486469)
