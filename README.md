@@ -13,6 +13,8 @@
 
 案例主要来源于 Twitter/X 🐦，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
+<strong>OpenAI 最新发布的 gpt‑image‑1 图像生成模型，提供API访问，具备更高保真度、多样风格和精准编辑能力，详情见[🛠️ 工具介绍](#tools-toc)。</strong>
+
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
 ---
@@ -1399,6 +1401,12 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 - **🎬 [Sora](https://sora.com)：** OpenAI官方出品，可通过 GPT-4o 生成逼真图像，支持图文结合、场景重建，适用于影视、动画等视觉创意场景。
 
+- **🤖 [gpt-image-1 API](https://platform.openai.com/docs/guides/image-generation)：** OpenAI官方出品，可通过 API 方式调用最新的图像生成模型，可以得到
+  - ✅ 更加精准、高保真的图像
+  - 🎨 多样化的视觉风格
+  - ✏️ 精确的图像编辑
+  - 🌎 丰富的世界知识
+  - 🔤 一致的文本渲染
 
 <a id="prompting-toc"></a>
 ## 💡 提示词技巧
