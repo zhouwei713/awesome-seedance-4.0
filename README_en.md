@@ -50,74 +50,74 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 **Note on Prompts:** For accuracy and reproducibility, prompts are provided in their original language (Chinese or English) as used for generation.
 
 *   [Example 69: Silhouette Art (by @umesh_ai)](#examples-69)
-*   [Example 68: Futuristic Logo Trading Card (by @hewarsaber)](#example-68-futuristic-logo-trading-card-by-hewarsaber)
-*   [Example 67: Ultra-realistic 3D Game (by @ZHO_ZHO_ZHO)](#example-67-ultra-realistic-3d-game-by-zho_zho_zho)
-*   [Example 66: Creative Silk Universe (by @ZHO_ZHO_ZHO)](#example-66-creative-silk-universe-by-zho_zho_zho)
-*   [Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by @madpencil_)](#example-65-trompe-lœil-three-dimensional-spatial-art-by-madpencil_)
-*   [Example 64: Steampunk Mechanical Fish (by @f-is-h)](#example-64-steampunk-mechanical-fish-by-f-is-h)
-*   [Example 63: Emoji Cream Popsicle (by @ZHO_ZHO_ZHO)](#example-63-emoji-cream-popsicle-by-zho_zho_zho)
-*   [Example 62: Kawaii Enamel Pin (by @gnrlyxyz)](#example-62-kawaii-enamel-pin-by-gnrlyxyz)
-*   [Example 61: Fake Tweet Screenshot (Einstein) (by @egeberkina)](#example-61-fake-tweet-screenshot-einstein-by-egeberkina)
-*   [Example 60: Emoji Tufted Rug (by @gizakdag)](#example-60-emoji-tufted-rug-by-gizakdag)
-*   [Example 59: Colorful Vector Art Poster (by @michaelrabone)](#example-59-colorful-vector-art-poster-by-michaelrabone)
-*   [Example 58: Cloud Art (by @umesh_ai)](#example-58-cloud-art-by-umesh_ai)
-*   [Example 57: 8-Bit Pixel Icon (by @egeberkina)](#example-57-8-bit-pixel-icon-by-egeberkina)
-*   [Example 56: Miniature 3D Building (by @dotey)](#example-56-miniature-3d-building-by-dotey)
-*   [Example 55: Low-Poly 3D Render (by @azed_ai)](#example-55-low-poly-3d-render-by-azed_ai)
-*   [Example 54: "Extremely Ordinary" iPhone Selfie (Eason & Nicholas) (by @jiamimaodashu)](#example-54-extremely-ordinary-iphone-selfie-eason--nicholas-by-jiamimaodashu)
-*   [Example 53: Emoji Inflatable Cushion (by @gizakdag)](#example-53-emoji-inflatable-cushion-by-gizakdag)
-*   [Example 52: Paper Craft Style Emoji Icon (by @egeberkina)](#example-52-paper-craft-style-emoji-icon-by-egeberkina)
-*   [Example 51: Passport Entry Stamp (Rome) (by @M_w14_)](#example-51-passport-entry-stamp-by-m_w14_)
-*   [Example 50: Physical Destruction Effect Card (Lara Croft) (by @op7418)](#example-50-physical-destruction-effect-card-lara-croft-by-op7418)
-*   [Example 49: Fashion Magazine Cover Style (by @dotey)](#example-49-fashion-magazine-cover-style-by-dotey)
-*   [Example 48: Voxel Style 3D Icon Conversion (by @BrettFromDJ)](#example-48-voxel-style-3d-icon-conversion-by-brettfromdj)
-*   [Example 47: ESC Keycap Miniature Diorama (by @egeberkina)](#example-47-esc-keycap-miniature-diorama-by-egeberkina)
-*   [Example 46: Happy Capsule Creation (by @ZHO_ZHO_ZHO)](#example-46-happy-capsule-creation-by-zho_zho_zho)
-*   [Example 45: 3D Q-version University Anthropomorphic Mascot (by @dotey)](#example-45-3d-q-version-university-anthropomorphic-mascot-by-dotey)
-*   [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#example-44-rpg-style-character-card-creation-by-berryxia_ai)
-*   [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#example-43-q-version-cute-matryoshka-dolls-girl-with-a-pearl-earring-by-zho_zho_zho)
-*   [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#example-42-3d-q-version-couple-snow-globe-by-balconychy)
-*   [Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by @dotey)](#example-41-miniature-diorama-monkey-king-fights-white-bone-demon-by-dotey)
-*   [Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#example-40-japanese-style-two-panel-manga-angry-girl-president-by-hellokaton)
-*   [Example 39: Cartoon Illustration (Computer Head) (by @dotey)](#example-39-cartoon-illustration-computer-head-by-dotey)
-*   [Example 38: Hand-drawn Infographic Card (IP) (by @dotey)](#example-38-hand-drawn-infographic-card-ip-by-dotey)
-*   [Example 37: Social Media Post Doodle Overlay (by @op7418)](#example-37-social-media-post-doodle-overlay-by-op7418)
-*   [Example 36: Minimalist 3D Illustration (Text Prompt) (by @dotey)](#example-36-minimalist-3d-illustration-text-prompt-by-dotey)
-*   [Example 35: Fluffy Jack-o'-lantern (by gizakdag)](#example-35-fluffy-jack-o-lantern-by-gizakdag)
-*   [Example 34: Hand-drawn Infographic Card (Cognition) (by @dotey)](#example-34-hand-drawn-infographic-card-cognition-by-dotey)
-*   [Example 33: Family Wedding Photo (Q-version) (by @balconychy)](#example-33-family-wedding-photo-q-version-by-balconychy)
-*   [Example 32: Paper Cutout Style Job Ad (by @dotey)](#example-32-paper-cutout-style-job-ad-by-dotey)
-*   [Example 31: Anime Sticker Collection (by @richardchang)](#example-31-anime-sticker-collection-by-richardchang)
-*   [Example 30: 35mm Film Style Flying Island (by @dotey)](#example-30-35mm-film-style-flying-island-by-dotey)
-*   [Example 29: Famous Painting Character OOTD (by @ZHO_ZHO_ZHO)](#example-29-famous-painting-character-ootd-by-zho_zho_zho)
-*   [Example 28: Flat Sticker Design (by @ZHO_ZHO_ZHO)](#example-28-flat-sticker-design-by-zho_zho_zho)
-*   [Example 27: Q-version Emoji Sticker Pack Creation (by @dotey)](#example-27-q-version-emoji-sticker-pack-creation-by-dotey)
-*   [Example 26: Famous Painting Character Cereal Ad (by @ZHO_ZHO_ZHO)](#example-26-famous-painting-character-cereal-ad-by-zho_zho_zho)
-*   [Example 25: Minimalist 3D Illustration (by @0xdlk)](#example-25-minimalist-3d-illustration-by-0xdlk)
-*   [Example 24: Funko Pop Figure Creation (by @dotey)](#example-24-funko-pop-figure-creation-by-dotey)
-*   [Example 23: "Titanic" Pose Parody (by @balconychy)](#example-23-titanic-pose-parody-by-balconychy)
-*   [Example 22: Xiaohongshu Cover Image (by @balconychy)](#example-22-xiaohongshu-cover-image-by-balconychy)
-*   [Example 21: Stick Figure Emoji Pack (by @ZHO_ZHO_ZHO)](#example-21-stick-figure-emoji-pack-by-zho_zho_zho)
-*   [Example 20: Four-Panel Manga (Theory of Relativity) (by @dotey)](#example-20-four-panel-manga-theory-of-relativity-by-dotey)
-*   [Example 19: Textbook Illustration Redraw (by @balconychy)](#example-19-textbook-illustration-redraw-by-balconychy)
-*   [Example 18: Pixar 3D Style (by AnimeAI)](#example-18-pixar-3d-style-by-animeai)
-*   [Example 17: Digimon Style Image (by @ZHO_ZHO_ZHO)](#example-17-digimon-style-image-by-zho_zho_zho)
-*   [Example 16: Pudding Slot Machine (by @ZHO_ZHO_ZHO)](#example-16-pudding-slot-machine-by-zho_zho_zho)
-*   [Example 15: Satirical Poster Generation (by @ZHO_ZHO_ZHO)](#example-15-satirical-poster-generation-by-zho_zho_zho)
-*   [Example 14: "One Piece" Themed Figure Creation (by @dotey)](#example-14-one-piece-themed-figure-creation-by-dotey)
-*   [Example 13: Photo to 3D Q-version Style (by @dotey)](#example-13-photo-to-3d-q-version-style-by-dotey)
-*   [Example 12: 3D Couple Jewelry Box Figurine (by @dotey)](#example-12-3d-couple-jewelry-box-figurine-by-dotey)
-*   [Example 11: PS2 Game Cover (GTA x Shrek) (by @dotey)](#example-11-ps2-game-cover-gta-x-shrek-by-dotey)
-*   [Example 10: Satirical Cartoon Generation (by @dotey)](#example-10-satirical-cartoon-generation-by-dotey)
-*   [Example 9: Famous Painting as Helium Balloon (by @ZHO_ZHO_ZHO)](#example-9-famous-painting-as-helium-balloon-by-zho_zho_zho)
-*   [Example 8: Lego Collectible Figure (by @ZHO_ZHO_ZHO)](#example-8-lego-collectible-figure-by-zho_zho_zho)
-*   [Example 7: Personalized Room Design (by @ZHO_ZHO_ZHO)](#example-7-personalized-room-design-by-zho_zho_zho)
-*   [Example 6: Character Stepping Through Portal (by @dotey)](#example-6-character-stepping-through-portal-by-dotey)
-*   [Example 5: Ghibli Style (by AnimeAI)](#example-5-ghibli-style-by-animeai)
-*   [Example 4: Q-version Chinese Wedding Scene (by @balconychy)](#example-4-q-version-chinese-wedding-scene-by-balconychy)
-*   [Example 3: Vintage Promotional Poster (by @dotey)](#example-3-vintage-promotional-poster-by-dotey)
-*   [Example 2: 3D Polaroid Breakout Effect (by @dotey)](#example-2-3d-polaroid-breakout-effect-by-dotey)
-*   [Example 1: Q-version Proposal Scene (by @balconychy)](#example-1-q-version-proposal-scene-by-balconychy)
+*   [Example 68: Futuristic Logo Trading Card (by @hewarsaber)](#examples-68)
+*   [Example 67: Ultra-realistic 3D Game (by @ZHO_ZHO_ZHO)](#examples-67)
+*   [Example 66: Creative Silk Universe (by @ZHO_ZHO_ZHO)](#examples-66)
+*   [Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by @madpencil_)](#examples-65)
+*   [Example 64: Steampunk Mechanical Fish (by @f-is-h)](#examples-64)
+*   [Example 63: Emoji Cream Popsicle (by @ZHO_ZHO_ZHO)](#examples-63)
+*   [Example 62: Kawaii Enamel Pin (by @gnrlyxyz)](#examples-62)
+*   [Example 61: Fake Tweet Screenshot (Einstein) (by @egeberkina)](#examples-61)
+*   [Example 60: Emoji Tufted Rug (by @gizakdag)](#examples-60)
+*   [Example 59: Colorful Vector Art Poster (by @michaelrabone)](#examples-59)
+*   [Example 58: Cloud Art (by @umesh_ai)](#examples-58)
+*   [Example 57: 8-Bit Pixel Icon (by @egeberkina)](#examples-57)
+*   [Example 56: Miniature 3D Building (by @dotey)](#examples-56)
+*   [Example 55: Low-Poly 3D Render (by @azed_ai)](#examples-55)
+*   [Example 54: "Extremely Ordinary" iPhone Selfie (Eason & Nicholas) (by @jiamimaodashu)](#examples-54)
+*   [Example 53: Emoji Inflatable Cushion (by @gizakdag)](#examples-53)
+*   [Example 52: Paper Craft Style Emoji Icon (by @egeberkina)](#examples-52)
+*   [Example 51: Passport Entry Stamp (Rome) (by @M_w14_)](#examples-51)
+*   [Example 50: Physical Destruction Effect Card (Lara Croft) (by @op7418)](#examples-50)
+*   [Example 49: Fashion Magazine Cover Style (by @dotey)](#examples-49)
+*   [Example 48: Voxel Style 3D Icon Conversion (by @BrettFromDJ)](#examples-48)
+*   [Example 47: ESC Keycap Miniature Diorama (by @egeberkina)](#examples-47)
+*   [Example 46: Happy Capsule Creation (by @ZHO_ZHO_ZHO)](#examples-46)
+*   [Example 45: 3D Q-version University Anthropomorphic Mascot (by @dotey)](#examples-45)
+*   [Example 44: RPG-Style Character Card Creation (by @berryxia_ai)](#examples-44)
+*   [Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#examples-43)
+*   [Example 42: 3D Q-version Couple Snow Globe (by @balconychy)](#examples-42)
+*   [Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by @dotey)](#examples-41)
+*   [Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#examples-40)
+*   [Example 39: Cartoon Illustration (Computer Head) (by @dotey)](#examples-39)
+*   [Example 38: Hand-drawn Infographic Card (IP) (by @dotey)](#examples-38)
+*   [Example 37: Social Media Post Doodle Overlay (by @op7418)](#examples-37)
+*   [Example 36: Minimalist 3D Illustration (Text Prompt) (by @dotey)](#examples-36)
+*   [Example 35: Fluffy Jack-o'-lantern (by gizakdag)](#examples-35)
+*   [Example 34: Hand-drawn Infographic Card (Cognition) (by @dotey)](#examples-34)
+*   [Example 33: Family Wedding Photo (Q-version) (by @balconychy)](#examples-33)
+*   [Example 32: Paper Cutout Style Job Ad (by @dotey)](#examples-32)
+*   [Example 31: Anime Sticker Collection (by @richardchang)](#examples-31)
+*   [Example 30: 35mm Film Style Flying Island (by @dotey)](#examples-30)
+*   [Example 29: Famous Painting Character OOTD (by @ZHO_ZHO_ZHO)](#examples-29)
+*   [Example 28: Flat Sticker Design (by @ZHO_ZHO_ZHO)](#examples-28)
+*   [Example 27: Q-version Emoji Sticker Pack Creation (by @dotey)](#examples-27)
+*   [Example 26: Famous Painting Character Cereal Ad (by @ZHO_ZHO_ZHO)](#examples-26)
+*   [Example 25: Minimalist 3D Illustration (by @0xdlk)](#examples-25)
+*   [Example 24: Funko Pop Figure Creation (by @dotey)](#examples-24)
+*   [Example 23: "Titanic" Pose Parody (by @balconychy)](#examples-23)
+*   [Example 22: Xiaohongshu Cover Image (by @balconychy)](#examples-22)
+*   [Example 21: Stick Figure Emoji Pack (by @ZHO_ZHO_ZHO)](#examples-21)
+*   [Example 20: Four-Panel Manga (Theory of Relativity) (by @dotey)](#examples-20)
+*   [Example 19: Textbook Illustration Redraw (by @balconychy)](#examples-19)
+*   [Example 18: Pixar 3D Style (by AnimeAI)](#examples-18)
+*   [Example 17: Digimon Style Image (by @ZHO_ZHO_ZHO)](#examples-17)
+*   [Example 16: Pudding Slot Machine (by @ZHO_ZHO_ZHO)](#examples-16)
+*   [Example 15: Satirical Poster Generation (by @ZHO_ZHO_ZHO)](#examples-15)
+*   [Example 14: "One Piece" Themed Figure Creation (by @dotey)](#examples-14)
+*   [Example 13: Photo to 3D Q-version Style (by @dotey)](#examples-13)
+*   [Example 12: 3D Couple Jewelry Box Figurine (by @dotey)](#examples-12)
+*   [Example 11: PS2 Game Cover (GTA x Shrek) (by @dotey)](#examples-11)
+*   [Example 10: Satirical Cartoon Generation (by @dotey)](#examples-10)
+*   [Example 9: Famous Painting as Helium Balloon (by @ZHO_ZHO_ZHO)](#examples-9)
+*   [Example 8: Lego Collectible Figure (by @ZHO_ZHO_ZHO)](#examples-8)
+*   [Example 7: Personalized Room Design (by @ZHO_ZHO_ZHO)](#examples-7)
+*   [Example 6: Character Stepping Through Portal (by @dotey)](#examples-6)
+*   [Example 5: Ghibli Style (by AnimeAI)](#examples-5)
+*   [Example 4: Q-version Chinese Wedding Scene (by @balconychy)](#examples-4)
+*   [Example 3: Vintage Promotional Poster (by @dotey)](#examples-3)
+*   [Example 2: 3D Polaroid Breakout Effect (by @dotey)](#examples-2)
+*   [Example 1: Q-version Proposal Scene (by @balconychy)](#examples-1)
 
 ---
 
@@ -138,6 +138,7 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-68"></a>
 ## Example 68: Futuristic Logo Trading Card (by [@hewarsaber](https://x.com/hewarsaber))
 
 [Source Link](https://x.com/hewarsaber/status/1912933875166171515)
@@ -178,6 +179,7 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-67"></a>
 ## Example 67: Ultra-realistic 3D Game (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) )
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
@@ -196,6 +198,7 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-66"></a>
 ## Example 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) )
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
@@ -213,6 +216,7 @@ Transform the ❄️ into a soft 3D object with a silk texture. The entire surfa
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-65"></a>
 ## Example 65: Trompe-l'œil Three-Dimensional Spatial Art (by [@madpencil_](https://x.com/madpencil_) )
 
 [Source Link](https://x.com/madpencil_/status/1915099250079469907)
@@ -231,6 +235,7 @@ Trompe l'oeil illusion of A (subject) (attire) steps out of a large screen displ
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-64"></a>
 ## Example 64: Steampunk Mechanical Fish (by [@f-is-h](https://github.com/f-is-h))
 
 [Source Link](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
@@ -253,6 +258,7 @@ The entire fish looks very cool. This is a high-definition image with extremely 
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-63"></a>
 ## Example 63: Emoji Cream Popsicle (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
@@ -269,6 +275,7 @@ Turn 【🍓】 into a cream popsicle, with cream swirling deliciously on top, s
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-62"></a>
 ## Example 62: Kawaii Enamel Pin (by [@gnrlyxyz](https://x.com/gnrlyxyz))
 
 [Source Link](https://x.com/gnrlyxyz/status/1914303110853583302)
@@ -287,6 +294,7 @@ Turn the subject in the attached image into a kawaii enamel pin. Use glossy meta
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-61"></a>
 ## Example 61: Fake Tweet Screenshot (Einstein) (by [@egeberkina](https://x.com/egeberkina))
 
 [Source Link](https://x.com/egeberkina/status/1914299716394778713)
@@ -301,6 +309,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-60"></a>
 ## Example 60: Emoji Tufted Rug (by [@gizakdag](https://x.com/gizakdag))
 
 [Source Link](https://x.com/gizakdag/status/1913925062568144924)
@@ -317,6 +326,7 @@ Create an image of a colorful, hand-tufted rug in the shape of 🦖 emoji, place
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-59"></a>
 ## Example 59: Colorful Vector Art Poster (by [@michaelrabone](https://x.com/michaelrabone))
 
 [Source Link](https://x.com/michaelrabone/status/1913865394139316291)
@@ -333,6 +343,7 @@ Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-58"></a>
 ## Example 58: Cloud Art (by [@umesh_ai](https://x.com/umesh_ai))
 
 [Source Link](https://x.com/umesh_ai/status/1913628737872027805)
@@ -350,6 +361,7 @@ Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] fo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-57"></a>
 ## Example 57: 8-Bit Pixel Icon (by [@egeberkina](https://x.com/egeberkina))
 
 [Source Link](https://x.com/egeberkina/status/1913654508330058064)
@@ -366,6 +378,7 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-56"></a>
 ## Example 56: Miniature 3D Building (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1913759515700285569)
@@ -381,6 +394,7 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-55"></a>
 ## Example 55: Low-Poly 3D Render (by [@azed_ai](https://x.com/azed_ai))
 
 [Source Link](https://x.com/azed_ai/status/1912084257918595342)
@@ -397,6 +411,7 @@ A low-poly 3D render of a [subject], built from clean triangular facets with fla
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-54"></a>
 ## Example 54: "Extremely Ordinary" iPhone Selfie (Eason & Nicholas) (by [@jiamimaodashu](https://x.com/jiamimaodashu))
 
 [Source Link](https://x.com/jiamimaodashu/status/1912653073190879410)
@@ -413,6 +428,7 @@ Please draw an extremely ordinary iPhone selfie, lacking a clear subject or sens
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-53"></a>
 ## Example 53: Emoji Inflatable Cushion (by [@gizakdag](https://x.com/gizakdag))
 
 [Source Link](https://x.com/gizakdag/status/1912858535643197927)
@@ -429,6 +445,7 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-52"></a>
 ## Example 52: Paper Craft Style Emoji Icon (by [@egeberkina](https://x.com/egeberkina))
 
 [Source Link](https://x.com/egeberkina/status/1912521263085482464)
@@ -445,6 +462,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-51"></a>
 ## Example 51: Passport Entry Stamp (by [@M_w14_](https://x.com/M_w14_))
 
 [Source Link](https://x.com/M_w14_/status/1912146666410459618)
@@ -461,6 +479,7 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-50"></a>
 ## Example 50: Physical Destruction Effect Card (Lara Croft) (by [@op7418](https://x.com/op7418))
 
 [Source Link 1](https://x.com/op7418/status/1912782048160542886)
@@ -477,6 +496,7 @@ A hyper-realistic, cinematic illustration depicting Lara Croft dynamically crash
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-49"></a>
 ## Example 49: Fashion Magazine Cover Style (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1912536019905233194)
@@ -491,6 +511,7 @@ A beautiful woman wearing a pink cheongsam, floral headwear with colorful flower
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-48"></a>
 ## Example 48: Voxel Style 3D Icon Conversion (by [@BrettFromDJ](https://x.com/BrettFromDJ))
 
 [Source Link](https://x.com/BrettFromDJ/status/1910387413404234076)
@@ -509,6 +530,7 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-47"></a>
 ## Example 47: ESC Keycap Miniature Diorama (by [@egeberkina](https://x.com/egeberkina))
 
 [Source Link](https://x.com/egeberkina/status/1911368319212408926)
@@ -523,6 +545,7 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-46"></a>
 ## Example 46: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
@@ -543,6 +566,7 @@ The purchase button is the same color as the pill, and the price below is $9. Pl
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-45"></a>
 ## Example 45: 3D Q-version University Anthropomorphic Mascot (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1911988003729203648)
@@ -558,6 +582,7 @@ The purchase button is the same color as the pill, and the price below is $9. Pl
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-44"></a>
 ## Example 44: RPG-Style Character Card Creation (by [@berryxia_ai](https://x.com/berryxia_ai))
 
 [Source Link](https://x.com/berryxia_ai/status/1911334046724165905)
@@ -583,6 +608,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-43"></a>
 ## Example 43: Q-version Cute Matryoshka Dolls (Girl with a Pearl Earring) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
@@ -601,6 +627,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-42"></a>
 ## Example 42: 3D Q-version Couple Snow Globe (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1909908568129655248)
@@ -617,6 +644,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-41"></a>
 ## Example 41: Miniature Diorama (Monkey King Fights White Bone Demon) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1911609122547449886)
@@ -632,6 +660,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-40"></a>
 ## Example 40: Japanese-style Two-Panel Manga (Angry Girl President) (by [@hellokaton](https://x.com/hellokaton))
 
 [Source Link](https://x.com/hellokaton/status/1910900979194646959)
@@ -666,6 +695,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-39"></a>
 ## Example 39: Cartoon Illustration (Computer Head) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1905103477879267823)
@@ -680,6 +710,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-38"></a>
 ## Example 38: Hand-drawn Infographic Card (IP) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1907870919852179850)
@@ -700,6 +731,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-37"></a>
 ## Example 37: Social Media Post Doodle Overlay (by [@op7418](https://x.com/op7418))
 
 [Source Link](https://x.com/op7418/status/1906208691877253536)
@@ -715,6 +747,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-36"></a>
 ## Example 36: Minimalist 3D Illustration (Text Prompt) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1907131027253772399)
@@ -768,6 +801,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-35"></a>
 ## Example 35: Fluffy Jack-o'-lantern (by [gizakdag](https://x.com/gizakdag))
 
 [Source Link 1](https://x.com/gizakdag/status/1911075302941622512)
@@ -783,6 +817,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-34"></a>
 ## Example 34: Hand-drawn Infographic Card (Cognition) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1907903480678985784)
@@ -807,6 +842,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-33"></a>
 ## Example 33: Family Wedding Photo (Q-version) (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1909426314643222595)
@@ -822,6 +858,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-32"></a>
 ## Example 32: Paper Cutout Style Job Ad (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1905021792642564406)
@@ -836,6 +873,7 @@ The image shows professional drivers of cars and trucks at work, impressive urba
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-31"></a>
 ## Example 31: Anime Sticker Collection (by [@richardchang](https://x.com/richardchang))
 
 [Source Link](https://x.com/richardchang/status/1909086122959139312)
@@ -850,6 +888,7 @@ Naruto stickers
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-30"></a>
 ## Example 30: 35mm Film Style Flying Island (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1905020833451348283)
@@ -864,6 +903,7 @@ Naruto stickers
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-29"></a>
 ## Example 29: Famous Painting Character OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
@@ -884,6 +924,7 @@ Naruto stickers
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-28"></a>
 ## Example 28: Flat Sticker Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
@@ -899,6 +940,7 @@ Naruto stickers
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-27"></a>
 ## Example 27: Q-version Emoji Sticker Pack Creation (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1909800530739679488)
@@ -922,6 +964,7 @@ Aspect ratio: 9:16
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-26"></a>
 ## Example 26: Famous Painting Character Cereal Ad (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
@@ -937,6 +980,7 @@ Aspect ratio: 9:16
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-25"></a>
 ## Example 25: Minimalist 3D Illustration (by [@0xdlk](https://x.com/0xdlk))
 
 [Source Link](https://x.com/0xdlk/status/1906843247432929642)
@@ -988,6 +1032,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-24"></a>
 ## Example 24: Funko Pop Figure Creation (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1909047283485671924)
@@ -1003,6 +1048,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-23"></a>
 ## Example 23: "Titanic" Pose Parody (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1909916265067557299)
@@ -1022,6 +1068,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-22"></a>
 ## Example 22: Xiaohongshu Cover Image (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1905507936526627078)
@@ -1053,6 +1100,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-21"></a>
 ## Example 21: Stick Figure Emoji Pack (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909907741948399873)
@@ -1070,6 +1118,7 @@ Generate a toilet with the following JSON profile:
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-20"></a>
 ## Example 20: Four-Panel Manga (Theory of Relativity) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1904980568107819060)
@@ -1084,6 +1133,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-19"></a>
 ## Example 19: Textbook Illustration Redraw (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1906982626365178361)
@@ -1099,6 +1149,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-18"></a>
 ## Example 18: Pixar 3D Style (by [AnimeAI](https://animeai.online))
 
 [Source Link](https://animeai.online/#demo-gallery)
@@ -1114,6 +1165,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-17"></a>
 ## Example 17: Digimon Style Image (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911001291280859559)
@@ -1129,6 +1181,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-16"></a>
 ## Example 16: Pudding Slot Machine (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911107569898471818)
@@ -1143,6 +1196,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-15"></a>
 ## Example 15: Satirical Poster Generation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
@@ -1157,6 +1211,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-14"></a>
 ## Example 14: "One Piece" Themed Figure Creation (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1909047547563213145)
@@ -1174,6 +1229,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-13"></a>
 ## Example 13: Photo to 3D Q-version Style (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1908194518345678865)
@@ -1189,6 +1245,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-12"></a>
 ## Example 12: 3D Couple Jewelry Box Figurine (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1909332895115714835)
@@ -1207,6 +1264,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-11"></a>
 ## Example 11: PS2 Game Cover (GTA x Shrek) (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1904978767090524372)
@@ -1221,6 +1279,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-10"></a>
 ## Example 10: Satirical Cartoon Generation (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1910514811756065159)
@@ -1235,6 +1294,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-9"></a>
 ## Example 9: Famous Painting as Helium Balloon (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910976632141267237)
@@ -1250,6 +1310,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-8"></a>
 ## Example 8: Lego Collectible Figure (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
@@ -1281,6 +1342,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-7"></a>
 ## Example 7: Personalized Room Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
@@ -1296,6 +1358,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-6"></a>
 ## Example 6: Character Stepping Through Portal (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1908910838636765204)
@@ -1312,6 +1375,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-5"></a>
 ## Example 5: Ghibli Style (by [AnimeAI](https://animeai.online))
 
 [Source Link](https://animeai.online/#demo-gallery)
@@ -1329,6 +1393,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-4"></a>
 ## Example 4: Q-version Chinese Wedding Scene (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1909418699150237917)
@@ -1344,6 +1409,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-3"></a>
 ## Example 3: Vintage Promotional Poster (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1905251524248248650)
@@ -1358,6 +1424,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-2"></a>
 ## Example 2: 3D Polaroid Breakout Effect (by [@dotey](https://x.com/dotey))
 
 [Source Link](https://x.com/dotey/status/1908238003169903060)
@@ -1373,6 +1440,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 [⬆️ Back to Directory](#example-toc)
 
 
+<a id="examples-1"></a>
 ## Example 1: Q-version Proposal Scene (by [@balconychy](https://x.com/balconychy))
 
 [Source Link](https://x.com/balconychy/status/1909417750587486469)
