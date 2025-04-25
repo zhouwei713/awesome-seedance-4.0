@@ -1,5 +1,6 @@
 # 中文案例
 
+<a id="examples-41"></a>
 ## 案例 41：微型立体场景 (孙悟空三打白骨精) (by [@dotey](https://x.com/dotey))
 
 [原文链接](https://x.com/dotey/status/1911609122547449886)
@@ -15,11 +16,14 @@
 
 **需上传参考图片：** N/A
 
+[⬆️ 返回案例目录](#example-toc)
+
 
 ---
 
 # English Example
 
+<a id="examples-52"></a>
 ## Example 52: Paper Craft Style Emoji Icon (by [@egeberkina](https://x.com/egeberkina))
 
 [Source Link](https://x.com/egeberkina/status/1912521263085482464)
@@ -34,3 +38,8 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 *Note: The "🔥" emoji in the prompt can be replaced with other emojis.*
 
 **Reference Image Required: ** N/A
+
+[⬆️ Back to Directory](#example-toc)
+
+
+---
