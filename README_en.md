@@ -13,7 +13,14 @@ This repo gathers striking examples produced by OpenAI's newest multimodal model
 
 Most examples come from Twitter/X 🐦. May they spark ideas 💡 and turbo‑charge your creativity 🚀.
 
-<strong>OpenAI’s latest gpt-image-1 image generation model is now available via API, delivering higher fidelity, diverse styles, and precise editing capabilities. For details, see the [🛠️ Tools Introduction](#tools-toc).</strong>
+OpenAI’s latest cutting-edge image model, **gpt-image-1**, has been released, offering even more powerful image generation capabilities and is available via API.
+
+<strong>Check out the 40+ brilliant examples below, carefully curated and translated by this project, sourced from OpenAI official materials, showcasing the power of `gpt-image-1`! 👇</strong>
+
+-   Chinese Version: [OpenAI gpt-image-1: 40 Curated Prompt & Image Examples (Chinese)](./gpt-image-1/gpt-image-1.md)
+-   English Version: [OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
+
+*Note: Both `gpt-image-1` and GPT-4o are OpenAI's latest image generation products, supported by largely the same underlying models. The main difference is that the former is currently accessed via API, while the latter powers official products like ChatGPT. `gpt-image-1` represents the newer iteration available through the API.*
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 

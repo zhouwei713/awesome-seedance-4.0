@@ -13,7 +13,14 @@
 
 案例主要来源于 Twitter/X 🐦，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
-<strong>OpenAI 最新发布的 gpt‑image‑1 图像生成模型，提供API访问，具备更高保真度、多样风格和精准编辑能力，详情见[🛠️ 工具介绍](#tools-toc)。</strong>
+OpenAI 最新尖端图像模型 gpt‑image‑1 已发布，图像生成能力更加强大，通过 API 调用提供服务。
+
+<strong>下面的 40+ 精彩案例，由本项目精心整理和翻译，来自OpenAI官方，展示 gpt‑image‑1 的强大能力。请戳👇</strong>
+
+- 中文版：[OpenAI gpt-image-1：40 个精选图像案例及提示词](./gpt-image-1/gpt-image-1.md)
+- 英文版：[OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
+
+*注：gpt‑image‑1 和 GPT‑4o 都是 OpenAI 的最新图像生成产品，背后的支持模型是大致相同的。不同的是前者仅提供 API 访问，后者仅提供官方产品访问，且 gpt‑image‑1 目前较新一些。*
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
