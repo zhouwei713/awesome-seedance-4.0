@@ -5,7 +5,7 @@
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](gpt-image-1.md)
 [![Back to Awesome List](https://img.shields.io/badge/Back%20to%20Awesome%20List-Click-blue)](https://github.com/jamez-bondos/awesome-gpt4o-images)
 
-`gpt-image-1` is OpenAI’s brand-new, state-of-the-art image model now available via the API. Image generation features in GPT-4o are powered by the gpt-image-1 model. 
+`gpt-image-1` is OpenAI’s brand-new, state-of-the-art image model now available via the API.
 
 The 40 examples below are curated directly from [OpenAI’s Official Image Generation Guide](https://platform.openai.com/docs/guides/image-generation) and showcase the five core features of the gpt-image-1 model:
 - ✅ More accurate, high fidelity images
@@ -13,6 +13,8 @@ The 40 examples below are curated directly from [OpenAI’s Official Image Gener
 - ✏️ Precise image editing
 - 🌎 Rich world knowledge
 - 🔤 Consistent text rendering
+
+*Note: Both `gpt-image-1` and GPT-4o are OpenAI's latest image generation products, supported by largely the same underlying models. The main difference is that the former is currently accessed via API, while the latter powers official products like ChatGPT and Sora. `gpt-image-1` represents the newer iteration available through the API.*
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 

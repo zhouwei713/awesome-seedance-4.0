@@ -5,7 +5,7 @@
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](gpt-image-1.md)
 [![Back to Awesome List](https://img.shields.io/badge/Back%20to%20Awesome%20List-Click-blue)](https://github.com/jamez-bondos/awesome-gpt4o-images)
 
-`gpt-image-1` 是 OpenAI 最新发布的尖端图像模型，现已通过 API 对外开放。GPT-4o的图像生成功能由 gpt-image-1 模型提供。
+`gpt-image-1` 是 OpenAI 最新发布的尖端图像模型，现已通过 API 对外开放。
 
 本文选择 40 个精彩案例，展示 gpt-image-1 模型的五大特点：
 - ✅ 更精准、高保真图像
@@ -15,6 +15,8 @@
 - 🔤 稳定文字渲染
 
 这些精彩案例全部来自于OpenAI官方，为方便学习和查看，现精心翻译为中文版本。
+
+*注：gpt‑image‑1 和 GPT‑4o 都是 OpenAI 的最新图像生成产品，背后的支持模型是大致相同的。不同的是 gpt‑image‑1 仅提供 API 访问，且 gpt‑image‑1 目前较新一些。*
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
