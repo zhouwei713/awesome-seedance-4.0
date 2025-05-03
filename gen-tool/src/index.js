@@ -14,11 +14,11 @@ const lang = args_lang ? args_lang.split('=')[1] : 'zh';
 const t = langs[lang];
 
 // read all case files
-const caseDirs = fs.readdirSync(path.join(__dirname, '../../data/cases'));
+const caseDirs = fs.readdirSync(path.join(__dirname, '../../cases'));
 const numericDirs = caseDirs.filter(dir => !isNaN(dir));
 let cases = numericDirs.map(dir => {
   const caseNumber = parseInt(dir);
-  const casePath = path.join(__dirname, '../../data/cases', dir, 'case.yaml');
+  const casePath = path.join(__dirname, '../../cases', dir, 'case.yaml');
   const caseData = yaml.load(fs.readFileSync(casePath, 'utf8'));
   return {
     case_no: caseNumber,
