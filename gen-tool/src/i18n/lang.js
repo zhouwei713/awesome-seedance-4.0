@@ -8,18 +8,18 @@ const langs = {
     'prompt_note_caption': '注意：',
     'reference_note_caption': '需上传参考图片：',
     'submitter_caption': '案例提交：',
-    'return_to_examples_toc_caption': '返回案例目录',
+    'return_to_cases_toc_caption': '返回案例目录',
   },
   'en': {
     'colon': ': ',
-    'case_caption': 'Example',
-    'case_toc_caption': 'Examples Directory',
+    'case_caption': 'Case',
+    'case_toc_caption': 'Cases Directory',
     'prompt_caption': 'Prompt',
     'source_link_caption': 'Source Link',
     'prompt_note_caption': 'Note:',
     'reference_note_caption': 'Reference Image Required:',
     'submitter_caption': 'Submitter:',
-    'return_to_examples_toc_caption': 'Back to Directory',
+    'return_to_cases_toc_caption': 'Back to Cases Directory',
   },
 };
 

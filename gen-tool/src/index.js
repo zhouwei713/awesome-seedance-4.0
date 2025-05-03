@@ -28,27 +28,27 @@ let cases = numericDirs.map(dir => {
 // Sort cases in descending order by case number
 cases.sort((a, b) => b.case_no - a.case_no);
 
-// render examples
-const example_template = fs.readFileSync(path.join(__dirname, '../templates/example.templ'), 'utf8');
-let examples = '';
+// render cases
+const case_template = fs.readFileSync(path.join(__dirname, '../templates/case.templ'), 'utf8');
+let cases_contents = '';
 for (const c of cases) {
     const source_links = c.source_links.length === 1
       ? `[${t.source_link_caption}](${c.source_links[0].url})`
     : c.source_links.map((link, i) => `[${t.source_link_caption}${i + 1}](${link.url})`).join(' | ');
 
-  examples += Mustache.render(example_template, {
-    case_no: c.case_no,
-    t: t,
-    title: lang === 'zh' ? c.title : c.title_en,
-    author: c.author,
-    author_link: c.author_link,
-    source_links: source_links,
-    image: c.image,
-    alt_text: lang === 'zh' ? c.alt_text.trim() : c.alt_text_en.trim(),
-    prompt: lang === 'zh' ? c.prompt.trim() : c.prompt_en.trim(),
-    prompt_note: lang === 'zh' ? c.prompt_note.trim() : c.prompt_note_en.trim(),
-    reference_note: lang === 'zh' ? c.reference_note.trim() : c.reference_note_en.trim(),
-    submitter: c.submitter,
+    cases_contents += Mustache.render(case_template, {
+      case_no: c.case_no,
+      t: t,
+      title: lang === 'zh' ? c.title : c.title_en,
+      author: c.author,
+      author_link: c.author_link,
+      source_links: source_links,
+      image: c.image,
+      alt_text: lang === 'zh' ? c.alt_text.trim() : c.alt_text_en.trim(),
+      prompt: lang === 'zh' ? c.prompt.trim() : c.prompt_en.trim(),
+      prompt_note: lang === 'zh' ? c.prompt_note.trim() : c.prompt_note_en.trim(),
+      reference_note: lang === 'zh' ? c.reference_note.trim() : c.reference_note_en.trim(),
+      submitter: c.submitter,
       submitter_link: c.submitter_link,
     }) + '\n';
 }
@@ -64,7 +64,7 @@ const data = {
   'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.templ'), 'utf8'),
   'table-of-contents': fs.readFileSync(path.join(__dirname, '../templates', lang, 'table-of-contents.templ'), 'utf8'),
   'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.templ'), 'utf8'),
-  'examples': examples,
+  'cases-contents': cases_contents,
   'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.templ'), 'utf8'),
   'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.templ'), 'utf8'),
   'how-to-contribute': fs.readFileSync(path.join(__dirname, '../templates', lang, 'how-to-contribute.templ'), 'utf8'),
