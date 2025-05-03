@@ -77,6 +77,6 @@ const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
 // Write the rendered README
-const filename = lang === 'zh' ? 'README_generated.md' : 'README_generated_en.md';
+const filename = lang === 'zh' ? 'README.md' : 'README_en.md';
 fs.writeFileSync(path.join(__dirname, '../..', filename), renderedReadme);
 console.log(`${filename} generated successfully`);
