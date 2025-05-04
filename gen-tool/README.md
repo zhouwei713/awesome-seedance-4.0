@@ -22,7 +22,7 @@ npm install
 ### Generate README for Chinese
 
 ```bash
-npm run generate
+npm run generate-zh
 ```
 
 ### Generate README for English
@@ -34,7 +34,7 @@ npm run generate-en
 ### Generate README for both languages
 
 ```bash
-npm run generate-all
+npm run generate
 ```
 
 ## 📁 Project Structure
@@ -46,13 +46,14 @@ npm run generate-all
   - `README.md.md` - Main template
   - `zh/` - Chinese templates
   - `en/` - English templates
+- `preview/` - auto-generated preview README files
 
 ## 🧩 How It Works
 
 1. The tool reads numeric directories from the `cases` folder
 2. It loads each case's YAML data
 3. It processes the data and applies it to templates 
-4. It generates README files (`README.md` for Chinese, `README_en.md` for English)
+4. It generates preview README files (`README.md` for Chinese, `README_en.md` for English)
 
 ## 📝 Note
 
