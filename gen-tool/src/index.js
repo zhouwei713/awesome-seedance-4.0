@@ -22,7 +22,7 @@ let cases = numericDirs.map(dir => {
   const caseData = yaml.load(fs.readFileSync(casePath, 'utf8'));
   return {
     case_no: caseNumber,
-    ...caseData[0]
+    ...caseData
   };
 });
 // Sort cases in descending order by case number
