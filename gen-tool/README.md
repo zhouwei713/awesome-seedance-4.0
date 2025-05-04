@@ -43,7 +43,7 @@ npm run generate-all
   - `index.js` - Main script
   - `i18n/` - Internationalization files
 - `templates/` - Templates for README generation
-  - `README.md.templ` - Main template
+  - `README.md.md` - Main template
   - `zh/` - Chinese templates
   - `en/` - English templates
 

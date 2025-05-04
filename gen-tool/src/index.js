@@ -29,7 +29,7 @@ let cases = numericDirs.map(dir => {
 cases.sort((a, b) => b.case_no - a.case_no);
 
 // render cases
-const case_template = fs.readFileSync(path.join(__dirname, '../templates/case.templ'), 'utf8');
+const case_template = fs.readFileSync(path.join(__dirname, '../templates/case.md'), 'utf8');
 let cases_contents = '';
 for (const c of cases) {
     const source_links = c.source_links.length === 1
@@ -61,19 +61,19 @@ const data = {
     title: lang === 'zh' ? c.title : c.title_en,
     author: c.author,
   })),
-  'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.templ'), 'utf8'),
-  'table-of-contents': fs.readFileSync(path.join(__dirname, '../templates', lang, 'table-of-contents.templ'), 'utf8'),
-  'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.templ'), 'utf8'),
+  'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.md'), 'utf8'),
+  'table-of-contents': fs.readFileSync(path.join(__dirname, '../templates', lang, 'table-of-contents.md'), 'utf8'),
+  'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.md'), 'utf8'),
   'cases-contents': cases_contents,
-  'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.templ'), 'utf8'),
-  'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.templ'), 'utf8'),
-  'how-to-contribute': fs.readFileSync(path.join(__dirname, '../templates', lang, 'how-to-contribute.templ'), 'utf8'),
-  'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.templ'), 'utf8'),
-  'star-history': fs.readFileSync(path.join(__dirname, '../templates', lang, 'star-history.templ'), 'utf8')
+  'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.md'), 'utf8'),
+  'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.md'), 'utf8'),
+  'how-to-contribute': fs.readFileSync(path.join(__dirname, '../templates', lang, 'how-to-contribute.md'), 'utf8'),
+  'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8'),
+  'star-history': fs.readFileSync(path.join(__dirname, '../templates', lang, 'star-history.md'), 'utf8')
 };
 
 // Render the README template
-const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README.md.templ'), 'utf8');
+const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README.md.md'), 'utf8');
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
 // Write the rendered README
