@@ -56,6 +56,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 85: Surreal Interaction Scene (by @umesh_ai)](#cases-85)
 *   [Case 84: Animal Silicone Wrist Rest (by @ZHO_ZHO_ZHO)](#cases-84)
 *   [Case 83: Glowing Lines Anatomy Diagram (by @umesh_ai)](#cases-83)
 *   [Case 82: Signature City Weather Forecast (by @dotey)](#cases-82)
@@ -145,6 +146,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-85"></a>
+### Case 85: Surreal Interaction Scene (by [@umesh_ai](https://x.com/umesh_ai))
+
+[Source Link](https://x.com/umesh_ai/status/1917444534239191544)
+
+<img src="cases/85/case.png" width="300" alt="Surreal Interaction Scene">
+
+**Prompt**
+
+```
+A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast against the hand-drawn style of [Subject 1] and the background
+```
+
+*Note: Replace [Subject 1] and [Subject 2] in the prompt with specific subject descriptions, such as "a hand" and "a rose".*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-84"></a>
 ### Case 84: Animal Silicone Wrist Rest (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))

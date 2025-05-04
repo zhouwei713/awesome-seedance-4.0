@@ -58,6 +58,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 85：超现实交互场景 (by @umesh_ai)](#cases-85)
 *   [案例 84：动物硅胶腕托 (by @ZHO_ZHO_ZHO)](#cases-84)
 *   [案例 83：发光线条解剖图 (by @umesh_ai)](#cases-83)
 *   [案例 82：特色城市天气预报 (by @dotey)](#cases-82)
@@ -147,6 +148,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-85"></a>
+### 案例 85：超现实交互场景 (by [@umesh_ai](https://x.com/umesh_ai))
+
+[原文链接](https://x.com/umesh_ai/status/1917444534239191544)
+
+<img src="cases/85/case.png" width="300" alt="超现实交互场景">
+
+**提示词**
+
+```
+一幅铅笔素描画，描绘了 [Subject 1] 与 [Subject 2] 互动的场景，其中 [Subject 2] 以逼真的全彩风格呈现，与 [Subject 1] 及背景的手绘素描风格形成超现实的对比。
+```
+
+*注意： 替换提示词中的[主体1]和[主体2]为具体的主体描述，例如"一个女孩"和"一朵玫瑰"。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-84"></a>
 ### 案例 84：动物硅胶腕托 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
