@@ -56,6 +56,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 87: Integrating Word Meaning into Letters (by @dotey)](#cases-87)
 *   [Case 86: Double Exposure (by rezzycheck (Sora))](#cases-86)
 *   [Case 85: Surreal Interaction Scene (by @umesh_ai)](#cases-85)
 *   [Case 84: Animal Silicone Wrist Rest (by @ZHO_ZHO_ZHO)](#cases-84)
@@ -147,6 +148,29 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-87"></a>
+### Case 87: Integrating Word Meaning into Letters (by [@dotey](https://x.com/dotey))
+
+[Source Link](https://x.com/dotey/status/1918529055340576812)
+
+<img src="cases/87/case.png" width="300" alt="Integrating Word Meaning into Letters">
+
+**Prompt**
+
+```
+Integrate the meaning of the word into the letters, cleverly blending graphics and letters.
+Word: {beautify}
+Add a brief explanation of the word below.
+```
+
+*Note: Replace the word { beautify } with the word you want to integrate*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-86"></a>
 ### Case 86: Double Exposure (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))

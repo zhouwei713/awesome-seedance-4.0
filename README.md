@@ -58,6 +58,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 87：字母与单词含义融合 (by @dotey)](#cases-87)
 *   [案例 86：双重曝光 (by rezzycheck (Sora))](#cases-86)
 *   [案例 85：超现实交互场景 (by @umesh_ai)](#cases-85)
 *   [案例 84：动物硅胶腕托 (by @ZHO_ZHO_ZHO)](#cases-84)
@@ -149,6 +150,29 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-87"></a>
+### 案例 87：字母与单词含义融合 (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1918529055340576812)
+
+<img src="cases/87/case.png" width="300" alt="字母与单词含义融合">
+
+**提示词**
+
+```
+在字母中融入单词的含义，将图形和字母巧妙融合在一起。
+单词：{ beautify }
+下面加上单词的简要说明
+```
+
+*注意： 替换单词{ beautify }为想要融合的单词*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-86"></a>
 ### 案例 86：双重曝光 (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
