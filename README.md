@@ -58,6 +58,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 86：双重曝光 (by rezzycheck (Sora))](#cases-86)
 *   [案例 85：超现实交互场景 (by @umesh_ai)](#cases-85)
 *   [案例 84：动物硅胶腕托 (by @ZHO_ZHO_ZHO)](#cases-84)
 *   [案例 83：发光线条解剖图 (by @umesh_ai)](#cases-83)
@@ -148,6 +149,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-86"></a>
+### 案例 86：双重曝光 (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
+
+[原文链接](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
+
+<img src="cases/86/double_exposure.png" width="300" alt="双重曝光">
+
+**提示词**
+
+```
+双重曝光，Midjourney 风格，融合、混合、叠加的双重曝光图像，双重曝光风格。一幅由 Yukisakura 创作的杰出杰作，展现了一个奇妙的双重曝光构图，将阿拉贡·阿拉松之子的剪影与生机勃勃春季里中土世界视觉上引人注目、崎岖的地貌和谐地交织在一起。沐浴阳光的松树林、山峰和一匹孤独的马穿过小径的景象从他身形的纹理中向外回响，增添了叙事和孤独的层次感。当简洁分明的单色背景保持着锐利的对比度时，美妙的张力逐渐形成，将所有焦点吸引到层次丰富的双重曝光上。其特点是阿拉贡剪影内部充满活力的全彩色方案，以及用情感的精确性描摹每个轮廓的清晰、刻意的线条。(Detailed:1.45). (Detailed background:1.4).
+```
+
+*注意： 中文提示词由英文原文翻译而来，基本能达到预期效果，不过使用英文提示词可能会获得更好的结果。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-85"></a>
 ### 案例 85：超现实交互场景 (by [@umesh_ai](https://x.com/umesh_ai))

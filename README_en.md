@@ -56,6 +56,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 86: Double Exposure (by rezzycheck (Sora))](#cases-86)
 *   [Case 85: Surreal Interaction Scene (by @umesh_ai)](#cases-85)
 *   [Case 84: Animal Silicone Wrist Rest (by @ZHO_ZHO_ZHO)](#cases-84)
 *   [Case 83: Glowing Lines Anatomy Diagram (by @umesh_ai)](#cases-83)
@@ -146,6 +147,26 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-86"></a>
+### Case 86: Double Exposure (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
+
+[Source Link](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
+
+<img src="cases/86/double_exposure.png" width="300" alt="Double Exposure">
+
+**Prompt**
+
+```
+Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-85"></a>
 ### Case 85: Surreal Interaction Scene (by [@umesh_ai](https://x.com/umesh_ai))
