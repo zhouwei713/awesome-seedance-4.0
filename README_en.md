@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by @dotey)](#cases-88)
 *   [Case 87: Integrating Word Meaning into Letters (by @dotey)](#cases-87)
 *   [Case 86: Double Exposure (by rezzycheck (Sora))](#cases-86)
 *   [Case 85: Surreal Interaction Scene (by @umesh_ai)](#cases-85)
@@ -146,6 +147,31 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-88"></a>
+### Case 88: Children's Coloring Page Illustration (with Color Reference) (by [@dotey](https://x.com/dotey))
+
+[Source Link](https://x.com/dotey/status/1919522110395080838)
+
+<img src="cases/88/case.png" width="300" alt="Children's Coloring Page Illustration (with Color Reference)">
+
+**Prompt**
+
+```
+A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.
+[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]
+Suitable for: [6-9 year old children]
+Scene description:
+[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]
+```
+
+*Note: The content within the brackets [] in the prompt can be replaced, such as the target audience and scene description.*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-87"></a>
 ### Case 87: Integrating Word Meaning into Letters (by [@dotey](https://x.com/dotey))
