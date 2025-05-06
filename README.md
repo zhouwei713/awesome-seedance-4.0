@@ -56,6 +56,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 89：镀铬emoji徽章 (by @egeberkina)](#cases-89)
 *   [案例 88：儿童涂色页插画（含彩色参考图） (by @dotey)](#cases-88)
 *   [案例 87：字母与单词含义融合 (by @dotey)](#cases-87)
 *   [案例 86：双重曝光 (by rezzycheck (Sora))](#cases-86)
@@ -149,6 +150,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-89"></a>
+### 案例 89：镀铬emoji徽章 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1919398870867440124)
+
+<img src="cases/89/case.png" width="300" alt="镀铬emoji徽章">
+
+**提示词**
+
+```
+高精度的 3D 渲染图，按照 emoji 图标 {👍} 展示一个金属质感的徽章，固定在竖直的商品卡片上，具有超光滑的镀铬质感和圆润的 3D 图标造型，风格化的未来主义设计，带有柔和的反光与干净的阴影。纸质卡片顶部中央带有一个冲切的欧式挂孔，徽章上方是醒目的标题 “{Awesome}”，下方配有趣味标语 “{Smash that ⭐ if you like it!}”。背景为柔和的灰色，使用柔光摄影棚灯光，整体风格极简。
+```
+
+*注意： 替换 {👍} emoji 图标；替换标题和标语。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-88"></a>
 ### 案例 88：儿童涂色页插画（含彩色参考图） (by [@dotey](https://x.com/dotey))

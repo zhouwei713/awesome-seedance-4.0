@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 89: Chrome Emoji Pin (by @egeberkina)](#cases-89)
 *   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by @dotey)](#cases-88)
 *   [Case 87: Integrating Word Meaning into Letters (by @dotey)](#cases-87)
 *   [Case 86: Double Exposure (by rezzycheck (Sora))](#cases-86)
@@ -147,6 +148,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-89"></a>
+### Case 89: Chrome Emoji Pin (by [@egeberkina](https://x.com/egeberkina))
+
+[Source Link](https://x.com/egeberkina/status/1919398870867440124)
+
+<img src="cases/89/case.png" width="300" alt="Chrome Emoji Pin">
+
+**Prompt**
+
+```
+highly detailed 3D render of a single metallic {👍} emoji pin attached to a vertical product card, ultra-glossy chrome finish, smooth rounded 3D icon, stylized futuristic design, soft reflections, clean shadows, paper card has a die-cut euro hole at the top center, bold title “{Awesome}” above the pin, fun tagline “{Smash that ⭐ if you like it!}” below, soft gray background, soft studio lighting, minimal aesthetic
+```
+
+*Note: Replace {👍} emoji with your emoji icon; Replace title and tagline.*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-88"></a>
 ### Case 88: Children's Coloring Page Illustration (with Color Reference) (by [@dotey](https://x.com/dotey))
