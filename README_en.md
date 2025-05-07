@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 91: Google Maps to Ancient Treasure Map (by @umesh_ai)](#cases-91)
 *   [Case 90: Branded Mechanical Keycaps (by @egeberkina)](#cases-90)
 *   [Case 89: Chrome Emoji Pin (by @egeberkina)](#cases-89)
 *   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by @dotey)](#cases-88)
@@ -149,6 +150,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-91"></a>
+### Case 91: Google Maps to Ancient Treasure Map (by [@umesh_ai](https://x.com/umesh_ai))
+
+[Source Link](https://x.com/umesh_ai/status/1919701229363466328)
+
+<img src="cases/91/case.png" width="300" alt="Google Maps to Ancient Treasure Map">
+
+**Prompt**
+
+```
+Transform the image to an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.
+```
+
+
+**Reference Image Required:** A Google Maps screenshot or other map image needs to be uploaded as the basis for the transformation.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-90"></a>
 ### Case 90: Branded Mechanical Keycaps (by [@egeberkina](https://x.com/egeberkina))
