@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 92: Perspective 3D Pop-Out Effect (by @ZHO_ZHO_ZHO)](#cases-92)
 *   [Case 91: Google Maps to Ancient Treasure Map (by @umesh_ai)](#cases-91)
 *   [Case 90: Branded Mechanical Keycaps (by @egeberkina)](#cases-90)
 *   [Case 89: Chrome Emoji Pin (by @egeberkina)](#cases-89)
@@ -150,6 +151,28 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-92"></a>
+### Case 92: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+
+<img src="cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Perspective 3D Pop-Out Effect">
+
+**Prompt**
+
+```
+Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.
+```
+
+*Note: You can replace [Anne Hathaway] in the prompt with other character names. Or use a photo of a person as a reference image.*
+
+**Reference Image Required:** You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](./references/Meisje_met_de_parel.jpg) as a reference image.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-91"></a>
 ### Case 91: Google Maps to Ancient Treasure Map (by [@umesh_ai](https://x.com/umesh_ai))
