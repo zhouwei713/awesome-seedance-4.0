@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 94: Three Animals Selfie at Landmark (by @berryxia_ai)](#cases-94)
 *   [Case 93: Glass Retexturing (by @egeberkina)](#cases-93)
 *   [Case 92: Perspective 3D Pop-Out Effect (by @ZHO_ZHO_ZHO)](#cases-92)
 *   [Case 91: Google Maps to Ancient Treasure Map (by @umesh_ai)](#cases-91)
@@ -152,6 +153,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-94"></a>
+### Case 94: Three Animals Selfie at Landmark (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[Source Link](https://x.com/berryxia_ai/status/1920795648946782583)
+
+<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Three Animals Selfie at Landmark">
+
+**Prompt**
+
+```
+A close-up selfie of three [animal type] with different expressions in front of the iconic [landmark], taken at golden hour with cinematic lighting. The animals are positioned close to the camera with their heads touching, mimicking a selfie pose, showing joyful, surprised, and calm expressions. The background features the full architectural detail of [landmark], softly illuminated, with a warm ambient atmosphere. Shot in a photographic, realistic cartoon style, high detail, 1:1 aspect ratio.
+```
+
+*Note: Replace [animal type] and [landmark] in the prompt with specific descriptions.*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-93"></a>
 ### Case 93: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))

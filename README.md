@@ -56,6 +56,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 94：三只动物与地标自拍 (by @berryxia_ai)](#cases-94)
 *   [案例 93：玻璃质感重塑 (by @egeberkina)](#cases-93)
 *   [案例 92：透视3D出屏效果 (by @ZHO_ZHO_ZHO)](#cases-92)
 *   [案例 91：谷歌地图变身古代藏宝图 (by @umesh_ai)](#cases-91)
@@ -154,6 +155,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-94"></a>
+### 案例 94：三只动物与地标自拍 (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[原文链接](https://x.com/berryxia_ai/status/1920795648946782583)
+
+<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="三只动物与地标自拍">
+
+**提示词**
+
+```
+三只[动物类型]在标志性[地标]前的特写自拍照，它们表情各异，拍摄于黄金时刻，采用电影般的灯光。动物们靠近镜头，头挨着头，模仿自拍姿势，展现出喜悦、惊讶和平静的表情。背景展示了[地标]完整的建筑细节，光线柔和，氛围温暖。采用摄影感、写实卡通风格拍摄，高细节，1:1 宽高比。
+```
+
+*注意： 可替换提示词中的 [动物类型] 和 [地标] 为具体描述。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-93"></a>
 ### 案例 93：玻璃质感重塑 (by [@egeberkina](https://x.com/egeberkina))
