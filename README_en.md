@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 93: Glass Retexturing (by @egeberkina)](#cases-93)
 *   [Case 92: Perspective 3D Pop-Out Effect (by @ZHO_ZHO_ZHO)](#cases-92)
 *   [Case 91: Google Maps to Ancient Treasure Map (by @umesh_ai)](#cases-91)
 *   [Case 90: Branded Mechanical Keycaps (by @egeberkina)](#cases-90)
@@ -151,6 +152,59 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-93"></a>
+### Case 93: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
+
+[Source Link](https://x.com/egeberkina/status/1920448389960909085)
+
+<img src="cases/93/glass_retexturing.jpeg" width="300" alt="Glass Retexturing">
+
+**Prompt**
+
+```
+retexture the image attached based on the JSON aesthetic below
+{
+  "style": "photorealistic 3D render",
+  "material": "glass with transparent and iridescent effects",
+  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "angled top-left key light and ambient fill",
+    "accent_colors": ["blue", "green", "purple"],
+    "reflections": true,
+    "refractions": true,
+    "dispersion_effects": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "transparent with iridescent blue, green, and purple hues",
+    "secondary": "crystal-clear with subtle chromatic shifts",
+    "highlights": "soft, glowing accents reflecting rainbow-like effects",
+    "rim_light": "soft reflective light around edges"
+  },
+  "background": {
+    "color": "black",
+    "vignette": true,
+    "texture": "none"
+  },
+  "post_processing": {
+    "chromatic_aberration": true,
+    "glow": true,
+    "high_contrast": true,
+    "sharp_details": true
+  }
+}
+```
+
+
+**Reference Image Required:** An image needs to be uploaded as the base for retexturing.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-92"></a>
 ### Case 92: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))

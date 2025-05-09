@@ -56,6 +56,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 93：玻璃质感重塑 (by @egeberkina)](#cases-93)
 *   [案例 92：透视3D出屏效果 (by @ZHO_ZHO_ZHO)](#cases-92)
 *   [案例 91：谷歌地图变身古代藏宝图 (by @umesh_ai)](#cases-91)
 *   [案例 90：品牌化键盘键帽 (by @egeberkina)](#cases-90)
@@ -153,6 +154,59 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-93"></a>
+### 案例 93：玻璃质感重塑 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1920448389960909085)
+
+<img src="cases/93/glass_retexturing.jpeg" width="300" alt="玻璃质感重塑">
+
+**提示词**
+
+```
+对参考图片进行重新纹理化，基于下方的 JSON 美学定义
+{
+  "style": "photorealistic 3D render",
+  "material": "glass with transparent and iridescent effects",
+  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "angled top-left key light and ambient fill",
+    "accent_colors": ["blue", "green", "purple"],
+    "reflections": true,
+    "refractions": true,
+    "dispersion_effects": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "transparent with iridescent blue, green, and purple hues",
+    "secondary": "crystal-clear with subtle chromatic shifts",
+    "highlights": "soft, glowing accents reflecting rainbow-like effects",
+    "rim_light": "soft reflective light around edges"
+  },
+  "background": {
+    "color": "black",
+    "vignette": true,
+    "texture": "none"
+  },
+  "post_processing": {
+    "chromatic_aberration": true,
+    "glow": true,
+    "high_contrast": true,
+    "sharp_details": true
+  }
+}
+```
+
+
+**需上传参考图片：** 需要上传一张图像作为重新纹理化的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-92"></a>
 ### 案例 92：透视3D出屏效果 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
