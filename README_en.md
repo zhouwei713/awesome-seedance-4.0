@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 96: Custom Anime Figure (by @dotey)](#cases-96)
 *   [Case 95: Bobblehead Generator from Selfie (by @thisdudelikesAI)](#cases-95)
 *   [Case 94: Three Animals Selfie at Landmark (by @berryxia_ai)](#cases-94)
 *   [Case 93: Glass Retexturing (by @egeberkina)](#cases-93)
@@ -154,6 +155,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-96"></a>
+### Case 96: Custom Anime Figure (by [@dotey](https://x.com/dotey))
+
+[Source Link](https://x.com/dotey/status/1920851135516082246)
+
+<img src="cases/96/custom-anime-figure-from-photo.png" width="300" alt="Custom Anime Figure">
+
+**Prompt**
+
+```
+Generate an anime-style figure photo placed on a desktop, presented from a casual, everyday snapshot perspective as if taken with a mobile phone. The figure model is based on the attached character photo, accurately reproducing the full body posture, facial expression, and clothing style of the person in the photo, ensuring the entire figure is fully rendered. The overall design is exquisite and detailed, with hair and clothing featuring natural, soft gradient colors and fine textures. The style leans towards Japanese anime, rich in detail, with realistic textures and a beautiful appearance.
+```
+
+
+**Reference Image Required:** Please upload a photo showing the person's full body posture, facial expression, and clothing style to be used as the basis for the figure model.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-95"></a>
 ### Case 95: Bobblehead Generator from Selfie (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
