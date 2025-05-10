@@ -56,6 +56,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 95：自拍生成摇头娃娃 (by @thisdudelikesAI)](#cases-95)
 *   [案例 94：三只动物与地标自拍 (by @berryxia_ai)](#cases-94)
 *   [案例 93：玻璃质感重塑 (by @egeberkina)](#cases-93)
 *   [案例 92：透视3D出屏效果 (by @ZHO_ZHO_ZHO)](#cases-92)
@@ -155,6 +156,28 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-95"></a>
+### 案例 95：自拍生成摇头娃娃 (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+
+[原文链接](https://x.com/thisdudelikesAI/status/1920433372243136730)
+
+<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="自拍生成摇头娃娃">
+
+**提示词**
+
+```
+将这张照片变成一个摇头娃娃：头部稍微放大，保持面部准确，身体卡通化。[把它放在书架上]。
+```
+
+*注意： 请将提示词中的[把它放在书架上]替换为您想要的特定场景或背景，例如“把它放在书架上”或“把它放在办公桌上”，或“把它放在中性背景上”，或“生成透明背景”。*
+
+**需上传参考图片：** 需要上传一张自拍照作为生成摇头娃娃的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-94"></a>
 ### 案例 94：三只动物与地标自拍 (by [@berryxia_ai](https://x.com/berryxia_ai))

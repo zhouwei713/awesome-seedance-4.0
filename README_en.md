@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 95: Bobblehead Generator from Selfie (by @thisdudelikesAI)](#cases-95)
 *   [Case 94: Three Animals Selfie at Landmark (by @berryxia_ai)](#cases-94)
 *   [Case 93: Glass Retexturing (by @egeberkina)](#cases-93)
 *   [Case 92: Perspective 3D Pop-Out Effect (by @ZHO_ZHO_ZHO)](#cases-92)
@@ -153,6 +154,28 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-95"></a>
+### Case 95: Bobblehead Generator from Selfie (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+
+[Source Link](https://x.com/thisdudelikesAI/status/1920433372243136730)
+
+<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="Bobblehead Generator from Selfie">
+
+**Prompt**
+
+```
+Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf].
+```
+
+*Note: Please replace [Place it on a bookshelf] in the prompt with your desired specific scene or background, for example "Place it on a bookshelf" or "Place it on an office desk", or "Place it on a neutral background" or "Generate with a transparent background".*
+
+**Reference Image Required:** A selfie needs to be uploaded as the basis for generating the bobblehead.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-94"></a>
 ### Case 94: Three Animals Selfie at Landmark (by [@berryxia_ai](https://x.com/berryxia_ai))
