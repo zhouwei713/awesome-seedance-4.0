@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 97: Cute and Cozy Knitted Doll (by @ZHO_ZHO_ZHO)](#cases-97)
 *   [Case 96: Custom Anime Figure (by @dotey)](#cases-96)
 *   [Case 95: Bobblehead Generator from Selfie (by @thisdudelikesAI)](#cases-95)
 *   [Case 94: Three Animals Selfie at Landmark (by @berryxia_ai)](#cases-94)
@@ -155,6 +156,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-97"></a>
+### Case 97: Cute and Cozy Knitted Doll (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+
+<img src="cases/97/cute_cozy_knitted_doll.png" width="300" alt="Cute and Cozy Knitted Doll">
+
+**Prompt**
+
+```
+A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+```
+
+
+**Reference Image Required:** Upload a photo as a reference to generate its cute chibi knitted doll image.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-96"></a>
 ### Case 96: Custom Anime Figure (by [@dotey](https://x.com/dotey))
