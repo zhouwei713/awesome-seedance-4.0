@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 98: Blurred Silhouette Behind Frosted Glass (by @umesh_ai)](#cases-98)
 *   [Case 97: Cute and Cozy Knitted Doll (by @ZHO_ZHO_ZHO)](#cases-97)
 *   [Case 96: Custom Anime Figure (by @dotey)](#cases-96)
 *   [Case 95: Bobblehead Generator from Selfie (by @thisdudelikesAI)](#cases-95)
@@ -156,6 +157,28 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-98"></a>
+### Case 98: Blurred Silhouette Behind Frosted Glass (by [@umesh_ai](https://x.com/umesh_ai))
+
+[Source Link](https://x.com/umesh_ai/status/1921487841634156999)
+
+<img src="cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="Blurred Silhouette Behind Frosted Glass">
+
+**Prompt**
+
+```
+A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.
+```
+
+*Note: Replace [SUBJECT] and [PART] with vivid, visually striking details that emphasize the “blurred subject + sharply defined part” contrast.
+For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one hand” and [PART] to “the other hand channeling the dark side of the Force.”*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-97"></a>
 ### Case 97: Cute and Cozy Knitted Doll (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
