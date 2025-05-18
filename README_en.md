@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by @azed_ai)](#cases-100)
 *   [Case 99: Black and White Portrait Art (by @ZHO_ZHO_ZHO)](#cases-99)
 *   [Case 98: Blurred Silhouette Behind Frosted Glass (by @umesh_ai)](#cases-98)
 *   [Case 97: Cute and Cozy Knitted Doll (by @ZHO_ZHO_ZHO)](#cases-97)
@@ -158,6 +159,33 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-100"></a>
+### Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by [@azed_ai](https://x.com/azed_ai))
+
+[Source Link](https://x.com/azed_ai/status/1923016036120658122)
+
+<img src="cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Creative Ad with Real Object and Hand-Drawn Doodle">
+
+**Prompt**
+
+```
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
+```
+
+*Note: Replace [Real Object], [Doodle Concept], [Ad Copy], and [Brand Logo] in the prompt with specific details.
+For example:
+[Real Object]: coffee bean
+[Doodle Concept]: The giant coffee bean becomes a space planet, with a small astronaut planting a flag on its surface
+[Ad Copy]: "Explore Bold Flavor"
+[Brand Logo]: Starbucks logo*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-99"></a>
 ### Case 99: Black and White Portrait Art (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
