@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 # Awesome GPT-4o Images ✨
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 <a href="https://github.com/jamez-bondos/awesome-gpt4o-images/stargazers">
@@ -89,7 +90,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 68: Futuristic Logo Trading Card (by @hewarsaber)](#cases-68)
 *   [Case 67: Ultra-realistic 3D Game (by @ZHO_ZHO_ZHO)](#cases-67)
 *   [Case 66: Creative Silk Universe (by @ZHO_ZHO_ZHO)](#cases-66)
-*   [Case 65: Trompe-l'œil Three-Dimensional Spatial Art (by @madpencil_)](#cases-65)
+*   [Case 65: Surreal Underwater Scene Popsicle (by @madpencil_)](#cases-65)
 *   [Case 64: Steampunk Mechanical Fish (by @f-is-h)](#cases-64)
 *   [Case 63: Emoji Cream Popsicle (by @ZHO_ZHO_ZHO)](#cases-63)
 *   [Case 62: Kawaii Enamel Pin (by @gnrlyxyz)](#cases-62)
@@ -99,7 +100,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 58: Cloud Art (by @umesh_ai)](#cases-58)
 *   [Case 57: 8-Bit Pixel Icon (by @egeberkina)](#cases-57)
 *   [Case 56: Miniature 3D Building (by @dotey)](#cases-56)
-*   [Case 55: Low-Poly 3D Render (by @azed_ai)](#cases-55)
+*   [Case 55: Cute Plant Planter (by @azed_ai)](#cases-55)
 *   [Case 54: Extremely Ordinary iPhone Selfie (by @jiamimaodashu)](#cases-54)
 *   [Case 53: Emoji Inflatable Cushion (by @gizakdag)](#cases-53)
 *   [Case 52: Paper Craft Style Emoji Icon (by @egeberkina)](#cases-52)
@@ -117,12 +118,12 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#cases-40)
 *   [Case 39: Fantasy Cartoon Illustration (by @dotey)](#cases-39)
 *   [Case 38: Hand-drawn Infographic Card (by @dotey)](#cases-38)
-*   [Case 37: Social Media Post Doodle Overlay (by @op7418)](#cases-37)
+*   [Case 37: Pastel Power 3D ADS (by @aziz4ai)](#cases-37)
 *   [Case 36: Minimalist 3D Illustration (Markdown Format) (by @dotey)](#cases-36)
 *   [Case 35: Fluffy Jack-o'-lantern (by gizakdag)](#cases-35)
 *   [Case 34: Hand-drawn Infographic Card (Cognition) (by @dotey)](#cases-34)
 *   [Case 33: Family Wedding Photo (Q-version) (by @balconychy)](#cases-33)
-*   [Case 32: Paper Cutout Style Job Ad (by @dotey)](#cases-32)
+*   [Case 32: 3D Papercraft Pop-up Book (by @dotey)](#cases-32)
 *   [Case 31: Anime Sticker Collection (by @richardchang)](#cases-31)
 *   [Case 30: 35mm Film Style Flying Island (by @dotey)](#cases-30)
 *   [Case 29: Famous Painting Character OOTD (by @ZHO_ZHO_ZHO)](#cases-29)
@@ -133,19 +134,19 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 24: Funko Pop Figure Creation (by @dotey)](#cases-24)
 *   [Case 23: "Titanic" Pose Parody (by @balconychy)](#cases-23)
 *   [Case 22: Xiaohongshu Cover Image (by @balconychy)](#cases-22)
-*   [Case 21: Stick Figure Emoji Pack (by @ZHO_ZHO_ZHO)](#cases-21)
-*   [Case 20: Four-Panel Manga (Theory of Relativity) (by @dotey)](#cases-20)
-*   [Case 19: Textbook Illustration Redraw (by @balconychy)](#cases-19)
+*   [Case 21: Chibi Character Sticker Pack (by @leon_yuan2001)](#cases-21)
+*   [Case 20: Action Figure and Real Person in the Same Frame (by @dotey)](#cases-20)
+*   [Case 19: Country Diorama in a Toy Box (by @TheRelianceAI)](#cases-19)
 *   [Case 18: Pixar 3D Style (by AnimeAI)](#cases-18)
-*   [Case 17: Digimon Style Image (by @ZHO_ZHO_ZHO)](#cases-17)
-*   [Case 16: Pudding Slot Machine (by @ZHO_ZHO_ZHO)](#cases-16)
+*   [Case 17: Retro CRT Computer Boot Screen (by @Gdgtify)](#cases-17)
+*   [Case 16: Anime-style Badge (by @Alittlefatwhale)](#cases-16)
 *   [Case 15: Satirical Poster Generation (by @ZHO_ZHO_ZHO)](#cases-15)
 *   [Case 14: One Piece Themed Figure Creation (by @dotey)](#cases-14)
 *   [Case 13: Photo to 3D Q-version Style (by @dotey)](#cases-13)
 *   [Case 12: 3D Couple Jewelry Box Figurine (by @dotey)](#cases-12)
 *   [Case 11: PS2 Game Cover (GTA x Shrek) (by @dotey)](#cases-11)
 *   [Case 10: Satirical Cartoon Generation (by @dotey)](#cases-10)
-*   [Case 9: Famous Painting as Helium Balloon (by @ZHO_ZHO_ZHO)](#cases-9)
+*   [Case 9: Minimalist Futurist Poster (by @ZHO_ZHO_ZHO)](#cases-9)
 *   [Case 8: Lego Collectible Figure (by @ZHO_ZHO_ZHO)](#cases-8)
 *   [Case 7: Personalized Room Design (by @ZHO_ZHO_ZHO)](#cases-7)
 *   [Case 6: Character Stepping Through Portal (by @dotey)](#cases-6)
@@ -165,7 +166,8 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 [Source Link](https://x.com/azed_ai/status/1923016036120658122)
 
-<img src="cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Creative Ad with Real Object and Hand-Drawn Doodle">
+<img src="cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Creative Ad with Real Object and Hand-Drawn Doodle"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -192,7 +194,8 @@ For example:
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
 
-<img src="cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="Black and White Portrait Art">
+<img src="cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="Black and White Portrait Art"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -218,7 +221,8 @@ The overall atmosphere is abstract yet deeply human, like a fleeting glance or a
 
 [Source Link](https://x.com/umesh_ai/status/1921487841634156999)
 
-<img src="cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="Blurred Silhouette Behind Frosted Glass">
+<img src="cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="Blurred Silhouette Behind Frosted Glass"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -240,7 +244,8 @@ For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one ha
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
 
-<img src="cases/97/cute_cozy_knitted_doll.png" width="300" alt="Cute and Cozy Knitted Doll">
+<img src="cases/97/cute_cozy_knitted_doll.png" width="300" alt="Cute and Cozy Knitted Doll"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -261,7 +266,8 @@ A close-up, professionally composed photograph showcasing a hand-crocheted yarn 
 
 [Source Link](https://x.com/dotey/status/1920851135516082246)
 
-<img src="cases/96/custom-anime-figure-from-photo.png" width="300" alt="Custom Anime Figure">
+<img src="cases/96/custom-anime-figure-from-photo.png" width="300" alt="Custom Anime Figure"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -282,7 +288,8 @@ Generate an anime-style figure photo placed on a desktop, presented from a casua
 
 [Source Link](https://x.com/thisdudelikesAI/status/1920433372243136730)
 
-<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="Bobblehead Generator from Selfie">
+<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="Bobblehead Generator from Selfie"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/thisdudelikesAI">@thisdudelikesAI</a></sub>
 
 **Prompt**
 
@@ -304,7 +311,8 @@ Turn this photo into a bobblehead: enlarge the head slightly, keep the face accu
 
 [Source Link](https://x.com/berryxia_ai/status/1920795648946782583)
 
-<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Three Animals Selfie at Landmark">
+<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Three Animals Selfie at Landmark"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **Prompt**
 
@@ -325,7 +333,8 @@ A close-up selfie of three [animal type] with different expressions in front of 
 
 [Source Link](https://x.com/egeberkina/status/1920448389960909085)
 
-<img src="cases/93/glass_retexturing.jpeg" width="300" alt="Glass Retexturing">
+<img src="cases/93/glass_retexturing.png" width="300" alt="Glass Retexturing"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -365,6 +374,7 @@ retexture the image attached based on the JSON aesthetic below
 }
 ```
 
+*Note: Please use GPT-4o to generate images with this prompt; using Sora may not produce the correct style.*
 
 **Reference Image Required:** An image needs to be uploaded as the base for retexturing.
 
@@ -378,7 +388,8 @@ retexture the image attached based on the JSON aesthetic below
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
 
-<img src="cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Perspective 3D Pop-Out Effect">
+<img src="cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Perspective 3D Pop-Out Effect"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -388,7 +399,7 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 
 *Note: You can replace [Anne Hathaway] in the prompt with other character names. Or use a photo of a person as a reference image.*
 
-**Reference Image Required:** You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](./references/Meisje_met_de_parel.jpg) as a reference image.
+**Reference Image Required:** You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](https://commons.wikimedia.org/w/index.php?curid=55017931) as a reference image.
 
 
 ---
@@ -400,7 +411,8 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 
 [Source Link](https://x.com/umesh_ai/status/1919701229363466328)
 
-<img src="cases/91/case.png" width="300" alt="Google Maps to Ancient Treasure Map">
+<img src="cases/91/case.png" width="300" alt="Google Maps to Ancient Treasure Map"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -421,7 +433,8 @@ Transform the image to an ancient treasure map drawn on aged parchment. The map 
 
 [Source Link](https://x.com/egeberkina/status/1918291652210311278)
 
-<img src="cases/90/case.png" width="300" alt="Branded Mechanical Keycaps">
+<img src="cases/90/case.png" width="300" alt="Branded Mechanical Keycaps"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -442,7 +455,8 @@ ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 gri
 
 [Source Link](https://x.com/egeberkina/status/1919398870867440124)
 
-<img src="cases/89/case.png" width="300" alt="Chrome Emoji Pin">
+<img src="cases/89/case.png" width="300" alt="Chrome Emoji Pin"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -463,7 +477,8 @@ highly detailed 3D render of a single metallic {👍} emoji pin attached to a ve
 
 [Source Link](https://x.com/dotey/status/1919522110395080838)
 
-<img src="cases/88/case.png" width="300" alt="Children's Coloring Page Illustration (with Color Reference)">
+<img src="cases/88/case.png" width="300" alt="Children's Coloring Page Illustration (with Color Reference)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -488,7 +503,8 @@ Scene description:
 
 [Source Link](https://x.com/dotey/status/1918529055340576812)
 
-<img src="cases/87/case.png" width="300" alt="Integrating Word Meaning into Letters">
+<img src="cases/87/case.png" width="300" alt="Integrating Word Meaning into Letters"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -511,7 +527,8 @@ Add a brief explanation of the word below.
 
 [Source Link](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
 
-<img src="cases/86/double_exposure.png" width="300" alt="Double Exposure">
+<img src="cases/86/double_exposure.png" width="300" alt="Double Exposure"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=rezzycheck">rezzycheck (Sora)</a></sub>
 
 **Prompt**
 
@@ -531,7 +548,8 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 
 [Source Link](https://x.com/umesh_ai/status/1917444534239191544)
 
-<img src="cases/85/case.png" width="300" alt="Surreal Interaction Scene">
+<img src="cases/85/case.png" width="300" alt="Surreal Interaction Scene"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -552,7 +570,8 @@ A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] i
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
-<img src="cases/84/case.png" width="300" alt="Animal Silicone Wrist Rest">
+<img src="cases/84/case.png" width="300" alt="Animal Silicone Wrist Rest"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -573,7 +592,8 @@ Create an image of a cute chibi-style silicone wrist rest based on the {🐼} em
 
 [Source Link](https://x.com/umesh_ai/status/1914644426334314545)
 
-<img src="cases/83/case.png" width="300" alt="Glowing Lines Anatomy Diagram">
+<img src="cases/83/case.png" width="300" alt="Glowing Lines Anatomy Diagram"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -594,7 +614,8 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 
 [Source Link](https://x.com/dotey/status/1917988595228438771)
 
-<img src="cases/82/example.png" width="300" alt="Signature City Weather Forecast">
+<img src="cases/82/example.png" width="300" alt="Signature City Weather Forecast"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -616,7 +637,8 @@ Show a clear 45-degree bird’s-eye view of an isometric miniature city scene fe
 
 [Source Link](https://x.com/azed_ai/status/1917948899098243407)
 
-<img src="cases/81/example.jpeg" width="300" alt="3D Translucent Glass Transformation">
+<img src="cases/81/example.png" width="300" alt="3D Translucent Glass Transformation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -638,7 +660,8 @@ A soft, 3D translucent glass of the attached image with a frosty matte finish an
 
 [Source Link1](https://x.com/umesh_ai/status/1915696926596415492) | [Source Link2](https://x.com/fr0gger_/status/1916743281339498760) | [Source Link3](https://x.com/dotey/status/1917412535130563006)
 
-<img src="cases/80/example_business_card_code_style.png" width="300" alt="Code Style Business Card">
+<img src="cases/80/example_business_card_code_style.png" width="300" alt="Code Style Business Card"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -667,7 +690,8 @@ The card displays the following code formatted in JSON:
 
 [Source Link](https://x.com/dotey/status/1917713810346872902)
 
-<img src="cases/79/example_lego_shanghai_bund.jpeg" width="300" alt="Lego brick rendition of the Shanghai Bund cityscape">
+<img src="cases/79/example_lego_shanghai_bund.png" width="300" alt="Lego brick rendition of the Shanghai Bund cityscape"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -690,7 +714,8 @@ The sky is LEGO’s signature bright blue, adorned with a few white LEGO brick c
 
 [Source Link](https://x.com/egeberkina/status/1917631056980721743)
 
-<img src="cases/78/example_retexture_glass_phone.jpeg" width="300" alt="Glass Retexturing">
+<img src="cases/78/example_retexture_glass_phone.png" width="300" alt="Glass Retexturing"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -728,7 +753,8 @@ retexture the image attached based on the json below:
 
 [Source Link](https://x.com/dotey/status/1916530529324699858)
 
-<img src="cases/77/example_crystal_ball_chang_e.jpeg" width="300" alt="Story Scene in Crystal Ball">
+<img src="cases/77/example_crystal_ball_chang_e.png" width="300" alt="Story Scene in Crystal Ball"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -751,7 +777,8 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 
 [Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
-<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster">
+<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
 
 **Prompt**
 
@@ -772,7 +799,8 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 
 [Source Link](https://x.com/dotey/status/1917042797506662560)
 
-<img src="cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="Social Media Frame Integration">
+<img src="cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="Social Media Frame Integration"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -794,7 +822,8 @@ Create a stylized 3D chibi character based on the attached photo, accurately pre
 
 [Source Link](https://x.com/umesh_ai/status/1916517976414495161)
 
-<img src="cases/74/example_logo_bookshelves_composite.jpeg" width="300" alt="Creative Logo Shaped Bookshelf">
+<img src="cases/74/example_logo_bookshelves.png" width="300" alt="Creative Logo Shaped Bookshelf"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -815,7 +844,8 @@ Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The b
 
 [Source Link](https://x.com/azed_ai/status/1916521742052503804)
 
-<img src="cases/73/example_keychain_chibi_composite.jpeg" width="300" alt="Cute Chibi Keychain">
+<img src="cases/73/example_keychain_chibi.png" width="300" alt="Cute Chibi Keychain"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -838,7 +868,8 @@ A close-up photo of a cute, colorful keychain held by person's hand. The keychai
 
 [Source Link](https://x.com/azed_ai/status/1915770501705925106)
 
-<img src="cases/72/gold_pendant_necklace.png" width="300" alt="Gold Pendant Necklace">
+<img src="cases/72/gold_pendant_necklace.png" width="300" alt="Gold Pendant Necklace"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
 
@@ -860,7 +891,8 @@ A photorealistic close-up of a gold pendant necklace held by female hand. The pe
 
 
 
-<img src="cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect">
+<img src="cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect"><br>
+<sub>Image © 2025 <a href="https://github.com/terry623">terry623</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
 
 **Prompt**
 
@@ -882,7 +914,8 @@ A highly detailed miniature [Cyberpunk] landscape viewed from above, using a til
 
 [Source Link](https://x.com/Anima_Labs/status/1915044265895379166)
 
-<img src="cases/70/example_pokemon_pepperimp.jpeg" width="300" alt="Original Pokemon Creation">
+<img src="cases/70/example_pokemon_strawbit.png" width="300" alt="Original Pokemon Creation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
 
 **Prompt**
 
@@ -907,7 +940,8 @@ Create an original creature inspired by this object (photo provided). The creatu
 
 [Source Link](https://x.com/umesh_ai/status/1915417277953962048)
 
-<img src="cases/69/example_silhouette_art_composite.jpeg" width="300" alt="Silhouette Art">
+<img src="cases/69/example_silhouette_art.png" width="300" alt="Silhouette Art"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -928,7 +962,8 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 
 [Source Link](https://x.com/hewarsaber/status/1912933875166171515)
 
-<img src="cases/68/example_trading_card_logo_tesla.png" width="300" alt="Futuristic Logo Trading Card">
+<img src="cases/68/example_trading_card_logo_tesla.png" width="300" alt="Futuristic Logo Trading Card"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
 
 **Prompt**
 
@@ -973,7 +1008,8 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
-<img src="cases/67/example_Ultra_realistic_3D_game.jpg" width="300" alt="Ultra-realistic 3D">
+<img src="cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="Ultra-realistic 3D"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -996,7 +1032,8 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
-<img src="cases/66/example_silk_creation_universe.jpg" width="300" alt="Silk Universe-Creative Universe">
+<img src="cases/66/example_silk_creation_universe.png" width="300" alt="Silk Universe-Creative Universe"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1014,22 +1051,21 @@ Transform the {❄️} into a soft 3D object with a silk texture. The entire sur
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-65"></a>
-### Case 65: Trompe-l'œil Three-Dimensional Spatial Art (by [@madpencil_](https://x.com/madpencil_))
+### Case 65: Surreal Underwater Scene Popsicle (by [@madpencil_](https://x.com/madpencil_))
 
-[Source Link](https://x.com/madpencil_/status/1915099250079469907)
+[Source Link](https://x.com/madpencil_/status/1920037538372128998)
 
-<img src="cases/65/example_tromple-I-3d-art.jpg" width="300" alt="Trompe-l'œil Three-Dimensional Spatial Art">
+<img src="cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="Surreal Underwater Scene Popsicle"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/madpencil_">@madpencil_</a></sub>
 
 **Prompt**
 
 ```
-Trompe l'oeil illusion of A (subject) (attire) steps out of a large screen displaying xyz social media interface. The screen shows the username "@" 1K likes, and 12- 20 comments, with floating emojis (heart-eyes, smiley) around it. your preferred background.
+Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exterior, revealing an underwater scene inside: a tiny scuba diver with tiny fish floating with bubbles, ocean waves crashing, and a green popsicle stick running through the center. The popsicle is melting slightly, with a wooden stick at the bottom, hand is holding it by the wooden stick, soft focus new york street background, premium product photography
 ```
 
-*Note: You can replace the [Theme/Dress Code] and [Heart Eyes Emoji, Smiling Face Emoji] in the prompt words.*
 
 
-**Submitter:** [wowmarcomei](https://github.com/wowmarcomei)
 
 ---
 
@@ -1040,7 +1076,8 @@ Trompe l'oeil illusion of A (subject) (attire) steps out of a large screen displ
 
 [Source Link](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
-<img src="cases/64/example_steampunk_fish.jpg" width="300" alt="Steampunk Mechanical Fish">
+<img src="cases/64/example_steampunk_fish.jpg" width="300" alt="Steampunk Mechanical Fish"><br>
+<sub>Image © 2025 <a href="https://github.com/f-is-h">@f-is-h</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
 
 **Prompt**
 
@@ -1068,7 +1105,8 @@ The entire fish looks very cool. This is a high-definition image with extremely 
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
-<img src="cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Emoji Cream Popsicle">
+<img src="cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Emoji Cream Popsicle"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1089,7 +1127,8 @@ Generate an image: Transform the [🍓] into a creamy ice cream bar, with cream 
 
 [Source Link](https://x.com/gnrlyxyz/status/1914303110853583302)
 
-<img src="cases/62/example_enamel_pins_pop_culture.jpeg" width="300" alt="Kawaii Enamel Pin">
+<img src="cases/62/example_enamel_pins_einstein.png" width="300" alt="Kawaii Enamel Pin"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gnrlyxyz">@gnrlyxyz</a></sub>
 
 **Prompt**
 
@@ -1111,7 +1150,8 @@ Turn the subject in the attached image into a kawaii enamel pin. Use glossy meta
 
 [Source Link](https://x.com/egeberkina/status/1914299716394778713)
 
-<img src="cases/61/example_fake_tweet_einstein.jpeg" width="300" alt="Fake Tweet Screenshot (Einstein)">
+<img src="cases/61/example_fake_tweet_einstein.png" width="300" alt="Fake Tweet Screenshot (Einstein)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1131,7 +1171,8 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 
 [Source Link](https://x.com/gizakdag/status/1913925062568144924)
 
-<img src="cases/60/example_tufted_rug_dino_emoji.jpeg" width="300" alt="Emoji Tufted Rug">
+<img src="cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Emoji Tufted Rug"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **Prompt**
 
@@ -1152,7 +1193,8 @@ Create an image of a colorful, hand-tufted rug in the shape of 🦖 emoji, place
 
 [Source Link](https://x.com/michaelrabone/status/1913865394139316291)
 
-<img src="cases/59/example_vector_poster_london.png" width="300" alt="Colorful Vector Art Poster">
+<img src="cases/59/example_vector_poster_london.png" width="300" alt="Colorful Vector Art Poster"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
 
 **Prompt**
 
@@ -1173,7 +1215,8 @@ Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at
 
 [Source Link](https://x.com/umesh_ai/status/1913628737872027805)
 
-<img src="cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="Cloud Art">
+<img src="cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="Cloud Art"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
 
@@ -1194,7 +1237,8 @@ Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] fo
 
 [Source Link](https://x.com/egeberkina/status/1913654508330058064)
 
-<img src="cases/57/example_8bit_pixel_burger.jpeg" width="300" alt="8-Bit Pixel Icon">
+<img src="cases/57/example_8bit_pixel_beer.png" width="300" alt="8-Bit Pixel Icon"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1215,7 +1259,8 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 
 [Source Link](https://x.com/dotey/status/1913759515700285569)
 
-<img src="cases/56/example_miniature_starbucks_cup_building.jpeg" width="300" alt="Miniature 3D Building">
+<img src="cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="Miniature 3D Building"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1232,19 +1277,20 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-55"></a>
-### Case 55: Low-Poly 3D Render (by [@azed_ai](https://x.com/azed_ai))
+### Case 55: Cute Plant Planter (by [@azed_ai](https://x.com/azed_ai))
 
-[Source Link](https://x.com/azed_ai/status/1912084257918595342)
+[Source Link](https://x.com/azed_ai/status/1923739813414568075)
 
-<img src="cases/55/example_low_poly_lizard.jpeg" width="300" alt="Low-Poly 3D Render of a Lizard">
+<img src="cases/55/cute_plant_planter.png" width="300" alt="Cute Plant Planter"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
 
 ```
-A low-poly 3D render of a [subject], built from clean triangular facets with flat [color1] and [color2] surfaces. The environment is a stylized digital desert with minimal geometry and ambient occlusion.
+A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition
 ```
 
-*Note: The [subject] (the object to draw), [color1], and [color2] (colors) placeholders in the prompt can be replaced to generate different objects. For the example image shown, the subject is 'lizard', and colors 1/2 are 'olive green' and 'dusty brown' respectively.*
+*Note: Replace [object/animal] in the prompt with a specific object, animal name, or emoji.*
 
 
 
@@ -1257,7 +1303,8 @@ A low-poly 3D render of a [subject], built from clean triangular facets with fla
 
 [Source Link](https://x.com/jiamimaodashu/status/1912653073190879410)
 
-<img src="cases/54/example_ordinary_selfie_eason_nicholas.jpeg" width="300" alt="Extremely Ordinary iPhone Selfie">
+<img src="cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="Extremely Ordinary iPhone Selfie"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/jiamimaodashu">@jiamimaodashu</a></sub>
 
 **Prompt**
 
@@ -1279,7 +1326,8 @@ The subjects are Eason Chan and Nicholas Tse, taken at night, next to the Hong K
 
 [Source Link](https://x.com/gizakdag/status/1912858535643197927)
 
-<img src="cases/53/example_emoji_cushion_pleading.jpeg" width="300" alt="Emoji Inflatable Cushion">
+<img src="cases/53/example_emoji_cushion_pleading.png" width="300" alt="Emoji Inflatable Cushion"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **Prompt**
 
@@ -1300,7 +1348,8 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 
 [Source Link](https://x.com/egeberkina/status/1912521263085482464)
 
-<img src="cases/52/example_paper_craft_emoji_fire.jpeg" width="300" alt="Paper craft style fire emoji icon">
+<img src="cases/52/example_paper_craft_emoji_fire.png" width="300" alt="Paper craft style fire emoji icon"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1321,7 +1370,8 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 
 [Source Link1](https://x.com/M_w14_/status/1912146666410459618) | [Source Link2](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
 
-<img src="cases/51/example_passport_stamp_rome.jpeg" width="300" alt="Passport Entry Stamp">
+<img src="cases/51/example_passport_stamp_rome.png" width="300" alt="Passport Entry Stamp"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/M_w14_">@M_w14_</a></sub>
 
 **Prompt**
 
@@ -1342,7 +1392,8 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 
 [Source Link1](https://x.com/op7418/status/1912782048160542886) | [Source Link2](https://x.com/hc_dsn/status/1912367201476309396)
 
-<img src="cases/50/example_lara_croft_card_break.jpeg" width="300" alt="Physical Destruction Effect Card (Lara Croft)">
+<img src="cases/50/example_lara_croft_card_break.png" width="300" alt="Physical Destruction Effect Card (Lara Croft)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **Prompt**
 
@@ -1367,7 +1418,8 @@ The title “Archaeological Adventure” and the name “Lara Croft” (accompan
 
 [Source Link](https://x.com/dotey/status/1912536019905233194)
 
-<img src="cases/49/example_fashion_design_cover.jpeg" width="300" alt="Fashion Magazine Cover Style">
+<img src="cases/49/example_fashion_design_cover.png" width="300" alt="Fashion Magazine Cover Style"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1387,7 +1439,8 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 
 [Source Link1](https://x.com/BrettFromDJ/status/1910387413404234076) | [Source Link2](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
 
-<img src="cases/48/example_voxel_icons.jpeg" width="300" alt="3D voxel-style icons">
+<img src="cases/48/example_voxel_icon.png" width="300" alt="3D voxel-style icons"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/BrettFromDJ">@BrettFromDJ</a></sub>
 
 **Prompt**
 
@@ -1397,7 +1450,7 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 
 *Note: The tweet author provides a reference image for best results, recommend downloading and using it. When uploading, upload the reference image first, then the icon to be converted.*
 
-**Reference Image Required:** Requires uploading two images: a reference image showing the desired voxel style icons (like the one provided by the tweet author), and the original icon to be transformed.
+**Reference Image Required:** The reference image for voxel style icons is obtained from the original link 1; and an original icon to be transformed.
 
 
 ---
@@ -1409,7 +1462,8 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 
 [Source Link](https://x.com/egeberkina/status/1911368319212408926)
 
-<img src="cases/47/example_esc_keycap_diorama.jpeg" width="300" alt="Miniature computer setup diorama inside an ESC keycap">
+<img src="cases/47/example_esc_keycap_diorama.png" width="300" alt="Miniature computer setup diorama inside an ESC keycap"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
 
@@ -1429,7 +1483,8 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 
-<img src="cases/46/example_happy_capsule.png" width="300" alt="Happy Capsule">
+<img src="cases/46/example_happy_capsule.png" width="300" alt="Happy Capsule"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1454,7 +1509,8 @@ Please follow medical advice and purchase as needed.
 
 [Source Link](https://x.com/dotey/status/1911988003729203648)
 
-<img src="cases/45/example_university_mascot_npu.jpeg" width="300" alt="3D Chibi-style University Anthropomorphic Mascot">
+<img src="cases/45/example_university_mascot_npu.png" width="300" alt="3D Chibi-style University Anthropomorphic Mascot"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1475,7 +1531,8 @@ Create a personified 3D chibi-style anime girl character representing {Northwest
 
 [Source Link](https://x.com/berryxia_ai/status/1911334046724165905)
 
-<img src="cases/44/example_rpg_card_designer.png" width="300" alt="RPG-Style Character Card Creation">
+<img src="cases/44/example_rpg_card_designer.png" width="300" alt="RPG-Style Character Card Creation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **Prompt**
 
@@ -1504,7 +1561,8 @@ Colors: warm highlights, profession-matching hues.
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
-<img src="cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)">
+<img src="cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1513,7 +1571,7 @@ Transform the person in the image into a set of cute chibi-style Russian nesting
 ```
 
 
-**Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg)).
+**Reference Image Required:** Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931)).
 
 
 ---
@@ -1525,7 +1583,8 @@ Transform the person in the image into a set of cute chibi-style Russian nesting
 
 [Source Link](https://x.com/balconychy/status/1909908568129655248)
 
-<img src="cases/42/example_3d_q_snowglobe_couple.jpeg" width="300" alt="3D Chibi Couple Snow Globe">
+<img src="cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="3D Chibi Couple Snow Globe"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
 
@@ -1548,7 +1607,8 @@ Inside the globe: The characters are in a cute chibi-style 3D design, gazing at 
 
 [Source Link](https://x.com/dotey/status/1911609122547449886)
 
-<img src="cases/41/example_miniature_journey_west.jpeg" width="300" alt="Miniature Three-dimensional Scene Presentation">
+<img src="cases/41/example_miniature_journey_west.png" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1569,7 +1629,8 @@ Miniature three-dimensional scene presentation using tilt-shift photography tech
 
 [Source Link](https://x.com/hellokaton/status/1910900979194646959)
 
-<img src="cases/40/example_two_panel_manga_president.jpeg" width="300" alt="Two-panel Cute Japanese Manga">
+<img src="cases/40/example_two_panel_manga_president.png" width="300" alt="Two-panel Cute Japanese Manga"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
 
 **Prompt**
 
@@ -1610,7 +1671,8 @@ Additional Notes:
 
 [Source Link](https://x.com/dotey/status/1905103477879267823)
 
-<img src="cases/39/example_fantasy_computer_head_portal.jpeg" width="300" alt="Fantasy Cartoon Illustration">
+<img src="cases/39/example_fantasy_computer_head_portal.png" width="300" alt="Fantasy Cartoon Illustration"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1630,7 +1692,8 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 [Source Link](https://x.com/dotey/status/1907870919852179850)
 
-<img src="cases/38/example_hand_drawn_infographic.jpeg" width="300" alt="Hand-drawn Infographic Card">
+<img src="cases/38/example_hand_drawn_infographic.png" width="300" alt="Hand-drawn Infographic Card"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1653,20 +1716,21 @@ Keep updating daily, and results will come — because 99% of people can’t kee
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-37"></a>
-### Case 37: Social Media Post Doodle Overlay (by [@op7418](https://x.com/op7418))
+### Case 37: Pastel Power 3D ADS (by [@aziz4ai](https://x.com/aziz4ai))
 
-[Source Link](https://x.com/op7418/status/1906208691877253536)
+[Source Link](https://x.com/aziz4ai/status/1925301120252924356)
 
-<img src="cases/37/example_social_media_doodle.jpeg" width="300" alt="Social Media Post Doodle Overlay">
+<img src="cases/37/pastel_power_3d_ads.png" width="300" alt="Pastel Power 3D ADS"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **Prompt**
 
 ```
-Generate an image, print it out, then go wild with red ink — cover it in handwritten Chinese annotations, doodles, and messy scribbles. If you’d like, you can even add some small collage elements.
+a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like textures and vibrant pastel colors, placed in a minimalist isometric scene that complements the product’s nature, clean composition, gentle lighting, subtle shadows, with the product’s logo and a 3-word slogan displayed clearly below
 ```
 
+*Note: Replace [brand product] in the prompt with a specific product description.*
 
-**Reference Image Required:** A photo or screenshot.
 
 
 ---
@@ -1678,7 +1742,8 @@ Generate an image, print it out, then go wild with red ink — cover it in handw
 
 [Source Link](https://x.com/dotey/status/1907131027253772399)
 
-<img src="cases/36/example_minimalist_3d_toilet_txt.jpeg" width="300" alt="Minimalist 3D Illustration">
+<img src="cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="Minimalist 3D Illustration"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1734,7 +1799,8 @@ Draw a Toilet
 
 [Source Link1](https://x.com/gizakdag/status/1911075302941622512) | [Source Link2](https://x.com/dotey/status/1912276883196039520)
 
-<img src="cases/35/example_fluffy_pumpkin.jpeg" width="300" alt="Fluffy Jack-o'-lantern">
+<img src="cases/35/example_fluffy_pumpkin.png" width="300" alt="Fluffy Jack-o'-lantern"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">gizakdag</a></sub>
 
 **Prompt**
 
@@ -1754,7 +1820,8 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 
 [Source Link](https://x.com/dotey/status/1907903480678985784)
 
-<img src="cases/34/example_hand_drawn_infographic_cognition.jpeg" width="300" alt="Hand-drawn Infographic Card">
+<img src="cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="Hand-drawn Infographic Card"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1784,7 +1851,8 @@ The overall layout should maintain visual balance, with ample white space reserv
 
 [Source Link](https://x.com/balconychy/status/1909426314643222595)
 
-<img src="cases/33/example_family_wedding_photo_q.jpeg" width="300" alt="Q-version 3D Family Portrait">
+<img src="cases/33/example_family_wedding_photo_q.png" width="300" alt="Q-version 3D Family Portrait"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
 
@@ -1805,18 +1873,20 @@ The entire scene is placed inside a photo frame.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-32"></a>
-### Case 32: Paper Cutout Style Job Ad (by [@dotey](https://x.com/dotey))
+### Case 32: 3D Papercraft Pop-up Book (by [@dotey](https://x.com/dotey))
 
-[Source Link](https://x.com/dotey/status/1905021792642564406)
+[Source Link](https://x.com/dotey/status/1923264349050675329)
 
-<img src="cases/32/example_paper_cutout_job_ad.jpeg" width="300" alt="Paper Cutout Style Job Ad">
+<img src="cases/32/3d_papercraft_popup_book.png" width="300" alt="3D Papercraft Pop-up Book"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
 ```
-The image shows professional drivers of cars and trucks at work, impressive urban and rural speeds, a positive team environment and modern visuals of the fleet - all this advertises a vacancy for drivers with competitive pay, flexible working hours and a clear call to institutions: "Apply today - we will start tomorrow!"
+Multi-layered foldable paper sculpture pop-up book, placed on a desk, with a clean background highlighting the main subject. The book presents a 3D flip-book style, with a 2:3 vertical aspect ratio. The open pages display the scene of [Nezha Demon Child version battling Ao Bing]. All elements are finely foldable and assembled, showcasing a realistic and delicate texture of folded paper. The composition uniformly adopts a frontal perspective, with an overall dreamy and beautiful visual style, vibrant and gorgeous colors, full of a fantastical and lively story atmosphere.
 ```
 
+*Note: Please modify the scene description within the square brackets 【】 as appropriate, and you can also add more details.*
 
 
 
@@ -1829,7 +1899,8 @@ The image shows professional drivers of cars and trucks at work, impressive urba
 
 [Source Link](https://x.com/richardchang/status/1909086122959139312)
 
-<img src="cases/31/example_naruto_stickers.jpeg" width="300" alt="Anime Sticker Collection">
+<img src="cases/31/example_naruto_stickers.png" width="300" alt="Anime Sticker Collection"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/richardchang">@richardchang</a></sub>
 
 **Prompt**
 
@@ -1849,7 +1920,8 @@ Naruto stickers
 
 [Source Link](https://x.com/dotey/status/1905020833451348283)
 
-<img src="cases/30/example_35mm_moscow_flying_island.jpeg" width="300" alt="35mm Film Style Flying Island">
+<img src="cases/30/example_35mm_moscow_flying_island.png" width="300" alt="35mm Film Style Flying Island"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1869,7 +1941,8 @@ Naruto stickers
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
-<img src="cases/29/example_pearl_earring_ootd.png" width="300" alt="Famous Painting Character OOTD">
+<img src="cases/29/example_pearl_earring_ootd.png" width="300" alt="Famous Painting Character OOTD"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1889,7 +1962,7 @@ Right side: individual clothing items and accessories laid out separately, as if
 ```
 
 
-**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg).
+**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
 
 
 ---
@@ -1901,7 +1974,8 @@ Right side: individual clothing items and accessories laid out separately, as if
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
-<img src="cases/28/example_flat_sticker_pearl_earring.jpeg" width="300" alt="Flat Sticker Design">
+<img src="cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="Flat Sticker Design"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1929,7 +2003,8 @@ The overall style should be clean, modern, and visually appealing for use as a f
 
 [Source Link](https://x.com/dotey/status/1909800530739679488)
 
-<img src="cases/27/example_chibi_emoji_pack.png" width="300" alt="Q-version Emoji Sticker Pack Creation">
+<img src="cases/27/example_chibi_emoji_pack.png" width="300" alt="Q-version Emoji Sticker Pack Creation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -1963,7 +2038,8 @@ Aspect ratio: 9:16
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
-<img src="cases/26/example_master_oats_ad.png" width="300" alt="Famous Painting Character Cereal Ad">
+<img src="cases/26/example_master_oats_ad.png" width="300" alt="Famous Painting Character Cereal Ad"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -1986,7 +2062,7 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 ```
 
 
-**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg).
+**Reference Image Required:** [Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
 
 
 ---
@@ -1998,7 +2074,8 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 
 [Source Link](https://x.com/0xdlk/status/1906843247432929642)
 
-<img src="cases/25/example_minimalist_3d_toilet.png" width="300" alt="Minimalist 3D Illustration">
+<img src="cases/25/example_minimalist_3d_toilet.png" width="300" alt="Minimalist 3D Illustration"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/0xdlk">@0xdlk</a></sub>
 
 **Prompt**
 
@@ -2055,7 +2132,8 @@ Generate a toilet with the following JSON profile:
 
 [Source Link](https://x.com/dotey/status/1909047283485671924)
 
-<img src="cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Funko Pop Figure Creation">
+<img src="cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Funko Pop Figure Creation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2079,7 +2157,8 @@ Next to the box, show a realistic rendering of the actual figure outside the pac
 
 [Source Link](https://x.com/balconychy/status/1909916265067557299)
 
-<img src="cases/23/example_titanic_q_realistic.jpeg" width="300" alt=""Titanic" Pose Parody">
+<img src="cases/23/example_titanic_q_realistic.png" width="300" alt=""Titanic" Pose Parody"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2104,7 +2183,8 @@ Only the characters should be in chibi 3D style; the rest of the environment sho
 
 [Source Link](https://x.com/balconychy/status/1905507936526627078)
 
-<img src="cases/22/example_notebook_promo.png" width="300" alt="Xiaohongshu Cover Image">
+<img src="cases/22/example_notebook_promo.png" width="300" alt="Xiaohongshu Cover Image"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2139,21 +2219,31 @@ Image aspect ratio: 9:16
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-21"></a>
-### Case 21: Stick Figure Emoji Pack (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 21: Chibi Character Sticker Pack (by [@leon_yuan2001](https://x.com/leon_yuan2001))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1909907741948399873)
+[Source Link](https://x.com/leon_yuan2001/status/1923712069209293014)
 
-<img src="cases/21/example_einstein_stickfigure_emoji.jpeg" width="300" alt="Stick Figure Emoji Pack">
+<img src="cases/21/chibi_character_sticker_pack.png" width="300" alt="Chibi Character Sticker Pack"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/leon_yuan2001">@leon_yuan2001</a></sub>
 
 **Prompt**
 
 ```
-(Step 1) First, convert the person in the image into a hand-drawn doodle style.
-(Step 2) Based on that doodle, create a series of expressive emoji-style faces, including: sticking out tongue, smiling, frowning, surprised, thinking, and winking.
+Please create a set of 9 Chibi stickers featuring [the character in the reference image], arranged in a 3x3 grid.
+Design requirements:
+- Transparent background.
+- 1:1 square aspect ratio.
+- Consistent Chibi Ghibli cartoon style with vibrant colors.
+- Each sticker must have a unique action, expression, and theme, reflecting diverse emotions like "sassy, mischievous, cute, frantic" (e.g., rolling eyes, laughing hysterically on the floor, soul leaving body, petrified, throwing money, foodie mode, social anxiety attack). Incorporate elements related to office workers and internet memes.
+- Each character depiction must be complete, with no missing parts.
+- Each sticker must have a uniform white outline, giving it a sticker-like appearance.
+- No extraneous or detached elements in the image.
+- Strictly no text, or ensure any text is 100% accurate (no text preferred).
 ```
 
+*Note: Please replace "[the character in the reference image]" in the prompt with a specific description of the character's features, or directly upload a reference image.*
 
-**Reference Image Required:** A photo of a person.
+**Reference Image Required:** A character image needs to be uploaded as the main reference for creating the sticker pack.
 
 
 ---
@@ -2161,18 +2251,20 @@ Image aspect ratio: 9:16
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-20"></a>
-### Case 20: Four-Panel Manga (Theory of Relativity) (by [@dotey](https://x.com/dotey))
+### Case 20: Action Figure and Real Person in the Same Frame (by [@dotey](https://x.com/dotey))
 
-[Source Link](https://x.com/dotey/status/1904980568107819060)
+[Source Link](https://x.com/dotey/status/1920994118580183316)
 
-<img src="cases/20/example_relativity_manga.jpeg" width="300" alt="Four-Panel Manga (Theory of Relativity)">
+<img src="cases/20/action_figure_and_real_person_in_frame.png" width="300" alt="Action Figure and Real Person in the Same Frame"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
 ```
-make a colorful page of manga describing the theory of relativity. add some humor.
+In a casual, everyday style as if shot on a mobile phone, an anime figure of [Jackie Chan] is placed on a desk, striking an exaggerated and cool pose, fully equipped. Simultaneously, the corresponding real-life person also appears in the frame, striking a similar pose to the figure, creating an interesting visual contrast with the figure and the real person in the same frame. The overall composition is harmonious and natural, delivering a warm and vibrant, true-to-life visual experience.
 ```
 
+*Note: The [Jackie Chan] in the prompt can be replaced with the name of any figurine character you want, or other types of characters.*
 
 
 
@@ -2181,20 +2273,21 @@ make a colorful page of manga describing the theory of relativity. add some humo
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-19"></a>
-### Case 19: Textbook Illustration Redraw (by [@balconychy](https://x.com/balconychy))
+### Case 19: Country Diorama in a Toy Box (by [@TheRelianceAI](https://x.com/TheRelianceAI))
 
-[Source Link](https://x.com/balconychy/status/1906982626365178361)
+[Source Link](https://x.com/TheRelianceAI/status/1925223613055017251)
 
-<img src="cases/19/example_textbook_redraw.jpeg" width="300" alt="Textbook Illustration Redraw">
+<img src="cases/19/country_diorama_in_toy_box.png" width="300" alt="Country Diorama in a Toy Box"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
 
 **Prompt**
 
 ```
-Redraw the language textbook illustration
+An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige cardboard box, with the lid being held open by two human hands. The interior of the box reveals a miniature landscape of [COUNTRY NAME], featuring iconic landmarks, terrain, buildings, rivers, vegetation, and crowds of tiny, detailed human figures. The diorama is filled with vibrant, geographically appropriate elements, all crafted in a tactile, toy-like style using matte 3D-printed textures with visible layer lines. At the top, the inside of the box lid displays the phrase “[COUNTRY NAME]” in large, colorful, raised plastic letters—each letter in a different bright color. The lighting is warm and cinematic, highlighting the textures and shadows to evoke a sense of realism and charm, as if the viewer is opening a magical miniature version of the nation
 ```
 
+*Note: Please replace `[COUNTRY NAME]` in the prompt with a specific country name.*
 
-**Reference Image Required:** An original textbook illustration.
 
 
 ---
@@ -2206,7 +2299,8 @@ Redraw the language textbook illustration
 
 [Source Link](https://animeai.online/#demo-gallery)
 
-<img src="cases/18/pixar-style-godfather-scene.png" width="300" alt="Pixar 3D Style">
+<img src="cases/18/pixar-style-godfather-scene.png" width="300" alt="Pixar 3D Style"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
 
 **Prompt**
 
@@ -2223,20 +2317,21 @@ Redraw this photo in Pixar 3D style
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-17"></a>
-### Case 17: Digimon Style Image (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 17: Retro CRT Computer Boot Screen (by [@Gdgtify](https://x.com/Gdgtify))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911001291280859559)
+[Source Link](https://x.com/Gdgtify/status/1925176250626159053)
 
-<img src="cases/17/example_digimon_style.jpeg" width="300" alt="Digimon Style Image">
+<img src="cases/17/retro_crt_computer_boot_screen.png" width="300" alt="Retro CRT Computer Boot Screen"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Gdgtify">@Gdgtify</a></sub>
 
 **Prompt**
 
 ```
-Generate a Digimon-style image for me, and match me with a Digimon partner.
+Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]
 ```
 
+*Note: Replace [shape or logo] in the prompt with a specific shape or logo description, such as Shanghai skyline.*
 
-**Reference Image Required:** A single person photo.
 
 
 ---
@@ -2244,21 +2339,24 @@ Generate a Digimon-style image for me, and match me with a Digimon partner.
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-16"></a>
-### Case 16: Pudding Slot Machine (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 16: Anime-style Badge (by [@Alittlefatwhale](https://x.com/Alittlefatwhale))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911107569898471818)
+[Source Link](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
-<img src="cases/16/example_pudding_slot.jpeg" width="300" alt="Pudding Slot Machine">
+<img src="cases/16/anime_style_badge.png" width="300" alt="Anime-style Badge"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Alittlefatwhale">@Alittlefatwhale</a></sub>
 
 **Prompt**
 
 ```
-Transform the [🎰] slot machine icon into a delicious-looking pudding design with a soft, jiggly texture.
-The background features a gentle pink-to-white gradient.
-The overall style should be sweet, light, and cute, evoking a playful and dessert-like aesthetic.
+Based on the person in the attachment, generate a photo of an anime-style badge. Requirements:
+Material: Tassel
+Shape: Circular
+Main subject: A hand holding the badge
 ```
 
 
+**Reference Image Required:** A photo of a person needs to be uploaded as a reference for the badge design.
 
 
 ---
@@ -2270,7 +2368,8 @@ The overall style should be sweet, light, and cute, evoking a playful and desser
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
-<img src="cases/15/example_gpt_involution_poster.png" width="300" alt="Satirical Poster Generation">
+<img src="cases/15/example_gpt_involution_poster.png" width="300" alt="Satirical Poster Generation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2293,7 +2392,8 @@ maybe it’s time to deliver takeout instead.
 
 [Source Link](https://x.com/dotey/status/1909047547563213145)
 
-<img src="cases/14/example_one_piece_figure_creation.png" width="300" alt="One Piece Themed Figure Creation">
+<img src="cases/14/example_one_piece_figure_creation.png" width="300" alt="One Piece Themed Figure Creation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2317,7 +2417,8 @@ Next to the box, include a realistic, fully rendered version of the actual figur
 
 [Source Link](https://x.com/dotey/status/1908194518345678865)
 
-<img src="cases/13/example_photo_to_3d_q.png" width="300" alt="Photo to 3D Q-version Style">
+<img src="cases/13/example_photo_to_3d_q.png" width="300" alt="Photo to 3D Q-version Style"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2338,7 +2439,8 @@ Transform the characters in the scene into 3D chibi-style figures, while keeping
 
 [Source Link](https://x.com/dotey/status/1909332895115714835)
 
-<img src="cases/12/example_3d_collectible_couple_box.jpeg" width="300" alt="3D Couple Jewelry Box Figurine">
+<img src="cases/12/example_3d_collectible_couple_box.png" width="300" alt="3D Couple Jewelry Box Figurine"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2369,7 +2471,8 @@ Aspect ratio: 9:16
 
 [Source Link](https://x.com/dotey/status/1904978767090524372)
 
-<img src="cases/11/example_ps2_gta_shrek.jpeg" width="300" alt="PS2 Game Cover (GTA x Shrek)">
+<img src="cases/11/example_ps2_gta_shrek.png" width="300" alt="PS2 Game Cover (GTA x Shrek)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2389,7 +2492,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 [Source Link](https://x.com/dotey/status/1910514811756065159)
 
-<img src="cases/10/example_maga_hat_cartoon.jpeg" width="300" alt="Satirical Cartoon Generation">
+<img src="cases/10/example_maga_hat_cartoon.png" width="300" alt="Satirical Cartoon Generation"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2407,20 +2511,32 @@ The composition is exaggerated and satirical, carrying a strong critique of poli
 [⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-9"></a>
-### Case 9: Famous Painting as Helium Balloon (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### Case 9: Minimalist Futurist Poster (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910976632141267237)
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
-<img src="cases/9/example_pearl_earring_balloon.jpeg" width="300" alt="Famous Painting as Helium Balloon">
+<img src="cases/9/minimalist_futurist_poster.png" width="300" alt="Minimalist Futurist Poster"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
 ```
-Transform the person in the image into a helium balloon shaped like a doll.
+A vertical (3:4) 4K-resolution minimalist futurist exhibition poster with an ultra-light cool gray background (#f4f4f4).
+
+At the center of the poster is a fluid 3D metaball shaped like a classic Coca-Cola bottle in full form, rendered in frosted glass with delicate grainy noise.
+The fluid gradient transitions from Coca-Cola Red (#E41C23) to Pearl White (#FFFFFF), giving it a silky glass-like appearance.
+
+High-position softbox lighting casts long, soft colored shadows and a subtle halo.
+
+The fluid overlaps with the text: letters obscured by the frosted glass appear with a gentle Gaussian blur.
+•The main title, the classic red “Coca-Cola” logo, is centered and partially obscured by the fluid. The covered letters are slightly blurred through the frosted glass.
+•The subtitle, in bold all-caps modern sans-serif pure black font, reads: “TASTE THE FEELING”, placed below the main title. It is also partially overlapped by the fluid and blurred in those areas, while the rest remains sharp.
+
+The overall layout is clean with generous whitespace, balanced composition, sharp focus, and HDR high dynamic range.
 ```
 
+*Note: The [Classic 3D Coca-Cola Bottle] in the prompt can be replaced with descriptions of other items to generate posters with different themes.*
 
-**Reference Image Required:** A half-body or full-body single person photo.
 
 
 ---
@@ -2432,7 +2548,8 @@ Transform the person in the image into a helium balloon shaped like a doll.
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
-<img src="cases/8/example_lego_collectible.jpeg" width="300" alt="Lego Collectible Figure">
+<img src="cases/8/example_lego_collectible.png" width="300" alt="Lego Collectible Figure"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2461,7 +2578,8 @@ Balance is key to the layout. The background should feature a smooth gradient tr
 
 [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
-<img src="cases/7/example_personalized_room.png" width="300" alt="Personalized Room Design">
+<img src="cases/7/example_personalized_room.png" width="300" alt="Personalized Room Design"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
 
@@ -2482,7 +2600,8 @@ Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented i
 
 [Source Link](https://x.com/dotey/status/1908910838636765204)
 
-<img src="cases/6/example_portal_crossing_handhold.jpeg" width="300" alt="Character Stepping Through Portal">
+<img src="cases/6/example_portal_crossing_handhold.png" width="300" alt="Character Stepping Through Portal"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2490,7 +2609,7 @@ Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented i
 A 3D chibi-style version of the person in the photo is stepping through a glowing portal, reaching out and holding the viewer’s hand. As the character pulls the viewer forward, they turn back with a dynamic glance, inviting the viewer into their world.
 Behind the portal is the viewer’s real-life environment: a typical programmer’s study with a desk, monitor, and laptop, rendered in realistic detail. Inside the portal lies the character’s 3D chibi world, inspired by the photo, with a cool blue color scheme that sharply contrasts with the real-world surroundings.
 The portal itself is a perfectly elliptical frame glowing with mysterious blue and purple light, positioned at the center of the image as a gateway between the two worlds.
-The scene is captured from a third-person perspective, clearly showing the viewer’s hand being pulled into the character’s world. Use a 3:2 aspect ratio.
+The scene is captured from a third-person perspective, clearly showing the viewer’s hand being pulled into the character’s world. Use a 2:3 aspect ratio.
 ```
 
 
@@ -2506,7 +2625,8 @@ The scene is captured from a third-person perspective, clearly showing the viewe
 
 [Source Link](https://animeai.online/#demo-gallery)
 
-<img src="cases/5/ghibli-style-mona-lisa.png" width="300" alt="Mona Lisa redrawn in Ghibli style">
+<img src="cases/5/ghibli-style-mona-lisa.png" width="300" alt="Mona Lisa redrawn in Ghibli style"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
 
 **Prompt**
 
@@ -2528,7 +2648,8 @@ Redraw this photo in Ghibli style
 
 [Source Link](https://x.com/balconychy/status/1909418699150237917)
 
-<img src="cases/4/example_q_chinese_wedding.jpeg" width="300" alt="3D Chibi Chinese Wedding Scene">
+<img src="cases/4/example_q_chinese_wedding.png" width="300" alt="3D Chibi Chinese Wedding Scene"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2556,7 +2677,8 @@ This image should reflect the joy and blessing of a traditional Chinese wedding,
 
 [Source Link](https://x.com/dotey/status/1905251524248248650)
 
-<img src="cases/3/example_vintage_poster.jpeg" width="300" alt="Retro Style Promotional Poster">
+<img src="cases/3/example_vintage_poster.png" width="300" alt="Retro Style Promotional Poster"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2576,7 +2698,8 @@ A retro-style promotional poster emphasizing bold Chinese text. The background f
 
 [Source Link](https://x.com/dotey/status/1908238003169903060)
 
-<img src="cases/2/example_polaroid_breakout.png" width="300" alt="3D Polaroid Breakout Effect">
+<img src="cases/2/example_polaroid_breakout.png" width="300" alt="3D Polaroid Breakout Effect"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
 
@@ -2597,7 +2720,8 @@ Convert the character in the scene into a 3D chibi-style figure, placed inside a
 
 [Source Link](https://x.com/balconychy/status/1909417750587486469)
 
-<img src="cases/1/example_proposal_scene_q_realistic.jpeg" width="300" alt="3D Chibi Proposal Scene">
+<img src="cases/1/example_proposal_scene_q_realistic.png" width="300" alt="3D Chibi Proposal Scene"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
 
@@ -2680,6 +2804,11 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [terry623 (@terry623)](https://github.com/terry623)
 *   [photis (Sora Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
 *   [Ryan Hart (@thisdudelikesAI)](https://x.com/thisdudelikesAI)
+*   [Gadgetify (@Gdgtify)](https://x.com/Gdgtify)
+*   [Ilyas Salaoui (@TheRelianceAI)](https://x.com/TheRelianceAI)
+*   [Leon (@leon_yuan2001)](https://x.com/leon_yuan2001)
+*   [AZIZ | AI (@aziz4ai)](https://x.com/aziz4ai)
+*   [小肥鲸 (@Alittlefatwhale)](https://x.com/Alittlefatwhale)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
