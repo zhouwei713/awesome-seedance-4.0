@@ -34,6 +34,7 @@ Last updated: 8/30/2025, 10:08:15 PM
 <a id="table-of-contents"></a>
 ## Contents
 
+- [🍌 What is Nano Banana](#nano-banana-intro)
 - [🎨 What is GPT‑4o](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
 - [🛠️ Tools Introduction](#tools-intro)
@@ -44,6 +45,18 @@ Last updated: 8/30/2025, 10:08:15 PM
 
 
 ---
+
+
+<a id="nano-banana-intro"></a>
+## 🍌 What is Nano Banana
+
+Nano Banana is Google's revolutionary AI image editing model, representing a paradigm shift from "AI painting tool" to "AI creative partner." It no longer passively executes commands but deeply understands the context, lighting, physical logic, and creative intent of existing images.
+
+- 🎯 **Context-Aware Editing**: Truly understands relationships between people and environments, intelligently re-rendering lighting and reflections after background replacement
+- 🔧 **Surgical Precision**: Adds or replaces items with extreme precision, perfectly handling occlusion relationships and lighting effects
+- 🌐 **Deep 3D Understanding**: Can "see" 3D structures within 2D images for true spatial perception editing
+- 🎬 **Style Consistency**: Builds completely unified "visual worlds" based on single reference images
+- ✨ **Collaborative Creation**: Evolves from "master-servant dialogue" to "inspiration communication" between creators
 
 <a id="gpt4o-intro"></a>
 ## 🎨 What is GPT‑4o
@@ -56,7 +69,6 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 - 🖼️ Realistic composition: Spatial depth, perspective, and lighting that feel authentic
 - ✏️ Easy post‑editing: Swap backgrounds, tweak details—seamless for second‑round creation
 - ⚡️ Lightning‑fast interaction: Shorter response times for real‑time ideation and iteration
-
 
 ---
 
