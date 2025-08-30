@@ -9,12 +9,14 @@
 </a>
 
 🎉 欢迎来到 🍌 Nano Banana 图片精选！
+
 这是一个精选的 Gemini-2.5-Flash-Image（也称为 Nano Banana）生成图像与提示词合集。借助 Google 的前沿图像生成模型，全面展示 Gemini 在 AI 图像生成与编辑方面的先进能力，并不断探索创意表达的新可能。
 
 案例主要来源于 Twitter/X 🐦 和各大 AI 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
-<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
+💡 **推荐工具**：想要快速体验各种 AI 图像生成模型？推荐使用 [chatimg.ai](https://chatimg.ai) 网站，同时支持 GPT-4o、Gemini、Flux、Grok 等主流模型的图像生成，提供超多精美模板，并支持自定义提示词创作！
 
+<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
 ---
 ## 🤖 Gemini vs GPT-4o 对比版本

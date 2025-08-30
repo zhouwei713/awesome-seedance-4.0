@@ -9,9 +9,12 @@
 </a>
 
 🎉 Welcome to 🍌 Nano Banana Image Collection!
+
 This is a curated collection of Gemini-2.5-Flash-Image (also known as Nano Banana) generated images and prompts. Leveraging Google's cutting-edge image generation model, it comprehensively showcases Gemini's advanced capabilities in AI image generation and editing, while continuously exploring new possibilities for creative expression.
 
 Cases mainly come from Twitter/X 🐦 and various AI communities 🎬. May these cases inspire you 💡 and accelerate your creativity 🚀.
+
+💡 **Recommended Tool**: Want to quickly experience various AI image generation models? We recommend using the [chatimg.ai](https://chatimg.ai) website, which supports mainstream models like GPT-4o, Gemini, Flux, Grok and more for image generation, provides numerous beautiful templates, and supports custom prompt creation!
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
