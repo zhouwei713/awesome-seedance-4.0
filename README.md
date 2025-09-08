@@ -190,6 +190,12 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
+
+|Seednace4.0| Gemini                                                                                                                                    | GPT-4o |
+|---|-------------------------------------------------------------------------------------------------------------------------------------------|--------|
+|![](https://files.mdnice.com/user/43745/0b5ab463-5ab3-4c65-b5aa-f403ad9e4c48.jpg)| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - GPT-4o"> |
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+
 **提示词**
 
 ```
