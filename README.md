@@ -223,7 +223,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 |Seedance4.0| Gemini | GPT-4o |
 |--------|--------|--------|
-|![](https://files.mdnice.com/user/43745/574b1e9d-8573-41d0-b3a1-275b36c97c6f.jpg=40%x)| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1" width="300" alt="黑白肖像艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术 (Gemini版) - GPT-4o"> |
+|<img src="https://files.mdnice.com/user/43745/574b1e9d-8573-41d0-b3a1-275b36c97c6f.jpg?" width="100">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1" width="300" alt="黑白肖像艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 |Seedance4.0| Gemini | GPT-4o |
