@@ -185,15 +185,10 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/azed_ai/status/1923016036120658122)
 
-| Gemini                                                                                                                                    | GPT-4o |
-|-------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
-
-|Seednace4.0| Gemini                                                                                                                                    | GPT-4o |
-|---|-------------------------------------------------------------------------------------------------------------------------------------------|--------|
-|![](https://files.mdnice.com/user/43745/0b5ab463-5ab3-4c65-b5aa-f403ad9e4c48.jpg)| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - GPT-4o"> |
+|Seednace4.0| Gemini   | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/fd6666c7-c140-4ac6-82f3-251921f6f0d0.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
@@ -221,14 +216,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
 
-|Seedance4.0| Gemini | GPT-4o |
+|Seedream4.0| Gemini | GPT-4o |
 |--------|--------|--------|
-|<img src="https://files.mdnice.com/user/43745/574b1e9d-8573-41d0-b3a1-275b36c97c6f.jpg?" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1" width="300" alt="黑白肖像艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术 (Gemini版) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
-
-|Seedance4.0| Gemini | GPT-4o |
-|--------|--------|--------|
-|![](https://files.mdnice.com/user/43745/574b1e9d-8573-41d0-b3a1-275b36c97c6f.jpg)| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1" width="300" alt="黑白肖像艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术 (Gemini版) - GPT-4o"> |
+|<img src="https://files.mdnice.com/user/43745/574b1e9d-8573-41d0-b3a1-275b36c97c6f.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1" width="300" alt="黑白肖像艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 
@@ -256,10 +246,12 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/umesh_ai/status/1921487841634156999)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png?v=1" width="300" alt="磨砂玻璃后的虚实对比剪影 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="磨砂玻璃后的虚实对比剪影 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/c09fcac9-b815-493e-ad29-98b4e7ab3ef7.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png?v=1" width="300" alt="磨砂玻璃后的虚实对比剪影 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="磨砂玻璃后的虚实对比剪影 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+
+
 
 **提示词**
 
@@ -281,9 +273,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png?v=1" width="300" alt="可爱温馨针织玩偶 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/97/cute_cozy_knitted_doll.png" width="300" alt="可爱温馨针织玩偶 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/6bdbf117-2f96-4eb1-bf32-7141eea8ce76.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png?v=1" width="300" alt="可爱温馨针织玩偶 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/97/cute_cozy_knitted_doll.png" width="300" alt="可爱温馨针织玩偶 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -305,9 +297,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1920851135516082246)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png?v=1" width="300" alt="定制动漫手办 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/96/custom-anime-figure-from-photo.png" width="300" alt="定制动漫手办 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/ee885238-f35a-4e04-adaf-8c39de1af8c0.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png?v=1" width="300" alt="定制动漫手办 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/96/custom-anime-figure-from-photo.png" width="300" alt="定制动漫手办 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -329,9 +321,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/thisdudelikesAI/status/1920433372243136730)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png?v=1" width="300" alt="自拍生成摇头娃娃 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/95/selfie-to-bobblehead-generator.png" width="300" alt="自拍生成摇头娃娃 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/a6044d9b-18b5-4555-ac8c-5bdff487b24a.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png?v=1" width="300" alt="自拍生成摇头娃娃 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/95/selfie-to-bobblehead-generator.png" width="300" alt="自拍生成摇头娃娃 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/thisdudelikesAI">@thisdudelikesAI</a></sub>
 
 **提示词**
@@ -354,9 +346,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/berryxia_ai/status/1920795648946782583)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1" width="300" alt="三只动物与地标自拍 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/94/three_animals_selfie_at_landmark.png" width="300" alt="三只动物与地标自拍 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/f002d1b3-eef3-437e-af9d-adaaada34f53.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1" width="300" alt="三只动物与地标自拍 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/94/three_animals_selfie_at_landmark.png" width="300" alt="三只动物与地标自拍 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **提示词**
@@ -378,9 +370,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/egeberkina/status/1920448389960909085)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="300" alt="玻璃质感重塑 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/93/glass_retexturing.png" width="300" alt="玻璃质感重塑 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/57da81d4-b545-4c63-89e6-82895e3ae8dd.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="300" alt="玻璃质感重塑 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/93/glass_retexturing.png" width="300" alt="玻璃质感重塑 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -435,9 +427,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="300" alt="透视3D出屏效果 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/92/perspective-3d-pop-out-effect.png" width="300" alt="透视3D出屏效果 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/ca1caf02-7e93-487b-bdcd-7bb95d285030.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="300" alt="透视3D出屏效果 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/92/perspective-3d-pop-out-effect.png" width="300" alt="透视3D出屏效果 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -460,9 +452,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/umesh_ai/status/1919701229363466328)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1" width="300" alt="谷歌地图变身古代藏宝图 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/91/case.png" width="300" alt="谷歌地图变身古代藏宝图 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/60d5d74c-59bb-435d-8ef2-a41ae4512cca.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1" width="300" alt="谷歌地图变身古代藏宝图 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/91/case.png" width="300" alt="谷歌地图变身古代藏宝图 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -484,9 +476,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/egeberkina/status/1918291652210311278)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1" width="300" alt="品牌化键盘键帽 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/90/case.png" width="300" alt="品牌化键盘键帽 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/c54eedcf-4f44-47ea-9f92-c127e7e9810e.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1" width="300" alt="品牌化键盘键帽 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/90/case.png" width="300" alt="品牌化键盘键帽 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -508,9 +500,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/egeberkina/status/1919398870867440124)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="300" alt="镀铬emoji徽章 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/89/case.png" width="300" alt="镀铬emoji徽章 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3d3178a9-7d8a-4181-b06f-f16da4eb8a28.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="300" alt="镀铬emoji徽章 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/89/case.png" width="300" alt="镀铬emoji徽章 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -532,9 +524,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1919522110395080838)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1" width="300" alt="儿童涂色页插画（含彩色参考图） (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/88/case.png" width="300" alt="儿童涂色页插画（含彩色参考图） (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/614a8946-a800-49d3-9b86-ac8ec37a12bd.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1" width="300" alt="儿童涂色页插画（含彩色参考图） (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/88/case.png" width="300" alt="儿童涂色页插画（含彩色参考图） (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -560,9 +552,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1918529055340576812)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1" width="300" alt="字母与单词含义融合 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/87/case.png" width="300" alt="字母与单词含义融合 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/10c88f8c-9b07-43b1-84e2-a8940bb93fb1.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1" width="300" alt="字母与单词含义融合 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/87/case.png" width="300" alt="字母与单词含义融合 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -586,9 +578,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1" width="300" alt="双重曝光 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/86/double_exposure.png" width="300" alt="双重曝光 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/75ebe581-a1e6-4aee-a519-d7afc03c8e5c.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1" width="300" alt="双重曝光 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/86/double_exposure.png" width="300" alt="双重曝光 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=rezzycheck">rezzycheck (Sora)</a></sub>
 
 **提示词**
@@ -610,9 +602,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/umesh_ai/status/1917444534239191544)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="超现实交互场景 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="超现实交互场景 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/163a7be0-7eee-48d5-9337-35606b2f02cf.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="超现实交互场景 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="超现实交互场景 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -634,9 +626,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1" width="300" alt="动物硅胶腕托 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/84/case.png" width="300" alt="动物硅胶腕托 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/77f2bcbc-d77b-4b81-be87-6eaee3ff81aa.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1" width="300" alt="动物硅胶腕托 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/84/case.png" width="300" alt="动物硅胶腕托 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -658,9 +650,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/umesh_ai/status/1914644426334314545)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="发光线条解剖图 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="发光线条解剖图 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/56f92ece-5e84-4154-8713-dd8a23e36c4d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="发光线条解剖图 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="发光线条解剖图 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -682,9 +674,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1917988595228438771)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="300" alt="特色城市天气预报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/82/example.png" width="300" alt="特色城市天气预报 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/9948efcb-6807-467a-a834-a6f49434c797.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="300" alt="特色城市天气预报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/82/example.png" width="300" alt="特色城市天气预报 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -707,9 +699,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/azed_ai/status/1917948899098243407)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1" width="300" alt="半透明玻璃质感变换 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/81/example.png" width="300" alt="半透明玻璃质感变换 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/a48a54c4-1bf8-4dbb-8360-21fb91140f2d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1" width="300" alt="半透明玻璃质感变换 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/81/example.png" width="300" alt="半透明玻璃质感变换 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
@@ -732,9 +724,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接1](https://x.com/umesh_ai/status/1915696926596415492) | [原文链接2](https://x.com/fr0gger_/status/1916743281339498760) | [原文链接3](https://x.com/dotey/status/1917412535130563006)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="300" alt="代码风格名片 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/80/example_business_card_code_style.png" width="300" alt="代码风格名片 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/8bd6fb40-5967-46ce-9470-e77a42779bae.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="300" alt="代码风格名片 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/80/example_business_card_code_style.png" width="300" alt="代码风格名片 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -764,9 +756,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1917713810346872902)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="300" alt="乐高城市景观 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/79/example_lego_shanghai_bund.png" width="300" alt="乐高城市景观 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/be739423-1974-40be-a4cf-a1ffd0138f71.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="300" alt="乐高城市景观 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/79/example_lego_shanghai_bund.png" width="300" alt="乐高城市景观 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -788,9 +780,9 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/egeberkina/status/1917631056980721743)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1" width="300" alt="玻璃材质重塑 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/78/example_retexture_glass_phone.png" width="300" alt="玻璃材质重塑 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/1d2dacf7-091a-4660-ad95-f29f85fa0c2c.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1" width="300" alt="玻璃材质重塑 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/78/example_retexture_glass_phone.png" width="300" alt="玻璃材质重塑 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -829,9 +821,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1916530529324699858)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1" width="300" alt="水晶球故事场景 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/77/example_crystal_ball_chang_e.png" width="300" alt="水晶球故事场景 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3a8cb9e0-5106-481e-b744-0889c98d9a0f.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1" width="300" alt="水晶球故事场景 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/77/example_crystal_ball_chang_e.png" width="300" alt="水晶球故事场景 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -853,7 +845,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
-<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="怀旧动漫风格电影海报"><br>
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/c94f7905-a6f2-4cd3-8e7e-8504b5aa474d.jpg" width="300">|<img src="https://files.mdnice.com/user/43745/a1790078-69dd-44fe-af79-e551ba4a1b21.jpg" width="300">|<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="怀旧动漫风格电影海报"><br>|
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
 
 **提示词**
@@ -876,9 +870,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1917042797506662560)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1" width="300" alt="社交媒体相框融合 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="社交媒体相框融合 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/55d65c13-79f9-46e9-b6de-4ee998f9ab2d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1" width="300" alt="社交媒体相框融合 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="社交媒体相框融合 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -901,9 +895,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/umesh_ai/status/1916517976414495161)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="300" alt="Logo 形状创意书架 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/74/example_logo_bookshelves.png" width="300" alt="Logo 形状创意书架 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/365e530f-7dad-43e4-b428-15f3b97dfe69.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="300" alt="Logo 形状创意书架 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/74/example_logo_bookshelves.png" width="300" alt="Logo 形状创意书架 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -925,9 +919,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/azed_ai/status/1916521742052503804)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1" width="300" alt="定制Q版钥匙串 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/73/example_keychain_chibi.png" width="300" alt="定制Q版钥匙串 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/c6e067d2-4a1f-4167-b24c-84ba0c254bed.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1" width="300" alt="定制Q版钥匙串 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/73/example_keychain_chibi.png" width="300" alt="定制Q版钥匙串 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
@@ -951,9 +945,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/azed_ai/status/1915770501705925106)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png?v=1" width="300" alt="金色吊坠项链 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/72/gold_pendant_necklace.png" width="300" alt="金色吊坠项链 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/e220ed7a-ff8f-4db9-bb4e-22469b68bcb3.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png?v=1" width="300" alt="金色吊坠项链 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/72/gold_pendant_necklace.png" width="300" alt="金色吊坠项链 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
@@ -976,9 +970,9 @@ retexture the image attached based on the json below:
 
 
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/d5142809-fbe9-458e-a3ff-0ab606b8db84.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/terry623">terry623</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
 
 **提示词**
@@ -1001,9 +995,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/Anima_Labs/status/1915044265895379166)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="300" alt="原创宝可梦生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/70/example_pokemon_strawbit.png" width="300" alt="原创宝可梦生成 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/05333308-2188-4c97-9b10-f72be1b174cd.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="300" alt="原创宝可梦生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/70/example_pokemon_strawbit.png" width="300" alt="原创宝可梦生成 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
 
 **提示词**
@@ -1029,9 +1023,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/umesh_ai/status/1915417277953962048)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v=1" width="300" alt="剪影艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/69/example_silhouette_art.png" width="300" alt="剪影艺术 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/cd774f78-6062-43fe-a8da-9e0f9351011b.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v=1" width="300" alt="剪影艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/69/example_silhouette_art.png" width="300" alt="剪影艺术 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -1053,9 +1047,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/hewarsaber/status/1912933875166171515)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="300" alt="未来主义 Logo 交易卡 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/17311aa0-8ec1-4cf1-a3c3-deec3d06f712.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="300" alt="未来主义 Logo 交易卡 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
 
 **提示词**
@@ -1101,9 +1095,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png?v=1" width="300" alt="超写实3D游戏 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="超写实3D游戏 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/471543fd-49b5-4104-94f7-82c98a1b06c0.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png?v=1" width="300" alt="超写实3D游戏 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="超写实3D游戏 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -1129,7 +1123,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
-<img src="cases/66/example_silk_creation_universe.png" width="300" alt="创意丝绸宇宙"><br>
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/ff38f76f-1efe-4420-9bfd-cac7590f7ffb.jpg" width="300">|<img src="https://files.mdnice.com/user/43745/b5fbbf8e-de05-4bcb-8ca2-c93ed1876a20.jpg" width="300">|<img src="cases/66/example_silk_creation_universe.png" width="300" alt="创意丝绸宇宙"><br>|
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -1152,9 +1148,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/madpencil_/status/1920037538372128998)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1" width="300" alt="奇幻水下场景冰棒 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="奇幻水下场景冰棒 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/a4f3c9d0-dfa8-45e4-bf7b-b7788f5d68c8.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1" width="300" alt="奇幻水下场景冰棒 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="奇幻水下场景冰棒 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/madpencil_">@madpencil_</a></sub>
 
 **提示词**
@@ -1175,9 +1171,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="300" alt="蒸汽朋克机械鱼 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/64/example_steampunk_fish.jpg" width="300" alt="蒸汽朋克机械鱼 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/7e2302c1-30ad-4f5a-8a88-bc3eb3f54907.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="300" alt="蒸汽朋克机械鱼 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/64/example_steampunk_fish.jpg" width="300" alt="蒸汽朋克机械鱼 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/f-is-h">@f-is-h</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
 
 **提示词**
@@ -1206,9 +1202,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png?v=1" width="300" alt="Emoji 奶油雪糕 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Emoji 奶油雪糕 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/720ebe4b-8537-4127-bbed-8312dc56b8a5.png" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png?v=1" width="300" alt="Emoji 奶油雪糕 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Emoji 奶油雪糕 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -1230,9 +1226,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/gnrlyxyz/status/1914303110853583302)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png?v=1" width="300" alt="可爱珐琅别针 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/62/example_enamel_pins_einstein.png" width="300" alt="可爱珐琅别针 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3b458b35-48bd-4809-981c-de610bf01909.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png?v=1" width="300" alt="可爱珐琅别针 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/62/example_enamel_pins_einstein.png" width="300" alt="可爱珐琅别针 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gnrlyxyz">@gnrlyxyz</a></sub>
 
 **提示词**
@@ -1255,9 +1251,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1914299716394778713)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="300" alt="虚构推文截图 (爱因斯坦) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/61/example_fake_tweet_einstein.png" width="300" alt="虚构推文截图 (爱因斯坦) (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3f2f44c2-287a-4207-8842-0aa8886ce138.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="300" alt="虚构推文截图 (爱因斯坦) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/61/example_fake_tweet_einstein.png" width="300" alt="虚构推文截图 (爱因斯坦) (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -1278,9 +1274,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/gizakdag/status/1913925062568144924)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png?v=1" width="300" alt="Emoji 簇绒地毯 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Emoji 簇绒地毯 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/f0aa69e9-54a3-4244-9bcc-a5369de6dac8.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png?v=1" width="300" alt="Emoji 簇绒地毯 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Emoji 簇绒地毯 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **提示词**
@@ -1302,9 +1298,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/michaelrabone/status/1913865394139316291)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="300" alt="彩色矢量艺术海报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/59/example_vector_poster_london.png" width="300" alt="彩色矢量艺术海报 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/255251c0-c830-42a4-84e4-8e0495fc3080.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="300" alt="彩色矢量艺术海报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/59/example_vector_poster_london.png" width="300" alt="彩色矢量艺术海报 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
 
 **提示词**
@@ -1326,9 +1322,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/umesh_ai/status/1913628737872027805)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1" width="300" alt="云彩艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="云彩艺术 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3aee3107-38b2-4651-8092-c03b7b08237a.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1" width="300" alt="云彩艺术 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="云彩艺术 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
@@ -1350,9 +1346,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1913654508330058064)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="300" alt="8位像素图标 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/57/example_8bit_pixel_beer.png" width="300" alt="8位像素图标 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/e6a3c828-dc7b-48c5-aba3-9d486deda253.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="300" alt="8位像素图标 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/57/example_8bit_pixel_beer.png" width="300" alt="8位像素图标 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -1374,9 +1370,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1913759515700285569)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png?v=1" width="300" alt="迷你 3D 建筑 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="迷你 3D 建筑 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/4e9ae7b4-d285-4f5f-a5f6-3d9a19cb6d04.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png?v=1" width="300" alt="迷你 3D 建筑 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="迷你 3D 建筑 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1398,9 +1394,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/azed_ai/status/1923739813414568075)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1" width="300" alt="创意绿植花盆 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/55/cute_plant_planter.png" width="300" alt="创意绿植花盆 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/cc2ddef0-c4a2-4e9f-91d9-9c9a04ab0bff.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1" width="300" alt="创意绿植花盆 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/55/cute_plant_planter.png" width="300" alt="创意绿植花盆 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
@@ -1422,9 +1418,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/jiamimaodashu/status/1912653073190879410)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1" width="300" alt="“极其平凡”的iPhone自拍 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="“极其平凡”的iPhone自拍 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/0f2c8ca8-766e-4936-a3b8-9c9b372a2fef.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1" width="300" alt="“极其平凡”的iPhone自拍 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="“极其平凡”的iPhone自拍 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/jiamimaodashu">@jiamimaodashu</a></sub>
 
 **提示词**
@@ -1446,9 +1442,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/gizakdag/status/1912858535643197927)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png?v=1" width="300" alt="Emoji 充气感靠垫 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/53/example_emoji_cushion_pleading.png" width="300" alt="Emoji 充气感靠垫 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/0d7e3e73-af14-4649-9d70-2c5d90f6812d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png?v=1" width="300" alt="Emoji 充气感靠垫 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/53/example_emoji_cushion_pleading.png" width="300" alt="Emoji 充气感靠垫 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **提示词**
@@ -1470,9 +1466,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1912521263085482464)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="300" alt="纸艺风格 Emoji 图标 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/52/example_paper_craft_emoji_fire.png" width="300" alt="纸艺风格 Emoji 图标 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/58f2218b-c6c9-4a5d-a318-71a9f236f961.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="300" alt="纸艺风格 Emoji 图标 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/52/example_paper_craft_emoji_fire.png" width="300" alt="纸艺风格 Emoji 图标 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -1494,9 +1490,9 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/M_w14_/status/1912146666410459618) | [原文链接2](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png?v=1" width="300" alt="护照入境印章 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/51/example_passport_stamp_rome.png" width="300" alt="护照入境印章 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/9ac98cdd-1e01-4ffd-9f1e-400cc67480ad.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png?v=1" width="300" alt="护照入境印章 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/51/example_passport_stamp_rome.png" width="300" alt="护照入境印章 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/M_w14_">@M_w14_</a></sub>
 
 **提示词**
@@ -1518,9 +1514,9 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/op7418/status/1912782048160542886) | [原文链接2](https://x.com/hc_dsn/status/1912367201476309396)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png?v=1" width="300" alt="物理破坏效果卡片 (劳拉) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/50/example_lara_croft_card_break.png" width="300" alt="物理破坏效果卡片 (劳拉) (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/5f012478-4c74-43f3-a431-0965e8454e63.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png?v=1" width="300" alt="物理破坏效果卡片 (劳拉) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/50/example_lara_croft_card_break.png" width="300" alt="物理破坏效果卡片 (劳拉) (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **提示词**
@@ -1542,9 +1538,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1912536019905233194)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1" width="300" alt="时尚杂志封面风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/49/example_fashion_design_cover.png" width="300" alt="时尚杂志封面风格 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/13ec238d-7b39-49ad-a05a-efc546758a93.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1" width="300" alt="时尚杂志封面风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/49/example_fashion_design_cover.png" width="300" alt="时尚杂志封面风格 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1565,9 +1561,9 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/BrettFromDJ/status/1910387413404234076) | [原文链接2](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png?v=1" width="300" alt="体素风格 3D 图标转换 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/48/example_voxel_icon.png" width="300" alt="体素风格 3D 图标转换 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/6df9f916-1290-4ce9-a629-5b182e826c89.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png?v=1" width="300" alt="体素风格 3D 图标转换 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/48/example_voxel_icon.png" width="300" alt="体素风格 3D 图标转换 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/BrettFromDJ">@BrettFromDJ</a></sub>
 
 **提示词**
@@ -1593,9 +1589,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1911368319212408926)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="300" alt="键盘ESC 键帽微型立体模型 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/47/example_esc_keycap_diorama.png" width="300" alt="键盘ESC 键帽微型立体模型 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/5aae18fe-cc62-4ccc-8a7f-acdea68b541e.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="300" alt="键盘ESC 键帽微型立体模型 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/47/example_esc_keycap_diorama.png" width="300" alt="键盘ESC 键帽微型立体模型 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
@@ -1621,9 +1617,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-iw-Sugn5aVfAVnJxGSU_e.png?v=1" width="300" alt="快乐胶囊制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/46/example_happy_capsule.png" width="300" alt="快乐胶囊制作 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/fb7e0f0b-23c0-4678-8cb3-aa5dbd2d343c.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-iw-Sugn5aVfAVnJxGSU_e.png?v=1" width="300" alt="快乐胶囊制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/46/example_happy_capsule.png" width="300" alt="快乐胶囊制作 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -1647,9 +1643,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1911988003729203648)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1" width="300" alt="3D Q版大学拟人化形象 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/45/example_university_mascot_npu.png" width="300" alt="3D Q版大学拟人化形象 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/015de461-60fc-4626-be2c-17df704f1327.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1" width="300" alt="3D Q版大学拟人化形象 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/45/example_university_mascot_npu.png" width="300" alt="3D Q版大学拟人化形象 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1671,9 +1667,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/berryxia_ai/status/1911334046724165905)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4fs3Id9SWxlM-gUGoQ9Pl.png?v=1" width="300" alt="RPG 风格角色卡片制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/44/example_rpg_card_designer.png" width="300" alt="RPG 风格角色卡片制作 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/5edcae28-9be4-4ca5-ab1f-5eb7d54534f0.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4fs3Id9SWxlM-gUGoQ9Pl.png?v=1" width="300" alt="RPG 风格角色卡片制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/44/example_rpg_card_designer.png" width="300" alt="RPG 风格角色卡片制作 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **提示词**
@@ -1703,9 +1699,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png?v=1" width="300" alt="Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/734e8680-ed72-4f38-8b70-6efa7239cfa4.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png?v=1" width="300" alt="Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -1727,9 +1723,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/balconychy/status/1909908568129655248)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-MoV0NzeVQ2AZEaSbMYqfl.png?v=1" width="300" alt="3D Q版情侣水晶球 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="3D Q版情侣水晶球 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/f6fdc18f-1e49-4598-bbf1-de852f05cff1.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-MoV0NzeVQ2AZEaSbMYqfl.png?v=1" width="300" alt="3D Q版情侣水晶球 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="3D Q版情侣水晶球 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
@@ -1751,7 +1747,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1911609122547449886)
 
-<img src="cases/41/example_miniature_journey_west.png" width="300" alt="Q版孙悟空三打白骨精微型立体场景，移轴摄影风格"><br>
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/88e5879d-4456-4519-af6b-8270bb3eb369.jpg" width="300">|<img src="https://files.mdnice.com/user/43745/fc690728-9c25-441d-8c46-f825416cf675.jpg" width="300">|<img src="cases/41/example_miniature_journey_west.png" width="300" alt="Q版孙悟空三打白骨精微型立体场景，移轴摄影风格"><br>
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1773,9 +1771,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/hellokaton/status/1910900979194646959)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png?v=1" width="300" alt="日系双格漫画 (少女总统红温了) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/40/example_two_panel_manga_president.png" width="300" alt="日系双格漫画 (少女总统红温了) (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3ac249fe-e11e-43e7-8c28-42df70a74c3d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png?v=1" width="300" alt="日系双格漫画 (少女总统红温了) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/40/example_two_panel_manga_president.png" width="300" alt="日系双格漫画 (少女总统红温了) (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
 
 **提示词**
@@ -1815,9 +1813,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1905103477879267823)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-RaHNLaeUbUIIBk4628lgB.png?v=1" width="300" alt="奇幻卡通插画 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/39/example_fantasy_computer_head_portal.png" width="300" alt="奇幻卡通插画 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/fa1485a7-35b8-41ca-aaeb-00ec26dd2329.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-RaHNLaeUbUIIBk4628lgB.png?v=1" width="300" alt="奇幻卡通插画 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/39/example_fantasy_computer_head_portal.png" width="300" alt="奇幻卡通插画 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1838,9 +1836,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1907870919852179850)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png?v=1" width="300" alt="手绘信息图卡片 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/38/example_hand_drawn_infographic.png" width="300" alt="手绘信息图卡片 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/53dea029-6cf4-4abf-ba48-42d8efc9a037.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png?v=1" width="300" alt="手绘信息图卡片 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/38/example_hand_drawn_infographic.png" width="300" alt="手绘信息图卡片 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1867,9 +1865,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/aziz4ai/status/1925301120252924356)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-XwSqExH2NYE4F5AvJ_-X4.png?v=1" width="300" alt="柔和风格3D广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/37/pastel_power_3d_ads.png" width="300" alt="柔和风格3D广告 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/df714795-055c-4f9c-a8e6-df8f80bcc3b3.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-XwSqExH2NYE4F5AvJ_-X4.png?v=1" width="300" alt="柔和风格3D广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/37/pastel_power_3d_ads.png" width="300" alt="柔和风格3D广告 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **提示词**
@@ -1891,9 +1889,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1907131027253772399)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="极简主义 3D 插画 (Markdown 格式) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="极简主义 3D 插画 (Markdown 格式) (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/f1dec488-2c27-4425-b253-515cc43bdcc2.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="极简主义 3D 插画 (Markdown 格式) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="极简主义 3D 插画 (Markdown 格式) (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -1952,9 +1950,9 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/gizakdag/status/1911075302941622512) | [原文链接2](https://x.com/dotey/status/1912276883196039520)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-UDSfh81o50kmjmgX5BuTy.png?v=1" width="300" alt="毛茸茸南瓜灯 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/35/example_fluffy_pumpkin.png" width="300" alt="毛茸茸南瓜灯 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/647f8b75-2e77-4539-b996-dd68bced87ec.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-UDSfh81o50kmjmgX5BuTy.png?v=1" width="300" alt="毛茸茸南瓜灯 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/35/example_fluffy_pumpkin.png" width="300" alt="毛茸茸南瓜灯 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">gizakdag</a></sub>
 
 **提示词**
@@ -1976,9 +1974,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1907903480678985784)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png?v=1" width="300" alt="手绘信息图卡片 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="手绘信息图卡片 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/ae074318-362b-4350-ab63-f0db7280058c.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png?v=1" width="300" alt="手绘信息图卡片 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="手绘信息图卡片 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2009,9 +2007,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/balconychy/status/1909426314643222595)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1" width="300" alt="全家福婚纱照 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/33/example_family_wedding_photo_q.png" width="300" alt="全家福婚纱照 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/4f380f3c-c277-4032-aadc-b146faea14b7.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1" width="300" alt="全家福婚纱照 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/33/example_family_wedding_photo_q.png" width="300" alt="全家福婚纱照 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
@@ -2033,9 +2031,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1923264349050675329)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-dHSoKQFhVLIqAdUKxXzwQ.png?v=1" width="300" alt="折叠式纸雕立体绘本 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/32/3d_papercraft_popup_book.png" width="300" alt="折叠式纸雕立体绘本 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/8b5fb600-fb9b-4298-b07d-c1d1cf2437f0.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-dHSoKQFhVLIqAdUKxXzwQ.png?v=1" width="300" alt="折叠式纸雕立体绘本 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/32/3d_papercraft_popup_book.png" width="300" alt="折叠式纸雕立体绘本 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2057,9 +2055,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/richardchang/status/1909086122959139312)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4.jpeg" width="300" alt="动漫贴纸集合 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/31/example_naruto_stickers.png" width="300" alt="动漫贴纸集合 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/fed480c1-04b0-4f93-86bb-bfb9e78902db.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4.jpeg" width="300" alt="动漫贴纸集合 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/31/example_naruto_stickers.png" width="300" alt="动漫贴纸集合 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/richardchang">@richardchang</a></sub>
 
 **提示词**
@@ -2080,9 +2078,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1905020833451348283)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-YDjMSDxDmJiQmon9y0aQx.png?v=1" width="300" alt="35mm 胶片风格飞岛 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/30/example_35mm_moscow_flying_island.png" width="300" alt="35mm 胶片风格飞岛 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/fc9c03fc-991e-4376-bfb9-436dab314a8d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-YDjMSDxDmJiQmon9y0aQx.png?v=1" width="300" alt="35mm 胶片风格飞岛 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/30/example_35mm_moscow_flying_island.png" width="300" alt="35mm 胶片风格飞岛 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2103,9 +2101,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="名画人物 OOTD (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/29/example_pearl_earring_ootd.png" width="300" alt="名画人物 OOTD (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/f2b49569-d437-4dee-8f51-091550d53d6b.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="名画人物 OOTD (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/29/example_pearl_earring_ootd.png" width="300" alt="名画人物 OOTD (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2132,9 +2130,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_-Z8i4AiVnM8dH6b2eJwc.png?v=1" width="300" alt="扁平贴纸设计 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="扁平贴纸设计 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/645cd68b-1e3c-497a-956a-b6ea06a97ff8.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_-Z8i4AiVnM8dH6b2eJwc.png?v=1" width="300" alt="扁平贴纸设计 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="扁平贴纸设计 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2156,9 +2154,9 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1909800530739679488)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1" width="300" alt="Q 版表情包制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/27/example_chibi_emoji_pack.png" width="300" alt="Q 版表情包制作 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/3b828e46-e7fa-4329-bb59-1b45953a4323.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1" width="300" alt="Q 版表情包制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/27/example_chibi_emoji_pack.png" width="300" alt="Q 版表情包制作 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2188,9 +2186,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-AwueZe4-K5TmsFTdgWEIV.png?v=1" width="300" alt="名画人物麦片广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/26/example_master_oats_ad.png" width="300" alt="名画人物麦片广告 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/50acdbda-94c6-4a2b-9b3d-8e9d3f53ad0f.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-AwueZe4-K5TmsFTdgWEIV.png?v=1" width="300" alt="名画人物麦片广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/26/example_master_oats_ad.png" width="300" alt="名画人物麦片广告 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2212,9 +2210,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/0xdlk/status/1906843247432929642)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-FmnXy_FIA3t2o2JM1Acw7.png?v=1" width="300" alt="极简主义 3D 插画 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/25/example_minimalist_3d_toilet.png" width="300" alt="极简主义 3D 插画 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/0c1517c9-d5f7-4433-8fed-62045e54794d.png" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-FmnXy_FIA3t2o2JM1Acw7.png?v=1" width="300" alt="极简主义 3D 插画 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/25/example_minimalist_3d_toilet.png" width="300" alt="极简主义 3D 插画 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/0xdlk">@0xdlk</a></sub>
 
 **提示词**
@@ -2273,9 +2271,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1909047283485671924)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v=1" width="300" alt="Funko Pop 公仔制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Funko Pop 公仔制作 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/dc29d744-8391-42b7-9255-40eca9eb8779.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v=1" width="300" alt="Funko Pop 公仔制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Funko Pop 公仔制作 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2297,9 +2295,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1909916265067557299)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-pVDpSR1cLa6k7mfIbmmO5.png?v=1" width="300" alt="《泰坦尼克号》模仿 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/23/example_titanic_q_realistic.png" width="300" alt="《泰坦尼克号》模仿 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/91547bae-cbbe-4944-a6df-d4b31c6c46aa.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-pVDpSR1cLa6k7mfIbmmO5.png?v=1" width="300" alt="《泰坦尼克号》模仿 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/23/example_titanic_q_realistic.png" width="300" alt="《泰坦尼克号》模仿 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
@@ -2325,9 +2323,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1905507936526627078)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-JrohnNyUR5N1InLRZ6i--.png?v=1" width="300" alt="小红书封面 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/22/example_notebook_promo.png" width="300" alt="小红书封面 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/4e7923ad-da8c-4cd7-8daf-bfad0db3eda7.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-JrohnNyUR5N1InLRZ6i--.png?v=1" width="300" alt="小红书封面 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/22/example_notebook_promo.png" width="300" alt="小红书封面 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
@@ -2365,9 +2363,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/leon_yuan2001/status/1923712069209293014)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-bO9aE1WYvho9xC8XEFiTX.png?v=1" width="300" alt="Q版角色表情包 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/21/chibi_character_sticker_pack.png" width="300" alt="Q版角色表情包 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/ad8a177e-172d-49bd-95a9-ae8febb524ba.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-bO9aE1WYvho9xC8XEFiTX.png?v=1" width="300" alt="Q版角色表情包 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/21/chibi_character_sticker_pack.png" width="300" alt="Q版角色表情包 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/leon_yuan2001">@leon_yuan2001</a></sub>
 
 **提示词**
@@ -2399,9 +2397,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1920994118580183316)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-bTTNaqHmHzMMpw8IYMM4Q.png?v=1" width="300" alt="手办与真人同框 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/20/action_figure_and_real_person_in_frame.png" width="300" alt="手办与真人同框 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/2ce85769-a4fc-4106-8627-81562ebbd291.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-bTTNaqHmHzMMpw8IYMM4Q.png?v=1" width="300" alt="手办与真人同框 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/20/action_figure_and_real_person_in_frame.png" width="300" alt="手办与真人同框 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2423,9 +2421,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/TheRelianceAI/status/1925223613055017251)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-rzMTo8854xv3HS3hVS88M.png?v=1" width="300" alt="玩具盒中的国家立体模型 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/19/country_diorama_in_toy_box.png" width="300" alt="玩具盒中的国家立体模型 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/720c3db0-e4c8-44bb-b3ca-bbb1cebc6ef1.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-rzMTo8854xv3HS3hVS88M.png?v=1" width="300" alt="玩具盒中的国家立体模型 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/19/country_diorama_in_toy_box.png" width="300" alt="玩具盒中的国家立体模型 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
 
 **提示词**
@@ -2447,9 +2445,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://animeai.online/#demo-gallery)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-fuxTM5hVn0yk_YDur6hZR.png?v=1" width="300" alt="皮克斯3D风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/18/pixar-style-godfather-scene.png" width="300" alt="皮克斯3D风格 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/9147cb62-12d1-4f7c-8ae6-05a9a7173e73.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-fuxTM5hVn0yk_YDur6hZR.png?v=1" width="300" alt="皮克斯3D风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/18/pixar-style-godfather-scene.png" width="300" alt="皮克斯3D风格 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
 
 **提示词**
@@ -2471,9 +2469,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/Gdgtify/status/1925176250626159053)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KBSeWJJB1EetQNuVABsg1.png?v=1" width="300" alt="复古CRT电脑启动屏幕 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/17/retro_crt_computer_boot_screen.png" width="300" alt="复古CRT电脑启动屏幕 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/634ae2f7-28a7-486a-a1e8-3cda558104ad.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KBSeWJJB1EetQNuVABsg1.png?v=1" width="300" alt="复古CRT电脑启动屏幕 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/17/retro_crt_computer_boot_screen.png" width="300" alt="复古CRT电脑启动屏幕 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Gdgtify">@Gdgtify</a></sub>
 
 **提示词**
@@ -2495,9 +2493,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Ca-5YJ46y4a9sscNaxYEu.png?v=1" width="300" alt="二次元风格徽章 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/16/anime_style_badge.png" width="300" alt="二次元风格徽章 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/b4764b3d-8fb0-461b-9dc3-98d819361d91.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Ca-5YJ46y4a9sscNaxYEu.png?v=1" width="300" alt="二次元风格徽章 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/16/anime_style_badge.png" width="300" alt="二次元风格徽章 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Alittlefatwhale">@Alittlefatwhale</a></sub>
 
 **提示词**
@@ -2522,9 +2520,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-xGmNg1hgJY0uyFt3rz2cK.png?v=1" width="300" alt="讽刺海报生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/15/example_gpt_involution_poster.png" width="300" alt="讽刺海报生成 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/e6c6f5a4-7d84-4377-9a6f-6f0838378978.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-xGmNg1hgJY0uyFt3rz2cK.png?v=1" width="300" alt="讽刺海报生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/15/example_gpt_involution_poster.png" width="300" alt="讽刺海报生成 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2545,9 +2543,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1909047547563213145)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NvCTQQUq05OW6oKH5qwRq.png?v=1" width="300" alt="《海贼王》主题手办制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/14/example_one_piece_figure_creation.png" width="300" alt="《海贼王》主题手办制作 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/479358a9-0523-4188-b61e-7cf3543c41a9.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NvCTQQUq05OW6oKH5qwRq.png?v=1" width="300" alt="《海贼王》主题手办制作 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/14/example_one_piece_figure_creation.png" width="300" alt="《海贼王》主题手办制作 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2570,9 +2568,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1908194518345678865)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-DT8wukx2fHHcrxXQosaRL.png?v=1" width="300" alt="3D Q版风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/13/example_photo_to_3d_q.png" width="300" alt="3D Q版风格 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/9905ffa0-489b-4ff9-a708-c4cc0b6dde0e.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-DT8wukx2fHHcrxXQosaRL.png?v=1" width="300" alt="3D Q版风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/13/example_photo_to_3d_q.png" width="300" alt="3D Q版风格 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2594,9 +2592,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1909332895115714835)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-YWXXlSDRM9VTziQ-IA2WS.png?v=1" width="300" alt="3D 情侣珠宝盒摆件 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/12/example_3d_collectible_couple_box.png" width="300" alt="3D 情侣珠宝盒摆件 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/fb44c768-506e-49e3-8653-7b005e7195e9.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-YWXXlSDRM9VTziQ-IA2WS.png?v=1" width="300" alt="3D 情侣珠宝盒摆件 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/12/example_3d_collectible_couple_box.png" width="300" alt="3D 情侣珠宝盒摆件 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2621,9 +2619,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1904978767090524372)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-grand.jpeg" width="300" alt="PS2 游戏封面 (GTA x Shrek) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/11/example_ps2_gta_shrek.png" width="300" alt="PS2 游戏封面 (GTA x Shrek) (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/c14057f3-a00d-4d2f-9888-e651e0df84a9.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-grand.jpeg" width="300" alt="PS2 游戏封面 (GTA x Shrek) (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/11/example_ps2_gta_shrek.png" width="300" alt="PS2 游戏封面 (GTA x Shrek) (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2644,9 +2642,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1910514811756065159)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v=1" width="300" alt="讽刺漫画生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/10/example_maga_hat_cartoon.png" width="300" alt="讽刺漫画生成 (Gemini版) - GPT-4o"> |
+|Seedream4.0|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/c14057f3-a00d-4d2f-9888-e651e0df84a9.jpg" width="300">|<img src="https://files.mdnice.com/user/43745/aac9e6f5-08ef-4a46-9384-689d7a94071d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v=1" width="300" alt="讽刺漫画生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/10/example_maga_hat_cartoon.png" width="300" alt="讽刺漫画生成 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2667,9 +2665,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-DtLAhr11gXRLHpr6gewDw.png?v=1" width="300" alt="极简未来主义海报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/9/minimalist_futurist_poster.png" width="300" alt="极简未来主义海报 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/7befcc6d-096e-40c6-bb2c-3709219f9927.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-DtLAhr11gXRLHpr6gewDw.png?v=1" width="300" alt="极简未来主义海报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/9/minimalist_futurist_poster.png" width="300" alt="极简未来主义海报 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2703,9 +2701,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini--GfTzdWQbEMLDiJiRLZ0T.png?v=1" width="300" alt="乐高收藏品 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/8/example_lego_collectible.png" width="300" alt="乐高收藏品 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/922737d9-5cf8-48ac-b1c0-7ec18297f0e6.png" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini--GfTzdWQbEMLDiJiRLZ0T.png?v=1" width="300" alt="乐高收藏品 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/8/example_lego_collectible.png" width="300" alt="乐高收藏品 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2735,9 +2733,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-gjew3NuDghjCdTN4hNcAd.png?v=1" width="300" alt="个性化房间设计 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/7/example_personalized_room.png" width="300" alt="个性化房间设计 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/1c867ece-2084-43a4-ae2f-ea14a25b00ce.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-gjew3NuDghjCdTN4hNcAd.png?v=1" width="300" alt="个性化房间设计 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/7/example_personalized_room.png" width="300" alt="个性化房间设计 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
@@ -2759,9 +2757,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1908910838636765204)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_NKwGXWrnvn2lkTyd9BcW.png?v=1" width="300" alt="角色穿越传送门 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/6/example_portal_crossing_handhold.png" width="300" alt="角色穿越传送门 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/1f6145f7-e82f-4f25-b2f5-7559250cd53d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_NKwGXWrnvn2lkTyd9BcW.png?v=1" width="300" alt="角色穿越传送门 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/6/example_portal_crossing_handhold.png" width="300" alt="角色穿越传送门 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2783,9 +2781,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://animeai.online/#demo-gallery)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-X0RI3ZzR8ycbFfn-1fHDY.png?v=1" width="300" alt="吉卜力风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/5/ghibli-style-mona-lisa.png" width="300" alt="吉卜力风格 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/6af6980f-b89d-44cb-b8f3-b50fdb8bd471.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-X0RI3ZzR8ycbFfn-1fHDY.png?v=1" width="300" alt="吉卜力风格 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/5/ghibli-style-mona-lisa.png" width="300" alt="吉卜力风格 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
 
 **提示词**
@@ -2808,9 +2806,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1909418699150237917)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xLsI7aK4zyVWcRwJ46a2E.png?v=1" width="300" alt="3D Q版中式婚礼图 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/4/example_q_chinese_wedding.png" width="300" alt="3D Q版中式婚礼图 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/2c30c6e9-bb05-4efc-a9fd-73658ce9ac0e.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xLsI7aK4zyVWcRwJ46a2E.png?v=1" width="300" alt="3D Q版中式婚礼图 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/4/example_q_chinese_wedding.png" width="300" alt="3D Q版中式婚礼图 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
@@ -2832,9 +2830,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1905251524248248650)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1" width="300" alt="复古宣传海报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/3/example_vintage_poster.png" width="300" alt="复古宣传海报 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/26a70e33-deba-4c0f-af31-26be40717dff.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1" width="300" alt="复古宣传海报 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/3/example_vintage_poster.png" width="300" alt="复古宣传海报 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2855,9 +2853,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1908238003169903060)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="300" alt="3D Q版人物立体相框 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/2/example_polaroid_breakout.png" width="300" alt="3D Q版人物立体相框 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/d47c9652-8fcf-40c7-ab3b-d837191c0740.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="300" alt="3D Q版人物立体相框 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/2/example_polaroid_breakout.png" width="300" alt="3D Q版人物立体相框 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
@@ -2879,9 +2877,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1909417750587486469)
 
-| Gemini | GPT-4o |
-|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--2q-4vkvHtiJCtvj9cQGr.png?v=1" width="300" alt="Q版求婚场景 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/1/example_proposal_scene_q_realistic.png" width="300" alt="Q版求婚场景 (Gemini版) - GPT-4o"> |
+|Seedream4.0| Gemini | GPT-4o |
+|--------|--------|--------|
+|<img src="https://files.mdnice.com/user/43745/6f0bd5fa-fde4-4947-a900-ebef7b86aea7.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--2q-4vkvHtiJCtvj9cQGr.png?v=1" width="300" alt="Q版求婚场景 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/1/example_proposal_scene_q_realistic.png" width="300" alt="Q版求婚场景 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
