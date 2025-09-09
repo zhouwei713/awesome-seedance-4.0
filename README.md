@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# Awesome 🍌 Nano Banana Images ✨
+# Awesome 即梦4.0（Seedream）🍌 Nano Banana Images ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
@@ -8,25 +8,25 @@
   <img src="https://img.shields.io/github/stars/JimmyLv/awesome-nano-banana?style=social" alt="GitHub stars">
 </a>
 
-🎉 欢迎来到 🍌 Nano Banana 图片精选！
+🎉 欢迎来到 Seedream 4.0 & 🍌 Nano Banana & gpt4o-images/cases/1/example_proposal_scene_q_realistic 图片精选！
 
-这是一个精选的 Gemini-2.5-Flash-Image（也称为 Nano Banana）生成图像与提示词合集。借助 Google 的前沿图像生成模型，全面展示 Gemini 在 AI 图像生成与编辑方面的先进能力，并不断探索创意表达的新可能。
+这是一个精选的 Seedream 4.0、Gemini-2.5-Flash-Image（也称为 Nano Banana）生成图像与提示词合集。借助 字节和 Google 的前沿图像生成模型，全面展示 Seedream Gemini 在 AI 图像生成与编辑方面的先进能力，并不断探索创意表达的新可能。
 
 案例主要来源于 Twitter/X 🐦 和各大 AI 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
-💡 **推荐工具**：想要快速体验各种 AI 图像生成模型？推荐使用 [chatimg.ai](https://chatimg.ai) 网站，同时支持 GPT-4o、Gemini、Flux、Grok 等主流模型的图像生成，提供超多精美模板，并支持自定义提示词创作！
+💡 **推荐工具**：想要快速体验各种 AI 图像生成模型？推荐使用 [AskManyAI](https://askmany.cn/login?i=cd304877) 网站，同时支持 GPT-4o、Gemini、Flux、Grok 等主流模型的图像生成，提供超多精美模板，并支持自定义提示词创作！
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
 ---
 ## 🤖 Gemini vs GPT-4o 对比版本
 
-本文档已更新，包含了 97 个使用 Gemini 模型重新生成的案例对比。每个更新的案例都展示了：
-- 📊 **左右对比**: GPT-4o 原图 vs Gemini 生成图
+本文档已更新，包含了 100 个使用 Seedream4.0 模型重新生成的案例对比。每个更新的案例都展示了：
+- 📊 **左中右对比**: GPT-4o 原图 vs Gemini 生成图 vs Seedream4.0 生成图
 - 🔧 **技术细节**: Token 使用、生成时间等统计信息
-- 🎨 **视觉差异**: 两个模型在相同提示词下的不同表现
+- 🎨 **视觉差异**: 三个模型在相同提示词下的不同表现
 
-更新时间: 2025/8/30 22:08:15
+更新时间: 2025/9/9 22:08:15
 
 ---
 
@@ -45,6 +45,17 @@
 
 
 ---
+
+<a id="seedream-4.0-intro"></a>
+## 🌟 Seedream 4.0 介绍
+
+Seedream 4.0 首次支持多模态生图，同一模型实现 文生图、图像编辑、多图融合、组图生成。能够通过自然语言灵活控制画面细节。
+
+- 🎯 **文生图**：更强的指令遵循，更高的分辨率支持，更快的生成速度(2K生图用时不到1.8s)
+- 🔧 **图像编辑**：输入单/多张图片+自然语言指令，即可进行任何形式的编辑修改
+- 🌐 **多图融合**：一次性输入多张图像，支持 组合、迁移、替换、衍生 等复合编辑，实现高难度合成
+- 🎬 **组图生成**：一次性生成多张具备关联性的图像，你的灵感脑暴好帮手
+- ✨ **协作式创作**：从"主仆对话"进化为创作者间的"灵感沟通"
 
 <a id="nano-banana-intro"></a>
 ## 🍌 Nano Banana 介绍
@@ -186,7 +197,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 [原文链接](https://x.com/azed_ai/status/1923016036120658122)
 
 
-|Seednace4.0| Gemini   | GPT-4o |
+|Seedream4.0| Gemini   | GPT-4o |
 |--------|--------|--------|
 |<img src="https://files.mdnice.com/user/43745/fd6666c7-c140-4ac6-82f3-251921f6f0d0.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
@@ -2642,9 +2653,9 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1910514811756065159)
 
-|Seedream4.0|Seedream4.0| Gemini | GPT-4o |
+|Seedream4.0| Gemini | GPT-4o |
 |--------|--------|--------|--------|
-|<img src="https://files.mdnice.com/user/43745/c14057f3-a00d-4d2f-9888-e651e0df84a9.jpg" width="300">|<img src="https://files.mdnice.com/user/43745/aac9e6f5-08ef-4a46-9384-689d7a94071d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v=1" width="300" alt="讽刺漫画生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/10/example_maga_hat_cartoon.png" width="300" alt="讽刺漫画生成 (Gemini版) - GPT-4o"> |
+|<img src="https://files.mdnice.com/user/43745/aac9e6f5-08ef-4a46-9384-689d7a94071d.jpg" width="300">| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v=1" width="300" alt="讽刺漫画生成 (Gemini版) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/10/example_maga_hat_cartoon.png" width="300" alt="讽刺漫画生成 (Gemini版) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
